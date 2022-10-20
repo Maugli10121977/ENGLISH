@@ -1,0 +1,73 @@
+I - Я
+speak - говорить (на языке)
+English - англйский (язык)
+can - могу, умею
+understand - понимать
+you - ты, тебе
+it - это; оно
+very - очень
+well - хорошо
+work - работа, работать
+study - учиться
+and - и
+learn - изучать
+like - нравиться
+this - этот
+online - онлайн
+place - место
+city - город (мегаполис)
+town - город (маленький)
+live - жить
+in - в
+Russia - Россия
+New York - Нью-Йорк
+country - страна
+we - мы
+they - они
+help - помощь, помогать
+me - меня, мне
+really - действительно, реально; очень
+want - хотеть
+lesson - урок
+video - видео
+program - программа
+see - видеть
+my - мой
+result - результат
+Russian - русский (язык)
+know - знать
+go - идти, ехать
+to - в; к
+school - школа
+often - часто
+here - здесь; сюда
+there - там; туда
+language - язык (речь)
+every - каждый
+day - день
+do - делать
+travel - путешествовать
+year - год
+travelling - путешествие
+game - игра
+play - играть
+football - футбол
+so - так, такой
+also - также; тоже
+think - думать
+about - о, об
+sometimes - иногда
+love - любить, любовь
+song - песня
+music - музыка
+read - читать
+book - книга
+more - больше
+much - много (для неисчисляемых); сильно
+less - меньше
+practice - практика
+these - эти
+those - те
+usually - обычно
+buy - купить, покупать
+thing - вещь

@@ -1,0 +1,44 @@
+apple - яблоко
+boy - мальчик
+brother - брат
+bus - автобус
+car - машина
+free - бесплатный; свободный
+girl - девочка, девушка
+have - иметь
+hotel - отель
+house - дом
+build - строить
+building - строительство; здание
+job - работа (оплачиваемая)
+man - мужчина
+money - деньги
+one - один
+orange - апельсин
+question - вопрос
+sister - сестра
+some - некоторые; несколько; немного
+teacher - учитель
+time - время
+two - два
+university - университет
+woman - женщина
+your - твой, ваш
+bank - банк
+coffee - кофе
+computer - компьютер
+different - разные, различные
+drink - пить
+eat - есть, принимать пищу
+exercise - упражнение
+family - семья
+fish - рыба
+juice - сок
+milk - молоко
+motivation - мотивация
+progress - прогресс
+sport - спорт
+student - студент
+taxi - такси
+tea - чай
+water - вода

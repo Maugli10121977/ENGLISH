@@ -1,0 +1,18 @@
+address - адрес
+again - опять, снова
+another - другой
+bad - плохой
+because - потому что
+communicate - общаться
+fast - быстро; быстрый
+get - получать
+good - хороший
+name - имя
+need - нуждаться; необходимость, потребность
+other - другие
+prefer - предпочитать
+professionally - профессионально
+remember - помнить
+slowly - медленно
+website - сайт
+who - кто; кого; который, которые (о людях)

@@ -1,0 +1,21 @@
+actor - актёр
+actress - актриса
+change - менять
+cheap - дешёвый
+discuss - обсуждать
+expensive - дорогой
+five - пять
+forty - сорок
+from - из
+hundred - сто
+important - важный
+listen (to) - слушать
+look - смотреть; выглядеть
+method - метод
+phone - телефон
+seem - казаться
+seven - семь
+strange - странный
+than - (больше/меньше) чем
+thirty - тридцать
+thousand - тысяча

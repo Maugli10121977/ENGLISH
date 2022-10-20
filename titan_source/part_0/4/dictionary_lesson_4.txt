@@ -1,0 +1,27 @@
+airport - аэропорт
+apartment - квартира
+flat - квартира (брит.)
+cake - торт; пирожное
+kid - ребёнок (неформал.)
+child - ребёнок
+children - дети
+chocolate - шоколад
+daughter - дочь
+four - четыре
+German - немецкий (язык)
+meat - мясо
+men - мужчины
+seafood - морепродукты
+son - сын
+Spanish - испанский (язык)
+three - три
+women - женщины
+boyfriend - парень (любимый)
+ice cream - мороженое
+foreign - иностранный
+girlfiend - девушка (любимая)
+hospital - госпиталь, больница
+pizza - пицца
+swim - плавать
+swimming - плавание
+knowledge - знания
