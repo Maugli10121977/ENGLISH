@@ -21,7 +21,7 @@
 Я понимаю твой вопрос. - I understand your question.
 У меня есть проблема. - I have a problem.
 Я вижу женщину. - I see a woman.
-У меня есть время. - I have time. /*
+У меня есть время. - I have time.
 Я вижу университет. - I see a univercity.
 У меня есть некоторые вопросы. - I have some questions.
 Я вижу автобус. - I see a bus.
@@ -104,6 +104,6 @@
 Я вижу книгу. - I see a book.
 Я действительно люблю спорт. - I really love sport.
 Они пьют кофе. - They drink coffee.
-Я хочу больше упражнений. - I want more exersices. /*
+Я хочу больше упражнений. - I want more exersices.
 Мне нравится музыка. - I like music.
 Я вижу того студента. - I see that student.
