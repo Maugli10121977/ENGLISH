@@ -19,7 +19,7 @@
 Он видит эту проблему. - He sees this problem.
 Она знает это лучше. - She knows it better.
 Он ходит на работу. - He goes to work.
-Она понимает это. - She goes to work.
+Она понимает это. - She understands it.
 Я действительно хочу это. - I really want it.
 Я полностью с тобой согласен. - I absolutely agree with you.
 Она хочет это. - She wants it.
@@ -48,7 +48,7 @@
 Он знает английский. - He knows English.
 Это стоит больше. - It costs more.
 Я знаю, что это стоит больше. - I know that it costs more.
-Я думаю, он говорит по-английски очень хорошо. - I think he speak English very well.
+Я думаю, он говорит по-английски очень хорошо. - I think he speaks English very well.
 Он часто говорит это. - He often says it.
 Я знаю, как это работает. - I know how it works.
 Я думаю, это очень хорошо работает. - I think it work very well.
@@ -67,10 +67,10 @@
 Это помогает тебе так сильно. - It helps you so much.
 Я работаю так много. - I work so much.
 Она работает так много. - She works so much.
-Ты работаешь слишком много. - You work so much.
+Ты работаешь слишком много. - You work too much.
 Это помогает мне. - It helps me.
 Они помогают мне. - They help me.
-Я иногда говорю это. - I usually say it.
+Я иногда говорю это. - I sometimes say it.
 Он иногда говорит это. - He sometimes says it.
 Я слышу тебя. - I hear you.
 Я слышу их. - I hear them.
