@@ -1,0 +1,18 @@
+application - приложение
+clothes - одежда
+come - приходить
+cook - готовить (еду)
+cooking - готовка (еды)
+early - рано
+enough - достаточно
+get up - вставать
+group - группа
+home - (идти, приходить) домой
+late - поздно
+order - заказывать, заказ
+pet - домашнее животное
+profession - профессия
+recommend - рекомендовать
+shop - магазин
+toy - игрушка
+wake up - просыпаться
