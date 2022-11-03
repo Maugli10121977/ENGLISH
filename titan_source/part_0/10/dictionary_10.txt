@@ -7,6 +7,7 @@ expensive - дорогой
 five - пять
 forty - сорок
 from - из
+from here - отсюда
 hundred - сто
 important - важный
 listen (to) - слушать
