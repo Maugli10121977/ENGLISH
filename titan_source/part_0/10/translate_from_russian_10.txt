@@ -1,99 +1,99 @@
-Он живёт в том доме? - 
-Это кажется очень странным? - 
-Он учится? - 
-Это кажется важным? - 
-Ты живёшь рядом с этим местом? - 
-Он живёт в другой стране? - 
-У него есть девушка? - 
-У него есть свободное время? - 
-Это стоит три тысячи фунтов? - 
-Она чувствует себя счастливой? - 
-Он живёт в доме? - 
-Это стоит сорок фунтов? - 
-Это кажется странным? - 
-Это стоит тридцать евро? - 
-Это действительно помогает тебе? - 
-Он живёт очень далеко отсюда? - 
-Ты живёшь далеко? -
-У неё есть парень? -
-Он выглядит счастливым? - 
-Это помогает тебе? - 
-Он работает? - 
-Это беспокоит тебя? - 
-Это стоит семьсот евро? - 
-У неё есть собака? - 
-Ты живёшь рядом? - 
-Ему нравится тот метод? - 
-Это стоит больше? - 
-Она живёт в другом месте? - 
-У него есть машина? - 
-Это кажется интересным? - 
-Это кажется очень важным? - 
-Ей нравится этот метод? - 
-У него есть кот? - 
-Он живёт около того места? - 
-Это действительно тебя беспокоит? - 
-Ты живёшь в доме? - 
-Это кажется скучным? - 
-Она живёт в квартире? - 
-Это стоит пятьсот долларов? - 
-Он занимается бизнесом? - 
-Это кажется действительно странным? - 
-Это стоит больше, чем сто долларов? - 
-Вы живёте вместе? - 
-Он видит их? - 
-Он чувствует, что это действительно помогает ему? - 
-Он тебе помогает? - 
-Он покупает очень дешёвые вещи? - 
-Ты часто слушаешь музыку? - 
-Он делает так много ошибок? - 
-Это действительно интересует тебя? - 
-Он покупает те вещи? - 
-Вы часто проводите время вместе? - 
-Он хочет стать актёром? - 
-Он работает или учится? - 
-Это стоит меньше, чем двести долларов? - 
-Он помогает ему? - 
-Он тоже так думает? - 
-Они тоже так думают? - 
-Она тоже так думает? - 
-Она хочет это обсудить? - 
-Ты хочешь это обсудить? - 
-Он хочет это обсудить? - 
-Она покупает более хорошие вещи? - 
-Он покупает очень дорогие вещи? - 
-Ты покупаешь очень дорогие вещи? - 
-Он делает разные упражнения? - 
-Она делает разные упражнения? - 
-Ты делаешь разные упражнения? - 
-Она тоже делает это? - 
-Они тоже делают это? - 
-Ему тоже это нравится? - 
-Это действительно мотивитует тебя? - 
-Это действительно мотивирует их? - 
-Это мотивирует тебя? - 
-Это  стоит так много денег? - 
-Это стоит более трёхсот долларов? - 
-Он часто звонит тебе? - 
-Ты часто звонишь ему? - 
-Она часто звонит им? - 
-Он хочет сменить свою работу? - 
-Ты хочешь сменить свою работу? - 
-Это интересует тебя? - 
-Это интересует его. -
-Это интересует их? - 
-Она хочет быть актрисой? - 
-Это мотивирует его? -
-Он помогает своему другу? -
-Он учится или работает? - 
-Это стоит больше, чем тысячу евро? - 
-Она хочет поменять свою работу? - 
-Она хочет найти новую работу? -
-Он хочет посмотреть этот фильм? - 
-Она часто слушает музыку? - 
-Она покупает дорогие вещи? - 
-Она тренируется очень интенсивно? - 
-Ты часто разговариваешь по телефону? - 
-Ей нравится та музыка? -
-У него есть какие-либо братья или сёстры? - 
-Это стоит меньше, чем пятьсот долларов? - 
+Он живёт в том доме? - Does he live in that house?
+Это кажется очень странным? - Does it seem very strange?
+Он учится? - Does he study?
+Это кажется важным? - Does it seem important?
+Ты живёшь рядом с этим местом? - Do you live near this place?
+Он живёт в другой стране? - Does he live in another country?
+У него есть девушка? - Does he have a girlfriend?
+У него есть свободное время? - Does he have free time?
+Это стоит три тысячи фунтов? - Does it cost three thousand pounds?
+Она чувствует себя счастливой? - Does she feel happy?
+Он живёт в доме? - Does he live in a house?
+Это стоит сорок фунтов? - Does it cost forty pounds?
+Это кажется странным? - Does it seem strange?
+Это стоит тридцать евро? - Does it cost thirty euros?
+Это действительно помогает тебе? - Does it really help you?
+Он живёт очень далеко отсюда? - Does he live very far from here?
+Ты живёшь далеко? - Do you live far?
+У неё есть парень? - Does she have a boyfriend?
+Он выглядит счастливым? - Does he look happy?
+Это помогает тебе? - Does it help you?
+Он работает? - Does he work?
+Это беспокоит тебя? - Does it worry you?
+Это стоит семьсот евро? - Does it cost seven hundred euros?
+У неё есть собака? - Does she have a dog?
+Ты живёшь рядом? - Do you live near?
+Ему нравится тот метод? - Does he like that method?
+Это стоит больше? - Does it cost more?
+Она живёт в другом месте? - Does she live in another place?
+У него есть машина? - Does he have a car?
+Это кажется интересным? - Does it seem intresting?
+Это кажется очень важным? - Does it seem important?
+Ей нравится этот метод? - Does she like this method?
+У него есть кот? - Does he have a cat?
+Он живёт около того места? - Does he live near that place?
+Это действительно тебя беспокоит? - Does it really worry you?
+Ты живёшь в доме? - Do you live in a house?
+Это кажется скучным? - Does it seem boring?
+Она живёт в квартире? - Does she live in an apartment?
+Это стоит пятьсот долларов? - Does it cost five hundred dollars?
+Он занимается бизнесом? - Does he do business?
+Это кажется действительно странным? - Does it really seem strange?
+Это стоит больше, чем сто долларов? - Does it cost more than one hundred dollars?
+Вы живёте вместе? - Do you live together?
+Он видит их? - Does he see them?
+Он чувствует, что это действительно помогает ему? - Does he fell that it really helps him?
+Он тебе помогает? - Does he help you?
+Он покупает очень дешёвые вещи? - Does he buy very cheap things?
+Ты часто слушаешь музыку? - Do you often listen to music?
+Он делает так много ошибок? - Does he make so many mistakes?
+Это действительно интересует тебя? - Does it really interest you?
+Он покупает те вещи? - Does he buy those things?
+Вы часто проводите время вместе? - Do you often spend time together?
+Он хочет стать актёром? - Does he want to become an actor?
+Он работает или учится? - Does he work or study?
+Это стоит меньше, чем двести долларов? - Does it cost less than two hundred dollars?
+Он помогает ему? - Does he help him?
+Он тоже так думает? - Does he also think so?
+Они тоже так думают? - Do they also think so?
+Она тоже так думает? - Does she also think so?
+Она хочет это обсудить? - Does she want to discuss it?
+Ты хочешь это обсудить? - Do you want to discuss it?
+Он хочет это обсудить? - Does he want to discuss it?
+Она покупает более хорошие вещи? - Does she buy better things?
+Он покупает очень дорогие вещи? - Does he buy very expensively things?
+Ты покупаешь очень дорогие вещи? - Do you buy very expensively things?
+Он делает разные упражнения? - Does he do different exercises?
+Она делает разные упражнения? - Does she do different exercises?
+Ты делаешь разные упражнения? - Do you do different exercises?
+Она тоже делает это? - Does she also do it? / Does she do it, too?
+Они тоже делают это? - Do they do it, too? / Do they also do it?
+Ему тоже это нравится? - Does he also like it?
+Это действительно мотивитует тебя? - Does it really motivate you?
+Это действительно мотивирует их? - Does it really motivate them?
+Это мотивирует тебя? - Does it motivate you?
+Это стоит так много денег? - Does it cost so much money?
+Это стоит более трёхсот долларов? - Does it cost more than three hundred dollars?
+Он часто звонит тебе? - Does he often call you?
+Ты часто звонишь ему? - Do you often call him?
+Она часто звонит им? - Does she often call them?
+Он хочет сменить свою работу? - Does he want to change his job?
+Ты хочешь сменить свою работу? - Do you want to change your job?
+Это интересует тебя? - Does it interest you?
+Это интересует его. - It interests him.
+Это интересует их? - Does it interest them?
+Она хочет быть актрисой? - Does she want to be an actress?
+Это мотивирует его? - Does it motivate him?
+Он помогает своему другу? - Does he help his friend?
+Он учится или работает? - Does he study or work?
+Это стоит больше, чем тысячу евро? - Does it cost more than one thousand euros?
+Она хочет поменять свою работу? - Does she want to change her job?
+Она хочет найти новую работу? - Does she want to find a new job?
+Он хочет посмотреть этот фильм? - Does he want to watch this movie?
+Она часто слушает музыку? - Does she often listen to music?
+Она покупает дорогие вещи? - Does she buy expensive things?
+Она тренируется очень интенсивно? - Does she train very intensively?
+Ты часто разговариваешь по телефону? - Do you often say on phone? /*
+Ей нравится та музыка? - Does she like that music?
+У него есть какие-либо братья или сёстры? - Does he have any brothers or sisters?
+Это стоит меньше, чем пятьсот долларов? - Does it cost less than five hundred dollars?
