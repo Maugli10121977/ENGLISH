@@ -1,4 +1,5 @@
 application - приложение
+breakfast - завтрак
 clothes - одежда
 come - приходить
 cook - готовить (еду)
@@ -9,6 +10,7 @@ get up - вставать
 group - группа
 home - (идти, приходить) домой
 late - поздно
+miracle - чудо
 order - заказывать, заказ
 pet - домашнее животное
 profession - профессия
