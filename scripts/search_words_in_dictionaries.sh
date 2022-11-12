@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # Скрипт должен быть вызван с параметром в виде искомого слова
 
 for f in `ls -R ~/ENGLISH/ | grep 'dictionary' | grep 'txt'`; do
