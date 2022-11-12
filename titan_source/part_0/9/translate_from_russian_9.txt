@@ -68,8 +68,8 @@
 Ты хочешь учиться за границей? - Do you want to study abroad?
 Ты хочешь учиться в другой стране? - Do you want to study in another country?
 Ты хочешь путешествовать за границей? - Do you want to travel abroad?
-Я показываю лучшие результаты? - Do I show better results? /*
-Ты показываешь лучшие результаты? - Do you show better results? /*
+Я показываю лучшие результаты? - Do I show better results?
+Ты показываешь лучшие результаты? - Do you show better results?
 Ты хочешь поехать в Англию? - Do you want to go to England?
 Ты хочешь поехать в Соединённые Штаты? - Do you want to go to the United States?
 Ты часто ходишь в кино? - Do you often go to the cinema?

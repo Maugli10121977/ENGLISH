@@ -27,7 +27,7 @@
 Тебе нравится эта профессия? - Do you like this profession?
 Ты учишь английский онлайн? - Do you learn English online?
 Ты работаешь каждый день? - Do you work every day?
-Это стоит намного больше денег? - Does it cost much more money? /*
+Это стоит намного больше денег? - Does it cost much more money?
 Тебе нужны эти билеты? - Do you have these tickets?
 Вы учитесь в разных группах? - Do you study in other grooup?
 Тебе нравятся морепродукты? - Do you like seafood?
@@ -68,7 +68,7 @@
 Ты обычно просыпаешься поздно? - Do you usually wake up late?
 Ты получаешь достаточно денег? - Do you get enough money?
 Он получает достаточно денег? - Does he get enough money?
-Она хочет приготовить завтрак? - Does she want to cook breakfast? /*
+Она хочет приготовить завтрак? - Does she want to cook breakfast?
 Она часто готовит? - Does she often cook?
 Ты хочешь потанцевать? - Do you want to dance?
 Ты обычно покупаешь дорогую одежду? - Do you usually buy expensive clothes?

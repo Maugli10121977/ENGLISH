@@ -65,7 +65,7 @@
 Он знает много иностранных языков. - He knows many foreign languages.
 Я вижу, что у тебя мало свободного времени. - I see that you have little free time.
 Я вижу, у неё мало свободного времени. - I see she has little free time.
-Я вижу, у них много свободного времени. - I see they have much free time. /* a lot
+Я вижу, у них много свободного времени. - I see they have a lot free time.
 Ему нравится музыка. - He likes music.
 Ей нравится музыка. - She likes music.
 Им нравится музыка. - They like music.

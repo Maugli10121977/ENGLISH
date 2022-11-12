@@ -29,7 +29,7 @@
 Я хочу сделать это сейчас. - I want to do it now.
 Я хочу купить это. - I want to buy it.
 Я хочу позвонить ему. - I want to call him.
-Я хочу быть дизайнером. - I want to be a designer. /*
+Я хочу быть дизайнером. - I want to be a designer.
 Я хочу посетить новые страны и города. - I want to visit new countries and cities.
 Я хочу позвонить ей сейчас. - I want to call her now.
 Я хотел бы говорить по-английски лучше. - I'd like to speak English better.
