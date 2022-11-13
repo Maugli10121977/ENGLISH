@@ -93,7 +93,7 @@
 Она часто слушает музыку? - Does she often listen to music?
 Она покупает дорогие вещи? - Does she buy expensive things?
 Она тренируется очень интенсивно? - Does she train very intensively?
-Ты часто разговариваешь по телефону? - Do you often say on phone? /*
+Ты часто разговариваешь по телефону? - Do you often talk on the phone?
 Ей нравится та музыка? - Does she like that music?
 У него есть какие-либо братья или сёстры? - Does he have any brothers or sisters?
 Это стоит меньше, чем пятьсот долларов? - Does it cost less than five hundred dollars?

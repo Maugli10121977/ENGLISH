@@ -87,13 +87,13 @@
 Я не ем это. - I don't eat it.
 Ты не ешь это. - You don't eat it.
 Мы не едим эту еду. - We don't eat this food.
-Я не хочу платить так много денег за это. - I don't want to pay so much money for it. /*
+Я не хочу платить так много денег за это. - I don't want to pay so much money for it.
 Я не хочу быть менеджером. - I don't want to be a manager.
 Я не понимаю его. - I don't understand him.
 Я не пью кофе. - I don't drink coffee.
 Они не говорят это. - They don't say it.
 Я не хочу платить. - I don't want to pay.
-Я не хочу тратить так много денег на это. - I don't want to spend so much money on it. /*
+Я не хочу тратить так много денег на это. - I don't want to spend so much money on it.
 У нас нет свободного времени. - We don't have free time.
 У них нет денег. - They don't have money.
 Я не хочу говорить о политике. - I don't want to talk about politics.
