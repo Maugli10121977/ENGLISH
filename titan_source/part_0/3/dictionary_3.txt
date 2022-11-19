@@ -28,7 +28,7 @@ bank - банк
 coffee - кофе
 computer - компьютер
 different - разные, различные
-drink - пить
+drink - пить; напиток
 eat - есть, принимать пищу
 exercise - упражнение
 family - семья
