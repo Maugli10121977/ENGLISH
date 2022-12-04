@@ -1,13 +1,16 @@
 alright; all right - ОК, в порядке
 American - американец
 beautiful - красивый
+clever - умный (знающий)
 dangerous - опасный
 difficult - сложный, трудный
 easy - лёгкий
+easily - легко
 effective - эффективный
 eight - восемь
 eighteen - восемнадцать
 fine - хорошо, в порядке
+hard - тяжело
 hard-working - трудолюбивый
 lazy - ленивый
 married - женат; замужем
@@ -16,7 +19,10 @@ parents - родители
 poor - бедный
 possible - возможный
 ready - готов
+revolution - революция
 rich - богатый
 seventy - семьдесят
+sensation - сенсация
 single - холост
 smart - умный (сообразительный)
+victory - победа
