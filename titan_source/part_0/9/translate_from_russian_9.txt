@@ -35,7 +35,7 @@
 Я говорю это правильно? - Do I say it correctly?
 Ты действительно хочешь это? - Do you really want it?
 Ты читаешь по-английски? - Do you read in English?
-Ты чувствуешь себя лучше? - Do you fell better?
+Ты чувствуешь себя лучше? - Do you feel better?
 Ты говоришь по-английски? - Do you speak English?
 У тебя есть какие-либо идеи? - Do you have any ideas?
 Я говорю по-английски правильно? - Do I speak English correctly?
@@ -45,7 +45,7 @@
 Тебе нравится эта идея? - Do you like this idea?
 Тебе нужна моя помощь? - Do you need my help?
 Ты работаешь или учишься? - Do you work or study?
-Они часто ходят в парк? - Do they often go to park?
+Они часто ходят в парк? - Do they often go to the park?
 Ты понимаешь, почему они это делают? - Do you understand why they do it?
 Они покупают это онлайн? - Do they buy it online?
 Ты ходишь в кино? - Do you go to the cinema?
@@ -74,7 +74,7 @@
 Ты хочешь поехать в Соединённые Штаты? - Do you want to go to the United States?
 Ты часто ходишь в кино? - Do you often go to the cinema?
 Ты обычно ходишь в кино? - Do you usually go to the cinema?
-Ты часто ходишь в парк? - Do you often go to park?
+Ты часто ходишь в парк? - Do you often go to the park?
 Они хотят работать за границей? - Do they want to work abroad?
 Они хотят учиться за границей? - Do they want to study abroad?
 Ты учишься или работаешь? - Do you work or study?

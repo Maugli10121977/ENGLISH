@@ -2,7 +2,7 @@
 Я вижу мужчину и двух женщин. - I see a man and two women.
 У неё двое детей. - She has two children.
 У него есть вопрос. - He has a question.
-У неё две дочери и сын. - She has two daughter and a son.
+У неё две дочери и сын. - She has two daughters and a son.
 Я вижу, у тебя есть вопрос. - I see you have a question.
 Я вижу, что у тебя мало свободного времени. - I see that you have little free time.
 У неё есть двое детей. - She has two children.
@@ -87,7 +87,7 @@
 Ей нравится немецкий. - She likes German.
 Нам нравится английский. - We like English.
 Ей больше нравится рыба. - She likes fish more.
-Ему больше нравится рыба. - He liies fish more.
+Ему больше нравится рыба. - He likes fish more.
 Мне больше нравится мясо. - I like meat more.
 У меня есть эти деньги. - I have this money.
 Он читает книги на английском. - He reads books in English.

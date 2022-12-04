@@ -1,4 +1,4 @@
-Это не интересует их. - It doesn't interest their.
+Это не интересует их. - It doesn't interest them.
 У него нет каких-либо вопросов. - He doesn't have any questions.
 У меня нет каких-либо планов. - I don't have any plans.
 Он не чувствует себя счастливым. - He doesn't feel happy.
@@ -80,7 +80,7 @@
 Мы делаем это так часто. - We do it so often.
 Он не хочет звонить ей. - He doesn't want to call her.
 Я не хочу звонить ему. - I don't want to call him.
-Она не хочет звонить ей. -She doesn't want to call her.
+Она не хочет звонить ей. - She doesn't want to call her.
 Он не хочет продавать дом. - He doesn't want to sell a house.
 Она не хочет покупать его дом. - She doesn't want to buy his house.
 Он не хочет продавать этот дом. - He doesn't want to sell this house.
@@ -96,6 +96,6 @@
 Я думаю, это стоит гораздо больше. - I think it costs much more.
 Я не хочу смотреть телевизор. - I don't want to watch TV.
 Он не беспокоится о своих экзаменах. - He doesn't worry about his exams.
-У неё нет кошки. - Sye doesn't have a cat.
+У неё нет кошки. - She doesn't have a cat.
 Мне нравится этот предмет. - I like this subject.
 Я не хочу беспокоиться об этом. - I don't want to worry about it.

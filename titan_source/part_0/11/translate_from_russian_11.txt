@@ -28,7 +28,7 @@
 Ты учишь английский онлайн? - Do you learn English online?
 Ты работаешь каждый день? - Do you work every day?
 Это стоит намного больше денег? - Does it cost much more money?
-Тебе нужны эти билеты? - Do you have these tickets?
+Тебе нужны эти билеты? - Do you need these tickets?
 Вы учитесь в разных группах? - Do you study in other grooup?
 Тебе нравятся морепродукты? - Do you like seafood?
 Ты знаешь этих людей? - Do you know these people?
@@ -82,13 +82,13 @@
 Ты платишь за одежду онлайн? - Do you pay for clothes online?
 Ты знаешь тех людей? - Do you know those people?
 Ты знаешь этих детей? - Do you know these children?
-Ты заказываешь это онлайн? -Do you order this online?
+Ты заказываешь это онлайн? - Do you order this online?
 Ты хочешь увидеть это сейчас? - Do you want to see it now?
 Ты видишь машину? - Do you see a car?
 Он чувствует себя лучше? - Does he feel better?
 Ты заказываешь еду онлайн? - Do you order food online?
 Ты знаешь того человека? - Do you know that person?
-Это действительно мотивирует его? - Does it really notivate him?
+Это действительно мотивирует его? - Does it really motivate him?
 Тебе нравится готовить? - Do you like cooking? / Do you like to cook?
 Он рекомендует этот отель? - Does he recommend this hotel?
 Ты предпочитаешь другую еду? - Do you prefer another food?

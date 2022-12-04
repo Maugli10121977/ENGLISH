@@ -18,7 +18,7 @@
 Она очень грустная. - She is very sad.
 Это интересно. - It is interesting.
 Это очень хорошо. - It is very well. /*
-Она занята сейчас . - She is busy now.
+Она занята сейчас. - She is busy now.
 Она в школе. - She is in the school. /*
 Она из Соединённых Штатов. - She is from the United States.
 Я дома. - I am at home. /*
@@ -96,5 +96,5 @@
 Он певец. - He is a singer.
 Они сейчас вместе. - They are together now.
 Она его жена. - She is his wife.
-Он сейчас в другой стране. - He is in another coutry now.
+Он сейчас в другой стране. - He is in another country now.
 Ему шестьдесят. - He is sixty.

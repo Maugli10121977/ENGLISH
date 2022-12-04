@@ -77,7 +77,7 @@
 В какое время она выходит из дома? - What time does she leave home?
 Когда он уходит с работы? - When does he leave work?
 Как регулярно он это делает? - How regularly does he do it?
-Как регулярно она делает то упражнение? - How regularly does she do this exercise?
+Как регулярно она делает то упражнение? - How regularly does she do that exercise?
 Как часто ты ходишь туда? - How often do you go there?
 Что ты обычно делаешь в своё свободное время? - What do you usually do in your free time?
 Что она обычно делает в своё свободное время? - What does she usually do her free time?
@@ -86,7 +86,7 @@
 Как часто она занимается спортом? - How often does she do sport?
 Как часто ты встаёшь так рано? - How often do you get up so early?
 Какой у тебя уровень английского? - What level English do you have?
-Какой уровень английского она хочет иметь? - What level English does she want to have?
+Какой уровень английского она хочет иметь? - What English level does she want to have?
 Что ты знаешь об этом? - What do you know about it?
 Что ты хочешь знать об этом? - What do you want to know about it?
 Что она знает о нём? - What does she know about him?

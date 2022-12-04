@@ -43,7 +43,7 @@
 Это стоит пятьдесят фунтов. - It costs fifty pounds.
 Я покупаю эти билеты онлайн. - I buy these tickets online.
 Он делает это каждый день. - He does it every day.
-Они работают вместе. - They work togheter.
+Они работают вместе. - They work together.
 Я вижу эту проблему. - I see this problem.
 Он знает английский. - He knows English.
 Это стоит больше. - It costs more.
@@ -81,7 +81,7 @@
 Я понимаю этих людей. - I understand these people.
 Я понимаю тех людей. - I understand those people.
 Он понимает тех людей. - He understands those people.
-Он работает слишком мало. - He works so little.
+Он работает слишком мало. - He works too little.
 Он работает так много. - He works so much.
 Она звонит мне иногда. - She calls me sometimes. / Sometimes she calls me. / She sometimes calls me.
 Она звонит ему иногда. - She calls him sometimes.
