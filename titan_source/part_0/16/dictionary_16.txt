@@ -2,6 +2,7 @@ assistant - помощник, ассистент
 Brazil - Бразилия
 cheaper - дешевле
 choice - выбор
+choose - выбирать
 colleague - коллега
 director - директор
 driver - водитель
