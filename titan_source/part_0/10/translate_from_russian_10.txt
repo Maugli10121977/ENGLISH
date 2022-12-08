@@ -28,7 +28,7 @@
 Она живёт в другом месте? - Does she live in another place?
 У него есть машина? - Does he have a car?
 Это кажется интересным? - Does it seem intresting?
-Это кажется очень важным? - Does it seem important?
+Это кажется очень важным? - Does it seem very important?
 Ей нравится этот метод? - Does she like this method?
 У него есть кот? - Does he have a cat?
 Он живёт около того места? - Does he live near that place?
