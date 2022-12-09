@@ -7,4 +7,3 @@ decision - решение
 impossible - невозможно
 of - из
 popular - популярный
-wrong - неправильно (грубое)

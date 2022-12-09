@@ -1,0 +1,9 @@
+bag - сумка
+box - коробка
+dress - платье
+jeans - джинсы
+pair - пара
+trousers - брюки
+upset - расстроенный
+worse - хуже
+wrong - неправильный
