@@ -10,7 +10,7 @@ movie - фильм
 or - или
 park - парк
 reading - чтение
-real - реальный
+real - реальный; настоящий
 show - показывать
 sing - петь
 singing - пение
