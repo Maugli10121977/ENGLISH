@@ -25,4 +25,5 @@ seventy - семьдесят
 sensation - сенсация
 single - холост
 smart - умный (сообразительный)
+success - успех
 victory - победа
