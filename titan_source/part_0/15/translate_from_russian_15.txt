@@ -7,7 +7,7 @@
 Они не счастливы. - They aren't happy.
 Это не так интересно для меня. - It isn't interesting for me.
 Мы не здесь. - We aren't here.
-Это не лучше. - It isn't better. /*
+Это не лучше. - It isn't better.
 Ты не прав. - You aren't right. / You are wrong.
 Это не популярно сейчас. - It isn't popular now.
 Он не прав. - He isn't right. / He is wrong.
@@ -46,13 +46,13 @@
 Я знаю, он не дома сейчас. - I know he isn't at home now.
 Я знаю, это не бесплатно. - I know it isn't free.
 Это не лучшая идея. - It isn't the best idea.
-Я вижу, это не дорого. - I see it isn't expensive. /*
+Я вижу, это не дорого. - I see it isn't expensive.
 Я знаю, они не правы. - I know they aren't right. / I know they're wrong.
 Я думаю, что это не так плохо. - I think that it isn't so bad.
 Это не правильно. - It isn't correct. / It isn't right.
-Я не боюсь этого. - I aren't afraid of it.
+Я не боюсь этого. - I'm not afraid of it.
 Я думаю, это не так дёшево. - I think it isn't so cheap.
-Она думает, что он не прав. - She thinks 5hat he isn't right.
+Она думает, что он не прав. - She thinks that he isn't right.
 Я думаю, это не реально. - I think it isn't real.
 Я думаю, что это не лучший ответ. - I think that it isn't the best answer.
 Он не уверен. - He isn't sure.
@@ -61,9 +61,9 @@
 Мы не так близко. - We aren't so near.
 Это не так близко. - It isn't so near.
 Они так близко. - They're so near.
-Я знаю, она не на работе сейчас. -I know she isn't at work now. 
+Я знаю, она не на работе сейчас. -I know she isn't at work now.
 Он знает, она не на работе сейчас. - He knows she isn't at work now.
-Ты знаешь, она не в школе сейчас. - You know she isn't at work now.
+Ты знаешь, она не в школе сейчас. - You know she isn't at school now.
 Я думаю, это не ошибка. - I think it isn't a mistake.
 Она думает, это не ошибка. - She thinks it isn't a mistake.
 Мы думаем, это ошибка. - We think it's a mistake.
@@ -84,7 +84,7 @@
 Это не правильно. - It isn't correct. / It isn't right.
 Я знаю, это не далеко. - I know it isn't far.
 Я вижу, это не так близко. - I see it isn't so near.
-Я думаю, это невозможно. - I think it isn't possible. /*
+Я думаю, это невозможно. - I think it isn't possible. / I think it's impossible.
 Это не лучший ответ. - It isn't the best answer.
 Я вижу, это не так дёшево. - I see it isn't so cheap.
 Я не боюсь этих вещей. - I'm not afraid of these things.
