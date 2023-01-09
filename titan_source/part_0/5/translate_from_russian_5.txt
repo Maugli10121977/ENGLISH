@@ -75,7 +75,7 @@
 Я понимаю его. - I understand him.
 Она понимает его. - She understands him.
 Он понимает меня. - He understands me.
-Он хочет жить за границей. - He wwnts to live abroad.
+Он хочет жить за границей. - He wants to live abroad.
 Я хочу жить за границей. - I want to live abroad.
 Они хотят жить за границей. - They want to live abroad.
 Я знаю его. - I know him.
@@ -94,7 +94,7 @@
 Он хочет поехать в Китай в этом году. - He wants to go to China this year.
 Мы хотим посетить Италию в следующем месяце. - We want to visit Italy next month.
 Я хочу учить английский здесь. - I want to learn English here.
-Я хочу прочитать ту книгу. - I want to read this book.
+Я хочу прочитать ту книгу. - I want to read that book.
 Я вижу их дом. - I see their house.
 Я хотел бы посетить Японию. - I'd like to visit Japan.
 Я хотел бы поехать в Соединённые Штаты. - I would like to go to the United States.

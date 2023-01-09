@@ -22,14 +22,14 @@
 У меня есть проблема. - I have a problem.
 Я вижу женщину. - I see a woman.
 У меня есть время. - I have time.
-Я вижу университет. - I see a univercity.
+Я вижу университет. - I see a university.
 У меня есть некоторые вопросы. - I have some questions.
 Я вижу автобус. - I see a bus.
 Мне нравится эта машина. -I like this car.
 У меня есть одна проблема. - I have one problem.
 Мы видим отель. - We see a hotel.
 Мне нравится этот вопрос. - I like this question.
-Я знаю этот университет. - I know this univercity.
+Я знаю этот университет. - I know this university.
 У них есть деньги. - They have money.
 Я вижу одного человека. - I see one person.
 Мы видим автобус. - We see a bus.

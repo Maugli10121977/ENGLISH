@@ -29,7 +29,7 @@
 Ты работаешь каждый день? - Do you work every day?
 Это стоит намного больше денег? - Does it cost much more money?
 Тебе нужны эти билеты? - Do you need these tickets?
-Вы учитесь в разных группах? - Do you study in other grooup?
+Вы учитесь в разных группах? - Do you study in different groups?
 Тебе нравятся морепродукты? - Do you like seafood?
 Ты знаешь этих людей? - Do you know these people?
 Он работает больше? - Does he work more?
@@ -47,7 +47,7 @@
 Это действительно интересует её? - Does really interest her?
 Он часто посещает тебя? - Does he often visit you?
 Ты обычно просыпаешься очень поздно? - Do you usually wake up very late?
-Она рекомендует это приложение? - Does she recommend this ap0lication?
+Она рекомендует это приложение? - Does she recommend this application?
 Он обычно заказывает это в том магазине? - Does he usually order it in that shop?
 Он рекомендует это? - Does he recommend it?
 Ты чувствуешь себя действительно счастливым? - Do you feel really happy?
@@ -82,7 +82,7 @@
 Ты платишь за одежду онлайн? - Do you pay for clothes online?
 Ты знаешь тех людей? - Do you know those people?
 Ты знаешь этих детей? - Do you know these children?
-Ты заказываешь это онлайн? - Do you order this online?
+Ты заказываешь это онлайн? - Do you order it online?
 Ты хочешь увидеть это сейчас? - Do you want to see it now?
 Ты видишь машину? - Do you see a car?
 Он чувствует себя лучше? - Does he feel better?

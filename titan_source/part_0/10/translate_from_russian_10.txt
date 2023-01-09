@@ -61,8 +61,8 @@
 Ты хочешь это обсудить? - Do you want to discuss it?
 Он хочет это обсудить? - Does he want to discuss it?
 Она покупает более хорошие вещи? - Does she buy better things?
-Он покупает очень дорогие вещи? - Does he buy very expensively things?
-Ты покупаешь очень дорогие вещи? - Do you buy very expensively things?
+Он покупает очень дорогие вещи? - Does he buy very expensive things?
+Ты покупаешь очень дорогие вещи? - Do you buy very expensive things?
 Он делает разные упражнения? - Does he do different exercises?
 Она делает разные упражнения? - Does she do different exercises?
 Ты делаешь разные упражнения? - Do you do different exercises?
