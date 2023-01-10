@@ -1,4 +1,4 @@
-Я прав? - Are I right?
+Я прав? - Am I right?
 Они с тобой? - Are they with you?
 Это дешевле? - Is it cheaper?
 Они хорошие доктора? - Are they good doctors?
@@ -26,7 +26,7 @@
 Они твои друзья? - Are they your friends?
 Ты готов? - Are you ready?
 Он твой директор? - Is he your director?
-Это более эффективно? - Is it more effective? /*
+Это более эффективно? - Is it more effective?
 Ты дома? - Are you at home?
 Она из Соединённых Штатов? - Is she from the United States?
 Вы уверены? - Are you sure?
@@ -84,7 +84,7 @@
 Она носитель языка? - Is she a native speaker?
 Она твоя девушка? - Is she your girlfriend?
 Они трудолюбивые студенты? - Are they hard-working students?
-Это действительно лучший выбор? - Is it really the best choice? /*
+Это действительно лучший выбор? - Is it really the best choice?
 Он работник? - Is he a worker?
 Они хорошие тренеры? - Are they good trainers?
 Они профессиональные учителя? - Are they professional teachers?
