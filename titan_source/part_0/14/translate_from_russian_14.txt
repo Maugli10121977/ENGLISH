@@ -22,7 +22,7 @@
 Он очень трудолюбивый. - He's very hard-working.
 Она такая ленивая. - She's so lazy.
 Ты прав. - You're right.
-Это лучше. - It's better. /*
+Это лучше. - It's better.
 Ты такой трудолюбивый. - You're so hard-working.
 Ты действительно прав. - You're really right.
 Он в порядке. - He's OK (all right, alright, fine).
@@ -56,7 +56,7 @@
 Я вижу, ты очень занят. - I see you're very busy.
 Она моя мама. - She's my mother.
 Ты такая красивая. - You're so beautiful.
-Это намного лучше. - It's much better. /*
+Это намного лучше. - It's much better.
 Это так легко. - It's so easy.
 Я думаю, это возможно. - I think it's possible.
 Он думает, это возможно. - He thinks it's possible.

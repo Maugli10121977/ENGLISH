@@ -1,9 +1,9 @@
 Почему ты так занят? - Why are you so busy?
 Почему он прав? - Why is he right?
 Сколько им лет? - How old are they?
-Что в этой коробке? - What in this box?
+Что в этой коробке? - What's in this box?
 Почему он прав? - Why is he right?
-Почему это так? - Why is it so? /*
+Почему это так? - Why is it so?
 Почему это так дорого? - Why is it so expensive?
 Сколько ей лет? - How old is she?
 Почему ты так занят? - Why are you so busy?
@@ -16,7 +16,7 @@
 Сколько им лет? - How old are they?
 Что в этой коробке? - What's in this box?
 Что правильно? - What's right?
-Почему на работе сейчас? - Why are you at work now? /*
+Почему на работе сейчас? - Why are you at work now?
 Когда ты дома? - When are you at home?
 Сколько тебе лет? - How old are you?
 Почему это неправильно? - Why is it wrong?
@@ -43,8 +43,8 @@
 Что в коробке? - What is in the box?
 Почему это правильно? - Why is it right?
 Сколько стоят эти брюки? - How much are these trousers?
-Какая у него работа? - What job does he have? /*
-Сколько стоит эта пара джинсов? - How much is this pair of jeans? /*
+Какая у него работа? - What's his job?
+Сколько стоит эта пара джинсов? - How much is this pair of jeans?
 Где то место? - Where is that place?
 Сколько стоят эти джинсы? - How much are these jeans?
 Что в этой коробке? - What is in this box?
@@ -53,19 +53,19 @@
 Как тебя зовут? - What is your name?
 Что лучше? - What is better?
 Почему это лучше? - Why is it better?
-Какая у тебя работа? - What job do you have? /*
+Какая у тебя работа? - What's your job?
 Где это место? - Where is this place?
 Почему это хуже? - Why is it worse?
 Кто она? - Who is she?
-Что хуже? - What is worse? /*
-Что лучше? - What is better? /*
-Откуда она? - Where is she from? /*
-Откуда ты? - Where are you from? /*
+Что хуже? - What is worse?
+Что лучше? - What is better?
+Откуда она? - Where is she from?
+Откуда ты? - Where are you from?
 Сколько стоит эта книга? - How much is this book?
 Сколько стоят эти игрушки? - How much are these toys?
 Сколько стоит эта игрушка? - How much is this toy?
 Сколько стоят те книги? - How much are those books?
-Какая у неё работа? - What job is she have?
+Какая у неё работа? - What's her job?
 Сколько стоит эта пара брюк? - How much is this pair of trousers?
 Сколько стоят эти сумки? - How much are these bags?
 Откуда он? - Where is he from?
@@ -73,15 +73,15 @@
 Как её зовут? - What is her name?
 Почему это дешевле? - Why is it cheaper?
 Что дешевле? - What is cheaper?
-Что дороже? -What is more expensive? /*
+Что дороже? - What is more expensive?
 Почему ты расстроен? - Why are you upset?
 Что более эффективно? - What is more effective?
 Как его зовут? - What is his name?
-Сколько стоит эта сумка? - How much is this bag?
-Сколько это стоит? - How much is it?
+Сколько стоит эта сумка? - How much is this bag? / How much does this bag cost?
+Сколько это стоит? - How much is it? / How much does it cost?
 Где твоя машина? - Where is your car?
 Где этот магазин? - Where is this shop?
-Сколько стоит этот дом? - How much is this house?
-Что важнее? - What is important?
-Сколько стоит твой компьютер? - How much is your computer?
-Сколько стоит эта квартира? - How much is this apartment?
+Сколько стоит этот дом? - How much is this house? / How much does this house cost?
+Что важнее? - What is more important?
+Сколько стоит твой компьютер? - How much is your computer? / How much does your computer cost?
+Сколько стоит эта квартира? - How much is this apartment? / How much does this apartment cost?
