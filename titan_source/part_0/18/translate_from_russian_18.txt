@@ -21,11 +21,11 @@
 Это лежит на диване. - It lies on the sofa.
 Она учится в университете. - She studies at university.
 Она выглядит очень красиво. - She looks very beautiful.
-Этого кажется достаточно. - It seems enough. /*
-Это кажется необходимым. - It seems necessary. /*
+Этого кажется достаточно. - It seems enough.
+Это кажется необходимым. - It seems necessary.
 Мы в одной группе. - We're in one group.
 Это в коробке. - It's in the box.
-Это слишком дорого. - It's too expensive. /*
+Это слишком дорого. - It's too expensive.
 Я учусь в университете. - I study at university.
 Мы в разных местах. - We're in different places.
 Он писатель. - He's a writer.
@@ -33,7 +33,7 @@
 Это на диване. - It's on the sofa.
 Он наш учитель. - He's our teacher.
 Мы живём в разных местах. - We live in different places.
-Это стоит так дорого. - It costs so expensive.
+Это стоит так дорого. - It costs so much. / It's so expensive.
 Он студент. - He's a student.
 Это необходимо. - It's necessary.
 Это под контролём. - It's under control.
@@ -56,8 +56,8 @@
 Мы живём в этом отеле. - We live in this hotel.
 Она живёт в другом городе. - She lives in another city.
 Мы действительно так думаем. - We really think so.
-Он тренирует моего друга. - He traines my friend. /*
-Они вместе на этой фотографии. - They're together in this photo. /*
+Он тренирует моего друга. - He trains my friend.
+Они вместе на этой фотографии. - They're together in this photo.
 Мы вместе в этом отеле. - We're together in this hotel.
 Я очень занят в данный момент. - I'm very busy at the moment.
 Он очень занят в данный момент. - He's very busy at the moment.
@@ -76,7 +76,7 @@
 Они любят друг друга. - They love each other.
 Мы любим друг друга. - We love each other.
 Он любит её. - He loves her.
-Они расслабляются на тех фотографиях. - They relax in those photos. /*
+Они расслабляются на тех фотографиях. - They relax in those photos.
 Мы улыбаемся на этой фотографии. - We smile in this photo.
 Мы расслабляемся на этих фото. - We relax in these photos.
 У них есть эта традиция. - They have this tradition.
@@ -86,7 +86,7 @@
 Это ошибка. - It's a mistake.
 Ты выглядишь таким занятым. - You look so busy.
 Ей нравится его план. - She likes his plan.
-Она есть на этой фотографии. - She's in this photo. /*
+Она есть на этой фотографии. - She's in this photo.
 У меня слишком мало свободного времени. - I have too little free time.
 Она улыбается на этой фотографии. - She smiles in this photo.
 Это моё время. - It's my time.
