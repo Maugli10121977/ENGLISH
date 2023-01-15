@@ -1,9 +1,9 @@
 Это намного дороже? - Is it much more expensive?
-Они очень профессиональные работники? - Are they professional workers?
-Ты в порядке? - Are you OK?
+Они очень профессиональные работники? - Are they very professional workers?
+Ты в порядке? - Are you OK? / Are you all right? / Are you alright? / Are you fine?
 Что в той сумке? - What is in that bag?
 Ты сейчас в парке? - Are you in the park now?
-Она очень бедная? - She is very poor?
+Она очень бедная? - Is she very poor?
 Ты там работаешь? - Do you work there?
 Это опасно? - Is it dangerous?
 Что опасно? - What is dangerous?
@@ -12,7 +12,7 @@
 Она бедная? - Is she poor?
 Это плохо? - Is it bad?
 Он студент? - Is he a student?
-Ты действительно сердишься? - Do you really agree?
+Ты действительно сердишься? - Are you really angry?
 Ты сейчас на работе? - Are you at work now?
 Что ты думаешь об этом? - What do you think about it?
 Она журналист? - Is she a journalist?
@@ -24,12 +24,12 @@
 Он богат? - Is he rich?
 Они очень хорошие работники? - Are they very good workers?
 Он очень богат? - Is he very rich?
-Он в порядке? - Is he alright?
+Он в порядке? - Is he alright? / Is he OK? / Is he all right? / Is he fine?
 Как она себя чувствует? - How does she feel?
 Это очень популярно в наши дни? - Is it very popular nowadays?
 Кто с тобой? - Who is with you?
 Почему это так популярно? - Why is it so popular?
-Чего он хочет? - What is he want?
+Чего он хочет? - What does he want?
 Что дешевле? - What is cheaper?
 Это очень популярно? - Is it very popular?
 Ты часто гуляешь в парке? - Do you often walk in the park?
@@ -38,7 +38,7 @@
 Ты поддерживаешь это? - Do you support it?
 Что в этой сумке? - What is in this bag?
 Почему это хорошо? - Why is it good?
-Он поддерживает эту идею? - Is he support this idea?
+Он поддерживает эту идею? - Does he support this idea?
 Это лучший результат? - Is it the best result?
 Это полезно? - Is it useful?
 Что ты обычно отвечаешь? - What do you usually answer?
@@ -69,19 +69,19 @@
 Это дешевле? - Is it cheaper?
 Это стоит намного меньше? - Does it cost much less?
 Это стоит намного больше? - Does it cost much more?
-Почему ты так занят в данный момент? - Why are you so busy at the monent? /*
-Почему ты так занят сейчас? - Why are you so busy now? /*
-Почему он так занят в данный момент? - Why is he so busy at the moment? /*
+Почему ты так занят в данный момент? - Why are you so busy at the monent?
+Почему ты так занят сейчас? - Why are you so busy now?
+Почему он так занят в данный момент? - Why is he so busy at the moment?
 Это плохо или нет? - Is it bad or not?
-Это действительно кажется таким повседневным? - Is it really seem so casual?
-Это действительно кажется таким интересным? - Is it really seem so interesting?
+Это действительно кажется таким повседневным? - Does it really seem so casual?
+Это действительно кажется таким интересным? - Does it really seem so interesting?
 Ты носишь неформальную одежду? - Do you wear informal clothes?
 Она носит формальную одежду? - Does she wear formal clothes?
 Этого достаточно? - Is it enough?
 Кто против этого? - Who is against it?
 Это действительно так сложно? - Is it really so difficult?
 Это слишком формально? - Is it too formal?
-Почему ты так беспокоишься? - Why do you so worry?
+Почему ты так беспокоишься? - Why do you worry so much? / Why are you so worried?
 Это твой выбор? - Is it your choice?
 Ты беспокоишься? - Do you worry? / Are you worried?
 Это под контролём? - Is it under control?
