@@ -1,25 +1,25 @@
 Это не то же самое. - It isn't the same.
-Я не уверен в этом. - I'm not sure about it. /*
+Я не уверен в этом. - I'm not sure about it.
 Он не платит за своё образование. - He doesn't pay for his education.
-Я не готов к этому. - I'm not ready for it. /*
+Я не готов к этому. - I'm not ready for it.
 Я не занят в данный момент. - I'm not busy at the moment.
 Он не учится. - He doesn't study.
-Это не выглядит так эффективно. - It doesn't look so effective. /*
+Это не выглядит так эффективно. - It doesn't look so effective.
 Это не всё. - It isn't everything.
-Мы не играем в одной команде. - We don't play in one team. /*
-Нас это не интересует. - It isn't interest us.
+Мы не играем в одной команде. - We don't play in one team.
+Нас это не интересует. - It doesn't interest us. / It isn't interesting for us.
 Мы живём в этом доме. - We live in this house.
 Он не выглядит старым. - He doesn't look old.
-Это не кажется таким лёгким. - It doesn't seem so easy. /*
+Это не кажется таким лёгким. - It doesn't seem so easy.
 Она не на работе. - She isn't at work.
-Нам это не интересно. - We aren't interesting about it. /*
+Нам это не интересно. - It isn't interesting for us. / It doesn't interest us.
 Он не студент. - He isn't a student.
 Они не знают всего. - They don't know everything.
 Я не согласен с ней. - I don't agree with her.
 Это не так важно. - It isn't so important.
 Я не помню этого. - I don't remember it.
 Он не живёт здесь. - He doesn't live here.
-Они не делают это лучше. - They don't do it better. /*
+Они не делают это лучше. - They don't do it better.
 Это не так эффективно. - It isn't so effective.
 Это не мотивирует её. - It doesn't motivate her.
 Они не в этой команде. - They aren't this team.
@@ -28,14 +28,14 @@
 Он не старый. - He isn't old.
 Это не выглядит таким важным. - It doesn't look so important.
 Он не в школе. - He isn't at school.
-Он не живёт в Америке. - He doesn't live in America. /*
+Он не живёт в Америке. - He doesn't live in America.
 Он не дома. - He isn't at home.
-У меня нет ошибок. - I don't have mistakes.
+У меня нет ошибок. - I don't have any mistakes.
 Это не ошибка. - It isn't a mistake.
 Он не здесь. - He isn't here.
-Она не права. - She isn't right.
+Она не права. - She isn't right. / She's wrong.
 Он не выглядит счастливым. - He doesn't look happy.
-Она действительно хочет этого. - She really want it.
+Она действительно хочет этого. - She really wants it.
 Он не американец. - He isn't American.
 Это не в моей сумке. - It isn't in my bag.
 Это мне не интересно. - It isn't interesting for me.
@@ -51,13 +51,13 @@
 Я не уверен в этом. - I'm not sure about it.
 Он не танцор. - He isn't a dancer.
 Он не толстый. - He isn't fat.
-Он не ест много. - He doesn't eat a lot.
+Он не ест много. - He doesn't eat much.
 Он не учится с нами. - He doesn't study with us.
 Он не платит за своё образование. - He doesn't pay for his education.
 Он не мой лучший друг. - He isn't my best friend.
-Я не готов к этому. - I'm not ready to it. /*
+Я не готов к этому. - I'm not ready to it.
 Я не пользуюсь тем сервисом. - I don't use that service.
-Я знаю, это не кажется возможным. - I know it doesn't seem possible.
+Я знаю, это не кажется возможным. - I know it doesn't seem possible. / I know it seems impossible.
 Это не мой компьютер. - It isn't my computer.
 Это не его дом. - It isn't his house.
 Это не кажется таким трудным. - It doesn't seem so difficult.
@@ -65,22 +65,22 @@
 Это кажется таким трудным. - It seems so difficult.
 Я вижу, это не легко. - I see it isn't easy.
 Я понимаю, что это легко. - I understand that it's easy.
-Ему не нравится танцевать. - He doesn't like dancing.
-Ей не нравится петь. - She doesn't like singing.
-Мне не нравится танцевать. - I don't like dancing.
+Ему не нравится танцевать. - He doesn't like dancing. / He doesn't like to dance.
+Ей не нравится петь. - She doesn't like singing. / She doesn't like to sing.
+Мне не нравится танцевать. - I don't like dancing. / I don't like to dance.
 Это бесплатно для них. - It's free for them.
 Это не легко для меня. - It isn't easy for me.
 Я не читаю эти книги. - I don't read these books.
 Он не читает эти книги. - He doesn't read these books.
 Я читаю эту книгу. - I read this book.
-Мне кажется, это не так в действительности. - I seem it isn't so in reality. /*
+Мне кажется, это не так в действительности. - It seems to me it isn't so in reality.
 Мне кажется, что ты прав. - I seem that you're right.
-Он знает, это не возможно. - He knows it isn't possible.
+Он знает, это не возможно. - He knows it isn't possible. / He knows it's impossible.
 Я знаю, это опасно. - I know it's dangerous.
 Я знаю, это не возможно. - I know it isn't possible.
 Я знаю, это не то же самое. - I know it isn't the same.
 Она знает, это не то же самое. - She knows it isn't the same.
-Я знаю, это отличается. - I know it's different.
+Я знаю, это отличается. - I know it's different. / I know it differs.
 Он не зарабатывает эти деньги. - He doesn't earn this money.
 Она не зарабатывает эти деньги. - She doesn't earn this money.
 Я не зарабатываю так много денег. - I don't earn so much money.
@@ -97,4 +97,4 @@
 Я не занят в данный момент. - I'm not busy at the moment.
 Она не певица. - She isn't a singer.
 Он не выглядит бедным. - He doesn't look poor.
-Это не так в реальности. - It isn't so in reality. /*
+Это не так в реальности. - It isn't so in reality.
