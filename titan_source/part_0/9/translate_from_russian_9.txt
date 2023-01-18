@@ -60,7 +60,7 @@
 Ты знаешь, почему это происходит? - Do you know why it happens?
 Они платят за эту услугу? - Do they pay for this service?
 Ты говоришь по-китайски? - Do you speak Chinese?
-Ты читаешь по-китайски? - Do you read Chinese?
+Ты читаешь по-китайски? - Do you read in Chinese?
 Они говорят по-английски? - Do they speak English?
 Ты часто говоришь об этом? - Do you often talk about it?
 Они часто говорят о тебе? - Do they often talk about you?

@@ -81,7 +81,7 @@
 Мне нравится этот язык. - I like this language.
 Мне нравится тот язык. - I like that language.
 Нам нравится это место. - We like this place.
-Мне очень нравится это место. - I really like this place. I like this place very much.
+Мне очень нравится это место. - I really like this place. / I like this place very much.
 Мне нравится эта вещь. - I like this thing.
 Мне нравятся эти видео. - I like these videos.
 Я хожу на работу. - I go to work.
@@ -93,7 +93,7 @@
 Я тоже так думаю. - I also think so.
 Они так думают. - They think so.
 Я часто играю в эту игру. - I often play this game.
-Я могу помочь тебе. - I can to help you.
+Я могу помочь тебе. - I can help you.
 Мне нравится эта песня. - I like this song.
 Они часто играют в футбол. - They often play football.
 Мне нравится путешествовать. - I like to travel. / I like travelling.
