@@ -1,6 +1,6 @@
 Я хочу увидеть это. - I want to see it.
-Я бы хотел пойти туда сейчас. - I'd like to go there now.
-Я хотел бы говорить по-английски лучше. - I'd like to speak English better.
+Я бы хотел пойти туда сейчас. - I would like to go there now.
+Я хотел бы говорить по-английски лучше. - I would like to speak English better.
 Я хочу увидеть её. - I want to see her.
 Я хочу увидеть их. - I want to see them.
 Я хочу увидеть его. - I want to see him.
@@ -19,10 +19,10 @@
 Я хочу увидеть их. - I want to see them.
 Я хочу быть счастливым. - I want to be happy.
 Он хочет стать бизнесменом. - He wants to become a businessman.
-Я хотел бы говорить по-английски свободно и правильно. - I'd like to speak English fluently and correctly.
+Я хотел бы говорить по-английски свободно и правильно. - I would d like to speak English fluently and correctly.
 Я хочу говорить по-английски. - I want to speak English.
 Я хочу увидеть его. - I want to see him.
-Я хотел бы пойти туда сейчас. - I'd like to go there now.
+Я хотел бы пойти туда сейчас. - I would like to go there now.
 Я хочу быть бизнесменом. - I want to be a businessman.
 Я хочу посетить этот город. - I want to visit this city.
 Она хочет быть учительницей. - She wants to be a teacher.
@@ -32,7 +32,7 @@
 Я хочу быть дизайнером. - I want to be a designer.
 Я хочу посетить новые страны и города. - I want to visit new countries and cities.
 Я хочу позвонить ей сейчас. - I want to call her now.
-Я хотел бы говорить по-английски лучше. - I'd like to speak English better.
+Я хотел бы говорить по-английски лучше. - I would like to speak English better.
 Я хочу работать. - I want to work.
 Я хочу быть менеджером. - I want to be a manager.
 Я хочу путешествовать. - I want to travel.
@@ -42,25 +42,25 @@
 Она хочет жить за границей. - She wants to live abroad.
 Я действительно хочу понять это. - I really want to understand it.
 Мы хотим купить ту вещь. - We want to buy this thing.
-Я хотел бы свободно говорить по-английски. - I'd like to speak English fluently.
+Я хотел бы свободно говорить по-английски. - I would like to speak English fluently.
 Я хочу быть программистом. - I want to be a programmer.
 Я хочу понять это. - I want to understand it.
 Я хочу свободно говорить по-английски. - I want to speak English fluently.
-Я хотел бы говорить по-английски правильно. - I'd like to speak English correctly.
+Я хотел бы говорить по-английски правильно. - I would like to speak English correctly.
 Я хочу купить эту вещь. - I want to buy this thing.
 Я понимаю её. - I understand her.
 Он хочет мне помочь. - He wants to help me.
 Он хочет там учиться. - He wants to study there.
 Я хочу жить в этом городе. - I want to live in this city.
 Она хочет нам помочь. - She wants to help us.
-Я хотел бы читать английские книги. - I'd like to read English books.
+Я хотел бы читать английские книги. - I would like to read English books.
 Я хочу жить в этой стране. - I want to live in this country.
 Я хочу купить два билета. - I want to buy two tickets.
 Я вижу его отца. - I see his father.
 Я хочу купить компьютер. - I want to buy a computer.
 Мне нравится их идея. - I like their idea.
 Я хотел бы говорить по-английски без ошибок. I would like to speak English without mistakes.
-Я хотел бы посетить новые страны и города. - I'd like to visit new countries and cities.
+Я хотел бы посетить новые страны и города. - I would like to visit new countries and cities.
 Я вижу её маму. - I see her mother.
 Я хотел бы поехать в Англию. - I would like to go to England.
 Они хотят учиться за границей. - They want to study abroad.
@@ -96,12 +96,12 @@
 Я хочу учить английский здесь. - I want to learn English here.
 Я хочу прочитать ту книгу. - I want to read that book.
 Я вижу их дом. - I see their house.
-Я хотел бы посетить Японию. - I'd like to visit Japan.
+Я хотел бы посетить Японию. - I would like to visit Japan.
 Я хотел бы поехать в Соединённые Штаты. - I would like to go to the United States.
 Я понимаю их. - I understand them.
 Я хочу купить билет. - I want to buy a ticket.
 Я хочу посетить Соединённые Штаты в следующем году. - I want to visit the United States next year.
-Я хочу сделать это на следующей неделе. - I wqnt to do it next week.
+Я хочу сделать это на следующей неделе. - I want to do it next week.
 Я хочу посетить Германию. - I want to visit Germany.
 Я хочу читать книги на английском. - I want to read books in English.
 Я вижу его машину. - I see his car.

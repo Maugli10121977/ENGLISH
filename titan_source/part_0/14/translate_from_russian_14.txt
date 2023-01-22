@@ -1,100 +1,100 @@
-Она моя мама. - She's my mother.
-Я в порядке. - I'm OK (fine, all right, alright).
-Мы дома. - We're at home.
-Ей семьдесят лет. - She's seventy years old.
-Ему семьдесят. - He's seventy.
-Она американка. - She's American.
-Ей семьдесят лет. - She's seventy years old.
+Она моя мама. - She is my mother.
+Я в порядке. - I am OK (fine, all right, alright).
+Мы дома. - We are at home.
+Ей семьдесят лет. - She is seventy years old.
+Ему семьдесят. - He is seventy.
+Она американка. - She is American.
+Ей семьдесят лет. - She is seventy years old.
 Ты очень трудолюбивый. - You are very hard-working.
-Она очень бедная. - She's very poor.
-Ему семьдесят. - He's seventy.
-Ему восемь. - He's eight.
-Я в порядке. - I'm fine (OK, all right, alright).
-Он холост. - He's single.
-Это опасно. - It's dangerous.
-Это так далеко. - It's so far.
-Она в порядке. - She's all right (OK, fine, alright).
-Я в порядке. - I'm alright (all right, fine, OK).
-Это очень далеко. - It's very far.
-Мы дома. - We're at home.
-Ты очень умный. - You're very smart.
-Ему восемнадцать. - He's eighteen.
-Он очень трудолюбивый. - He's very hard-working.
-Она такая ленивая. - She's so lazy.
-Ты прав. - You're right.
-Это лучше. - It's better.
-Ты такой трудолюбивый. - You're so hard-working.
-Ты действительно прав. - You're really right.
-Он в порядке. - He's OK (all right, alright, fine).
-Ты абсолютно прав. - You're absolutely right.
-Он очень ленивый. - He's very lazy.
-Это рядом. - It's near.
-Ей двадцать лет. - She's twenty years old.
-Он ленивый. - He's lazy.
-Я женат. - I'm married.
-Он американец. - He's American.
-Он очень умный. - He's very smart.
-Я в порядке. - I'm fine (alright, all right, OK).
-Она замужем. - She's married.
-Он бедный. - He's poor.
-Она очень умная. - She's very smart.
-Это очень опасно. - It's very dangerous.
-Он женат. - He's married.
-Она очень богатая. - She's very rich.
-Я холост. - I'm single.
-Я русский. - I'm Russian.
-Она с ним сейчас. - She's with him now.
-Это очень эффективно. - It's very effective.
-Это возможно. - It's possible.
-Я думаю, это хорошо. - I think it's good.
-Я думаю, это действительно замечательно. - I think it's really wonderful.
-Она со мной сейчас. - She's with me now.
-Я думаю, это очень хорошо. - I think it's very good.
-Она очень красивая. - She's very beautiful.
-Она моя сестра. - She's my sister.
-Они мои родители. - They're my parents.
-Я вижу, ты очень занят. - I see you're very busy.
-Она моя мама. - She's my mother.
-Ты такая красивая. - You're so beautiful.
-Это намного лучше. - It's much better.
-Это так легко. - It's so easy.
-Я думаю, это возможно. - I think it's possible.
-Он думает, это возможно. - He thinks it's possible.
-Они знают, это возможно. - They know it's possible.
-Это ошибка. - It's a mistake.
-Это деньги. - It's money.
-Это опасная ситуация. - It's a dangerous situation.
-Это абсолютно бесплатно. - It's absolutely free.
-Это очень дорого. - It's very expensive.
-Я готов сейчас. - I'm ready now.
-Мы готовы сейчас. - We're ready now.
-Он готов сейчас. - He's ready now.
-Это слишком трудно. - It's too difficult. / It is too hard.
-Это слишком легко. - It's too easy.
-Это очень трудно. - It's very difficult. / It is very hard.
-Он мой отец. - He's my father.
-Он мой друг. - He's my friend.
-Ты его отец. - You're his father.
-Это очень легко. - It's very easy.
-Он свободен. - He's free.
-Это бесплатно. - It's free.
-Мы свободны. - We're free.
-Я готов. - I'm ready.
-Он готов. - He's ready.
-Мы готовы. - We're ready.
-Я думаю, ты прав. - I think you're right.
-Я думаю, он абсолютно прав. - I think he's absolutely right.
-Он думает, что он прав. - He thinks that he's right.
-Я знаю, что это ошибка. - I know that it's a mistake.
-Это так эффективно. - It's so effective.
-Это действительно возможно. - It's really possible.
-Он мой брат. - He's my brother.
-Я думаю, ты абсолютно прав. - I think you're absolutely right.
-Они его родители. - They're his parents.
-Я думаю, что это очень эффективно. - I think that it's very effective.
-Это очень важно. - It's very important.
-Я думаю, это замечательно. - I think it's wonderful.
-Я думаю, что это действительно хорошо. - I think that it's really good.
-Он сейчас с нами. - He's with us now.
-Это действительно эффективно. - It's really effective.
-Я знаю, это очень дорого. - I know it's very expensive.
+Она очень бедная. - She is very poor.
+Ему семьдесят. - He is seventy.
+Ему восемь. - He is eight.
+Я в порядке. - I am fine (OK, all right, alright).
+Он холост. - He is single.
+Это опасно. - It is dangerous.
+Это так далеко. - It is so far.
+Она в порядке. - She is all right (OK, fine, alright).
+Я в порядке. - I am alright (all right, fine, OK).
+Это очень далеко. - It is very far.
+Мы дома. - We are at home.
+Ты очень умный. - You are very smart.
+Ему восемнадцать. - He is eighteen.
+Он очень трудолюбивый. - He is very hard-working.
+Она такая ленивая. - She is so lazy.
+Ты прав. - You are right.
+Это лучше. - It is better.
+Ты такой трудолюбивый. - You are so hard-working.
+Ты действительно прав. - You are really right.
+Он в порядке. - He is OK (all right, alright, fine).
+Ты абсолютно прав. - You are absolutely right.
+Он очень ленивый. - He is very lazy.
+Это рядом. - It is near.
+Ей двадцать лет. - She is twenty years old.
+Он ленивый. - He is lazy.
+Я женат. - I am married.
+Он американец. - He is American.
+Он очень умный. - He is very smart.
+Я в порядке. - I am fine (alright, all right, OK).
+Она замужем. - She is married.
+Он бедный. - He is poor.
+Она очень умная. - She is very smart.
+Это очень опасно. - It is very dangerous.
+Он женат. - He is married.
+Она очень богатая. - She is very rich.
+Я холост. - I am single.
+Я русский. - I am Russian.
+Она с ним сейчас. - She is with him now.
+Это очень эффективно. - It is very effective.
+Это возможно. - It is possible.
+Я думаю, это хорошо. - I think it is good.
+Я думаю, это действительно замечательно. - I think it is really wonderful.
+Она со мной сейчас. - She is with me now.
+Я думаю, это очень хорошо. - I think it is very good.
+Она очень красивая. - She is very beautiful.
+Она моя сестра. - She is my sister.
+Они мои родители. - They are my parents.
+Я вижу, ты очень занят. - I see you are very busy.
+Она моя мама. - She is my mother.
+Ты такая красивая. - You are so beautiful.
+Это намного лучше. - It is much better.
+Это так легко. - It is so easy.
+Я думаю, это возможно. - I think it is possible.
+Он думает, это возможно. - He thinks it is possible.
+Они знают, это возможно. - They know it is possible.
+Это ошибка. - It is a mistake.
+Это деньги. - It is money.
+Это опасная ситуация. - It is a dangerous situation.
+Это абсолютно бесплатно. - It is absolutely free.
+Это очень дорого. - It is very expensive.
+Я готов сейчас. - I am ready now.
+Мы готовы сейчас. - We are ready now.
+Он готов сейчас. - He is ready now.
+Это слишком трудно. - It is too difficult. / It is too hard.
+Это слишком легко. - It is too easy.
+Это очень трудно. - It is very difficult. / It is very hard.
+Он мой отец. - He is my father.
+Он мой друг. - He is my friend.
+Ты его отец. - You are his father.
+Это очень легко. - It is very easy.
+Он свободен. - He is free.
+Это бесплатно. - It is free.
+Мы свободны. - We are free.
+Я готов. - I am ready.
+Он готов. - He is ready.
+Мы готовы. - We are ready.
+Я думаю, ты прав. - I think you are right.
+Я думаю, он абсолютно прав. - I think he is absolutely right.
+Он думает, что он прав. - He thinks that he is right.
+Я знаю, что это ошибка. - I know that it is a mistake.
+Это так эффективно. - It is so effective.
+Это действительно возможно. - It is really possible.
+Он мой брат. - He is my brother.
+Я думаю, ты абсолютно прав. - I think you are absolutely right.
+Они его родители. - They are his parents.
+Я думаю, что это очень эффективно. - I think that it is very effective.
+Это очень важно. - It is very important.
+Я думаю, это замечательно. - I think it is wonderful.
+Я думаю, что это действительно хорошо. - I think that it is really good.
+Он сейчас с нами. - He is with us now.
+Это действительно эффективно. - It is really effective.
+Я знаю, это очень дорого. - I know it is very expensive.

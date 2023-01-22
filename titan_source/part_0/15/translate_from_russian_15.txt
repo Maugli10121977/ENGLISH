@@ -1,96 +1,96 @@
-Я не дома. - I'm not at home.
-Они не счастливы. - They aren't happy.
-Она не занята сейчас. - She isn't busy now.
-Это не так сложно. - It isn't so difficult.
-Она не занята сейчас. - She isn't busy now.
-Это не популярно. - It isn't popular.
-Они не счастливы. - They aren't happy.
-Это не так интересно для меня. - It isn't interesting for me.
-Мы не здесь. - We aren't here.
-Это не лучше. - It isn't better.
-Ты не прав. - You aren't right. / You are wrong.
-Это не популярно сейчас. - It isn't popular now.
-Он не прав. - He isn't right. / He is wrong.
-Он не молодой. - He isn't young.
-Я не дома. - I'm not at home.
-Это не проблема. - It isn't a problem.
-Они не женаты. - They aren't married.
-Это не так много. - It isn't so much.
-Она не ленивая. - She isn't lazy.
-Это не легко. - It isn't easy.
-Он не женат. - He isn't married.
-Это не дорого. - It isn't expensive.
-Я не ленивый. - I'm not lazy.
-Они не богаты. - They aren't rich.
-Это не важно. - It isn't important.
-Это не так хорошо. - It isn't so good.
-Они не такие трудолюбивые. - They aren't so hard-working.
-Он не доктор. - He isn't a doctor.
-Она не замужем. - She isn't married.
-Это не интересно. - It isn't interesting.
-Это не мало. - It isn't little.
-Она не старая. - She isn't old.
-Это не много. - It isn't much.
-Это не так легко. - It isn't so easy.
-Он не такой трудолюбивый. - He isn't so hard-working.
-Она не учительница. - She isn't a teacher.
-Они не друзья. - They aren't friends.
-Он не менеджер. - He isn't a manager.
-Это не сложно. - It isn't diffcult.
-Она не счастлива. - She isn't happy. / She is unhappy.
-Он не бедный. - He isn't poor.
-Они сейчас не в школе. - They aren't at school now.
-Это не так плохо. - It isn't so bad.
-Я думаю, это не правильно. - I think it isn't right.
-Это не лучшее решение. - It isn't the best decision.
-Я знаю, он не дома сейчас. - I know he isn't at home now.
-Я знаю, это не бесплатно. - I know it isn't free.
-Это не лучшая идея. - It isn't the best idea.
-Я вижу, это не дорого. - I see it isn't expensive.
-Я знаю, они не правы. - I know they aren't right. / I know they're wrong.
-Я думаю, что это не так плохо. - I think that it isn't so bad.
-Это не правильно. - It isn't correct. / It isn't right.
-Я не боюсь этого. - I'm not afraid of it.
-Я думаю, это не так дёшево. - I think it isn't so cheap.
-Она думает, что он не прав. - She thinks that he isn't right.
-Я думаю, это не реально. - I think it isn't real.
-Я думаю, что это не лучший ответ. - I think that it isn't the best answer.
-Он не уверен. - He isn't sure.
-Это не возможно. - It isn't possible.
-Это возможно. - It's possible.
-Мы не так близко. - We aren't so near.
-Это не так близко. - It isn't so near.
-Они так близко. - They're so near.
-Я знаю, она не на работе сейчас. -I know she isn't at work now.
-Он знает, она не на работе сейчас. - He knows she isn't at work now.
-Ты знаешь, она не в школе сейчас. - You know she isn't at school now.
-Я думаю, это не ошибка. - I think it isn't a mistake.
-Она думает, это не ошибка. - She thinks it isn't a mistake.
-Мы думаем, это ошибка. - We think it's a mistake.
-Мы не уверены. - We aren't sure.
-Мы уверены. - We're sure.
-Это не бесплатно. - It isn't free.
-Это бесплатно. - It's free.
-Я думаю, что это не правильно. - I think that it isn't right.
-Я думаю, это правильно. - I think it's right.
-Я думаю, это не лучшее решение. - I think it isn't the best decision.
-Она думает, это лучшее решение. - She thinks it's the best decision.
-Я вижу, это не эффективно. - I see it isn't effective.
-Я вижу, что это эффективно. - I see that it's effective.
-Это не так далеко. - It isn't so far.
-Это так далеко. - It's so far.
-Это не эффективно. - It isn't effective.
-Я не уверен. - I'm not sure.
-Это не правильно. - It isn't correct. / It isn't right.
-Я знаю, это не далеко. - I know it isn't far.
-Я вижу, это не так близко. - I see it isn't so near.
-Я думаю, это невозможно. - I think it isn't possible. / I think it's impossible.
-Это не лучший ответ. - It isn't the best answer.
-Я вижу, это не так дёшево. - I see it isn't so cheap.
-Я не боюсь этих вещей. - I'm not afraid of these things.
-Я вижу, они не счастливы вместе. - I see they aren't happy together.
-Я не боюсь. - I'm not afraid.
-Это не реально. - It isn't real.
-Они не боятся. - They aren't afraid.
-Я вижу, это не лучшая идея. - I see it isn't the best idea.
-Он не боится этого. - He isn't afraid of it.
+Я не дома. - I am not at home.
+Они не счастливы. - They are not happy.
+Она не занята сейчас. - She is not busy now.
+Это не так сложно. - It is not so difficult.
+Она не занята сейчас. - She is not busy now.
+Это не популярно. - It is not popular.
+Они не счастливы. - They are not happy.
+Это не так интересно для меня. - It is not interesting for me.
+Мы не здесь. - We are not here.
+Это не лучше. - It is not better.
+Ты не прав. - You are not right. / You are wrong.
+Это не популярно сейчас. - It is not popular now.
+Он не прав. - He is not right. / He is wrong.
+Он не молодой. - He is not young.
+Я не дома. - I am not at home.
+Это не проблема. - It is not a problem.
+Они не женаты. - They are not married.
+Это не так много. - It is not so much.
+Она не ленивая. - She is not lazy.
+Это не легко. - It is not easy.
+Он не женат. - He is not married.
+Это не дорого. - It is not expensive.
+Я не ленивый. - I am not lazy.
+Они не богаты. - They are not rich.
+Это не важно. - It is not important.
+Это не так хорошо. - It is not so good.
+Они не такие трудолюбивые. - They are not so hard-working.
+Он не доктор. - He is not a doctor.
+Она не замужем. - She is not married.
+Это не интересно. - It is not interesting.
+Это не мало. - It is not little.
+Она не старая. - She is not old.
+Это не много. - It is not much.
+Это не так легко. - It is not so easy.
+Он не такой трудолюбивый. - He is not so hard-working.
+Она не учительница. - She is not a teacher.
+Они не друзья. - They are not friends.
+Он не менеджер. - He is not a manager.
+Это не сложно. - It is not diffcult.
+Она не счастлива. - She is not happy. / She is unhappy.
+Он не бедный. - He is not poor.
+Они сейчас не в школе. - They are not at school now.
+Это не так плохо. - It is not so bad.
+Я думаю, это не правильно. - I think it is not right.
+Это не лучшее решение. - It is not the best decision.
+Я знаю, он не дома сейчас. - I know he is not at home now.
+Я знаю, это не бесплатно. - I know it is not free.
+Это не лучшая идея. - It is not the best idea.
+Я вижу, это не дорого. - I see it is not expensive.
+Я знаю, они не правы. - I know they are not right. / I know they are wrong.
+Я думаю, что это не так плохо. - I think that it is not so bad.
+Это не правильно. - It is not correct. / It is not right.
+Я не боюсь этого. - I am not afraid of it.
+Я думаю, это не так дёшево. - I think it is not so cheap.
+Она думает, что он не прав. - She thinks that he is not right.
+Я думаю, это не реально. - I think it is not real.
+Я думаю, что это не лучший ответ. - I think that it is not the best answer.
+Он не уверен. - He is not sure.
+Это не возможно. - It is not possible.
+Это возможно. - It is possible.
+Мы не так близко. - We are not so near.
+Это не так близко. - It is not so near.
+Они так близко. - They are so near.
+Я знаю, она не на работе сейчас. -I know she is not at work now.
+Он знает, она не на работе сейчас. - He knows she is not at work now.
+Ты знаешь, она не в школе сейчас. - You know she is not at school now.
+Я думаю, это не ошибка. - I think it is not a mistake.
+Она думает, это не ошибка. - She thinks it is not a mistake.
+Мы думаем, это ошибка. - We think it is a mistake.
+Мы не уверены. - We are not sure.
+Мы уверены. - We are sure.
+Это не бесплатно. - It is not free.
+Это бесплатно. - It is free.
+Я думаю, что это не правильно. - I think that it is not right.
+Я думаю, это правильно. - I think it is right.
+Я думаю, это не лучшее решение. - I think it is not the best decision.
+Она думает, это лучшее решение. - She thinks it is the best decision.
+Я вижу, это не эффективно. - I see it is not effective.
+Я вижу, что это эффективно. - I see that it is effective.
+Это не так далеко. - It is not so far.
+Это так далеко. - It is so far.
+Это не эффективно. - It is not effective.
+Я не уверен. - I am not sure.
+Это не правильно. - It is not correct. / It is not right.
+Я знаю, это не далеко. - I know it is not far.
+Я вижу, это не так близко. - I see it is not so near.
+Я думаю, это невозможно. - I think it is not possible. / I think it is impossible.
+Это не лучший ответ. - It is not the best answer.
+Я вижу, это не так дёшево. - I see it is not so cheap.
+Я не боюсь этих вещей. - I am not afraid of these things.
+Я вижу, они не счастливы вместе. - I see they are not happy together.
+Я не боюсь. - I am not afraid.
+Это не реально. - It is not real.
+Они не боятся. - They are not afraid.
+Я вижу, это не лучшая идея. - I see it is not the best idea.
+Он не боится этого. - He is not afraid of it.
