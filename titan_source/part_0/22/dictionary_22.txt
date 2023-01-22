@@ -8,13 +8,13 @@ email - электронная почта
 (in the) evening - вечером
 horse - лошадь
 information - информация
-lose - терять
+lose - терять; проигрывать
 meet - встречать
-must - должен
+must - должен (мод. гл.)
 o'clock - час
 please - пожалуйста
 ride - ездить, кататься
-should - следует
+should - следует (мод. гл.)
 something - что-то; кое-что
 stay - оставаться
 today - сегодня
