@@ -3,4 +3,4 @@ https://www.youtube.com/watch?v=WjnKDFCJg7Q&list=PLD6SPjEPomasNzHuJpcS1Fxa2PYf1B
 
 # Description
 Present Simple.
-100 гдаголов английского языка в разных формах (часть 2).
+100 глаголов английского языка в разных формах (часть 2).
