@@ -2,3 +2,4 @@ titan_source/*/*/*.mp4
 titan_source/*/*/*.wav
 titan_source/part_0/training_history.txt
 scripts/test.py
+scripts/test.sh
