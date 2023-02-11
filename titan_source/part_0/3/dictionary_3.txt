@@ -19,7 +19,7 @@ question - вопрос
 sister - сестра
 some - некоторые; несколько; немного
 teacher - учитель
-time - время
+time - время; раз
 two - два
 university - университет
 woman - женщина
