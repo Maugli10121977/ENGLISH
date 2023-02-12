@@ -65,14 +65,14 @@
 Мы часто заказываем еду онлайн. - We often order food online.
 Она всегда заказывает еду онлайн. - She always orders food online.
 Он предпочитает другую еду. - He prefers another food.
-Он не хочет есть другую еду. - He does not eat another food.
+Он не хочет есть другую еду. - He does not want to eat another food.
 Я предпочитаю другую еду. - I prefer another food.
 Я хочу знать, как это работает. - I want to know how it works.
 Она хочет знать, как это работает. - She wants to know how it works.
 Мы не хотим знать, как это работает. - We do not want to know how it works.
 Я обычно заказываю это онлайн. - I usually order it online.
 Он обычно заказывает книги онлайн. - He usually orders books online.
-Она заказывает еду онлайн. - She oreders food online.
+Она заказывает еду онлайн. - She orders food online.
 Я делаю это, когда у меня есть свободное время. - I do it when I have free time.
 Ты делаешь это, когда у тебя есть свободное время. - You do it when you have free time.
 Он делает это, когда у него есть свободное время. - He does it when he has free time.
@@ -102,6 +102,6 @@
 Он делает своё домашнее задание со своими родителями. - He does his homework with his parents.
 Я мог бы помочь тебе. - I could help you.
 Ты даёшь очень интересные примеры. - You give very interesting examples.
-Я бы сделал это снова. - I could do it again.
+Я бы сделал это снова. - I would do it again.
 Я хотел бы заказать это сейчас. - I would like to order it now.
 Мы могли бы пойти туда вместе. - We could go there together.

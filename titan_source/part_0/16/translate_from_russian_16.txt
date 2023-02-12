@@ -9,7 +9,7 @@
 Это дешевле? - Is it cheaper?
 Он директор? - Is he a director?
 Он американец? - Is he American?
-Я прав? - Are I right?
+Я прав? - Am I right?
 Она твой помощник? - Is she your assistant?
 Ты занят сейчас? - Are you busy now?
 Это дороже? - Is it more expensive?
@@ -51,7 +51,7 @@
 Это интересно или нет? - Is it interesting or not?
 Ты в парке? - Are you in the park?
 Он твой парень? - Is he your boyfriend?
-Это очень важно? - It is very important?
+Это очень важно? - Is it very important?
 Это сложно или нет? - Is it difficult or not?
 Это лучшая цена? - Is it the best price?
 Они сейчас в парке? - Are they in the park now?

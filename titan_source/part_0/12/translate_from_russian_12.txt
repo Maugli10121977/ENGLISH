@@ -92,7 +92,7 @@
 Что она знает о нём? - What does she know about him?
 Что ты хочешь делать в своё свободное время? - What do you want to do in your free time?
 Какая еда тебе нравится? - What food do you like?
-Какой уровень английского ты хочешь иметь? - What level English do you want to have?
+Какой уровень английского ты хочешь иметь? - What English level do you want to have?
 Какую еду ты предпочитаешь? - What food do you prefer?
 В какое время ты обычно просыпаешься? - What time do you usually wake up?
 Какой у него уровень? - What level does he have?
