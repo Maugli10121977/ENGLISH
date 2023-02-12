@@ -59,7 +59,10 @@ try:
                     counter += 1
                     ru_sentence = i.split(' - ')[0]
                     en_sentence = i.split(' - ')[-1].rstrip('\n')
-                    answer = input(f"{counter} {ru_sentence} - ")
+                    if not en_sentence:
+                        answer = input("{0} \u001b[38;5;8m\033[03m\033[02m{1}\033[00m\033[01m - ".format(counter,ru_sentence)) # counter, ru_sentence
+                    else:
+                        answer = input("{0} \u001b[38;5;7m\033[03m\033[02m{1}\033[00m\033[01m - ".format(counter,ru_sentence)) # counter, ru_sentence
                     if en_sentence and answer not in en_sentence.split(' / '):
                         training_history.writelines("НЕВЕРНО!\n")
                         training_history.writelines(f"{ru_sentence} - {answer}\n")
@@ -67,10 +70,10 @@ try:
                         training_history.writelines(f"{ru_sentence} - {en_sentence}\n\n")
                         training_history.flush()
                         print("")
-                        print("\033[93m{0}\033[06m\033[00m".format("НЕВЕРНО!"))
-                        print("{0} - \033[91m{1}\033[05m\033[00m".format(ru_sentence, answer))
+                        print("\033[93m{0}\033[06m\033[00m\033[01m".format("НЕВЕРНО!"))
+                        print("{0} - \033[91m{1}\033[05m\033[00m\033[01m".format(ru_sentence, answer))
                         print("Правильный ответ:    ")
-                        print("{0} - \033[92m{1}\033[03m\033[00m".format(ru_sentence, en_sentence))
+                        print("{0} - \033[92m{1}\033[03m\033[00m\033[01m".format(ru_sentence, en_sentence))
                         print("")
                     sleep(1)
             else:
