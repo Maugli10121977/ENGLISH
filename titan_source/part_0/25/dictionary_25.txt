@@ -18,4 +18,5 @@ sandwich - бутерброд
 theatre - театр
 (the) third - третий
 tomorrow - завтра
+the day after tomorrow - послезавтра
 will - буду, будет
