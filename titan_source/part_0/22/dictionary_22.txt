@@ -4,7 +4,7 @@ bike - велосипед
 careful - осторожный
 check - проверять
 continue - продолжать
-email - электронная почта
+email - электронная почта; электронное письмо
 (in the) evening - вечером
 horse - лошадь
 information - информация
