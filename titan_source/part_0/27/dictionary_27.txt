@@ -1,6 +1,7 @@
 arrive - прибывать
 basketball - баскетбол
-convenient - удобный
+comfortable - удобно (комфортно)
+convenient - удобно (подходяще)
 disagree - не соглашаться
 funny - смешной, забавный
 harder - усерднее
