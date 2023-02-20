@@ -78,7 +78,7 @@
 Он делает это, когда у него есть свободное время. - He does it when he has free time.
 Ты можешь положить это на стол. - You can put it on the table.
 Я могу положить это на стол. - I can put it on the table.
-Мы не можем положить это на стол. - We do not put it on the table.
+Мы не можем положить это на стол. - We cannot put it on the table.
 Я хотел бы заказать эту еду. - I would like to order this food.
 Он хотел бы заказать этот чай. - He would like to order this tea.
 Мы хотели бы заказать эти торты. - We would like to order these cakes.
