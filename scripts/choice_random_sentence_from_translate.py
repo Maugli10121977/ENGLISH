@@ -15,7 +15,7 @@ def h():
 list_sentences = []
 counter = 0
 start_lesson = 1
-stop_lesson = len(os.listdir())-1 # 50
+stop_lesson = len(os.listdir())-2 # 50
 if ('--start' and '--stop') in sys.argv:
     start_lesson = int(sys.argv[sys.argv.index('--start')+1])
     stop_lesson = int(sys.argv[sys.argv.index('--stop')+1])
@@ -41,10 +41,9 @@ shuffle(list_sentences)
 
 try:
     training_history = open(f'{root_directory}/training_history.txt', 'a')
-    if sys.argv[1] == '--help' or ('--start' and '--stop') not in sys.argv:
+    if ((sys.argv[1] == '--help') or (('--start' and '--stop') not in sys.argv)):
         training_history.close()
         h()
-        exit()
     else:
         date_time = datetime.now()
         training_history.writelines('*' * 40 + '\n')
@@ -80,12 +79,9 @@ try:
                 continue
 except KeyboardInterrupt: # ^C
     print('\nВыполнение прервано.')
-    exit()
-except ValueError:
+except IndexError:
     h()
-    exit()
 finally:
     #print('Урок окончен.')
     print('\n')
     training_history.close()
-    exit()
