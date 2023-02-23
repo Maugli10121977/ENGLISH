@@ -10,7 +10,7 @@ lunch - обед
 museum - музей
 pleasure - удовольствие
 podcast - подкаст
-present - подарок
+present - подарок; настоящее (время); присутствующий
 project - проект
 recommendation - рекомендация
 sandwich - бутерброд
