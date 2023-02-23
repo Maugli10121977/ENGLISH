@@ -16,8 +16,9 @@ list_sentences = []
 counter = 0
 start_lesson = 1
 stop_lesson = len(os.listdir())-2 # 50
-if ('--start' and '--stop') in sys.argv:
+if '--start' in sys.argv:
     start_lesson = int(sys.argv[sys.argv.index('--start')+1])
+if '--stop' in sys.argv:
     stop_lesson = int(sys.argv[sys.argv.index('--stop')+1])
 count = 80
 if '--count' in sys.argv:
@@ -80,6 +81,8 @@ try:
 except KeyboardInterrupt: # ^C
     print('\nВыполнение прервано.')
 except IndexError:
+    h()
+except ValueError:
     h()
 finally:
     #print('Урок окончен.')
