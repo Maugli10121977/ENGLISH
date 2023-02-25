@@ -1,95 +1,94 @@
-Мы не будем жить в том доме. - 
-Я не буду делать те упражнения. - 
-Это не будет ошибкой. - 
-Это не будет интересно ему. - 
-Он не узнает этого. - 
-Мне не понадобится это. - 
-Я не буду делать эти упражнения. - 
-Мы не будем жить в том доме. - 
-Я не буду жить в этой квартире. - 
-Это не будет ошибкой. - 
-Тебе не понравится эта идея. - 
-Это не будет так дёшево. - 
-Я не буду парковаться здесь. - 
-Ты не увидишь это сейчас. - 
-Он не пойдёт на работу завтра. - 
-У меня не будет много свободного времени. - 
-Тебе не понравится её новое платье. - 
-Это тебе не сильно поможет. - 
-Они не пойдут в театр. - 
-Это не будет правильно. - 
-Я не буду покупать машину. - 
-Я не скажу ему эту вещь. - 
-Она не согласится. - 
-Они не будут играть в теннис. - 
-Это не будет слишком дорого. - 
-Это не принесёт ему хороших денег. - 
-Мы не будем играть в эту игру. - 
-Это не поможет тебе в этой ситуации. - 
-Я не скажу это. - 
-Я не пойду в университет завтра. - 
-Это не будет стоить меньше. - 
-Я не буду покупать эти билеты. - 
-Мы не поедем в Испанию в этом году. - 
-Я не куплю этот мобильный телефон. - 
-Я не буду свободен. - 
-Он не поймёт это. - 
-Меня не будет там завтра. - 
-Это не будет стоить меньше. - 
-Мы не будем говорить об этом. - 
-Мне не нужна будет твоя помощь. - 
-Это не поможет тебе. - 
-Я не пойду в ресторан. - 
-Они не поймут это. - 
-Я не буду в офисе завтра. - 
-Ситуация не изменится немедленно. - 
-Это не будет лучшим выбором. - 
-Я не пойду в супермаркет. - 
-У меня не будет времени на это. - 
-Мы не пойдём в магазин прямо сейчас. - 
-Я думаю, это не случится с нами. - 
-Он не придёт к нам завтра. - 
-Мне кажется, она не откажется помочь нам. - 
-Мы не пойдём в ресторан сегодня вечером. - 
-Я не пойду на эту вечеринку. - 
-Тот проект не будет таким успешным. - 
-Мы не пойдём в тот магазин. - 
-Это не изменится немедленно. - 
-Я думаю, что он не согласится сделать это. - 
-Я думаю, он не согласится сделать это. - 
-Она не заплатит за это. - 
-Она не будет платить за меня. - 
-Его не будет в офисе послезавтра. - 
-Её не будет в офисе завтра. - 
-Меня не будет на работе послезавтра. - 
-Это не будет лучшим решением. - 
-Это не будет лучшим решением. - 
-Я не буду покупать такого рода вещи. - 
-Я не куплю эти вещи. - 
-Он думает, у меня не будет много времени на это. - 
-Она думает, у неё не будет много времени на это. - 
-Они думают, у них не будет много времени на это. - 
-Меня не будет в университете завтра. - 
-Меня не будет в офисе завтра. - 
-Мне кажется, она не поймёт этого. - 
-Ей кажется, я этого не пойму. - 
-Её не будет в школе сегодня. - 
-Меня не будет в школе завтра. - 
-Её не будет на работе сегодня. - 
-Я думаю, что ему не понравится это предложение. - 
-Я думаю, что ему не понравится то предложение. - 
-Я не пойду в этот супермаркет. - 
-Я думаю, он не согласится. - 
-Я не буду тратить своё время на эти вещи. - 
-Я думаю, она не сдаст этот тест. - 
-Она не согласится сделать это. - 
-Я думаю, он не откажется сделать это. - 
-Я не пойду в кино сегодня вечером. - 
-Он не откажется сделать это. - 
-Это не будет то же самое. - 
-Я думаю, что он не сдаст этот экзамен. - 
-Я не буду платить за это. - 
-Он думает, что это не будет ошибкой. - 
-Я думаю, она не подпишет те документы. - 
-Этот проект не будет успешным. - 
-Он не подпишет этот документ. - 
+Мы не будем жить в том доме. - We will not live in that house.
+Я не буду делать те упражнения. - I will not do those exercises.
+Это не будет ошибкой. - It will not be a mistake.
+Это не будет интересно ему. - It will not be interesting for him.
+Он не узнает этого. - He will not know it.
+Мне не понадобится это. - I will not need it.
+Я не буду делать эти упражнения. - I will not do those exercises.
+Мы не будем жить в том доме. - We will not live in that house.
+Я не буду жить в этой квартире. - I will not live in this apartment.
+Это не будет ошибкой. - It will not be a mistake.
+Тебе не понравится эта идея. - You will not like this idea.
+Это не будет так дёшево. - It will not be so cheap.
+Я не буду парковаться здесь. - I will not park here.
+Ты не увидишь это сейчас. - You will not see it now.
+Он не пойдёт на работу завтра. - He will not go to work tomorrow.
+У меня не будет много свободного времени. - I will not have much free time.
+Тебе не понравится её новое платье. - You will not like her new dress.
+Это тебе не сильно поможет. - It will not help you much.
+Они не пойдут в театр. - They will not go to the theatre.
+Это не будет правильно. - It will not be right.
+Я не буду покупать машину. - I will not buy a car.
+Я не скажу ему эту вещь. - I will not tell him this thing.
+Она не согласится. - She will not agree.
+Они не будут играть в теннис. - They will not play tennis.
+Это не будет слишком дорого. - It will not be too expensive.
+Это не принесёт ему хороших денег. - It will not bring him good money.
+Мы не будем играть в эту игру. - We will not play this game.
+Это не поможет тебе в этой ситуации. - It will not help you in this situation.
+Я не скажу это. - I will not say it.
+Я не пойду в университет завтра. - I will not go to university tomorrow.
+Это не будет стоить меньше. - It will not cost less.
+Я не буду покупать эти билеты. - I will not buy these tickets.
+Мы не поедем в Испанию в этом году. - We will not go to Spain this year.
+Я не куплю этот мобильный телефон. - I will not buy this mobile phone.
+Я не буду свободен. - I will not be free.
+Он не поймёт это. - He will not understand it.
+Меня не будет там завтра. - I will not be there tomorrow.
+Это не будет стоить меньше. - It will not cost less.
+Мы не будем говорить об этом. - We will not talk about it.
+Мне не нужна будет твоя помощь. - I will not need your help.
+Это не поможет тебе. - It will not help you.
+Я не пойду в ресторан. - I will not go to the restaurant.
+Они не поймут это. - They will not understand it.
+Я не буду в офисе завтра. - I will not be in the office tomorrow.
+Ситуация не изменится немедленно. - The situation will not change immediately.
+Это не будет лучшим выбором. - It will not be the best choice.
+Я не пойду в супермаркет. - I will not go to the supermarket.
+У меня не будет времени на это. - I will not have time for it.
+Мы не пойдём в магазин прямо сейчас. - We will not go to the shop right now.
+Я думаю, это не случится с нами. - I think it will not happen to us.
+Он не придёт к нам завтра. - He will not come to us tomorrow.
+Мне кажется, она не откажется помочь нам. - It seems to me she will not refuse to help us.
+Мы не пойдём в ресторан сегодня вечером. - We will not go to the restaurant tonight.
+Я не пойду на эту вечеринку. - I will not go to this party.
+Тот проект не будет таким успешным. - That project will not be so successful.
+Мы не пойдём в тот магазин. - We will not go to that shop.
+Это не изменится немедленно. - It will not change immediately.
+Я думаю, что он не согласится сделать это. - I think that he will not agree to do it.
+Я думаю, он не согласится сделать это. - I think he will not agree to do it.
+Она не заплатит за это. - She will not pay for it.
+Она не будет платить за меня. - She will not pay for me.
+Его не будет в офисе послезавтра. - He will not be in the office the day after tomorrow.
+Её не будет в офисе завтра. - She will not be in the office tomorrow.
+Меня не будет на работе послезавтра. - I will not be at work the day after tomorrow.
+Это не будет лучшим решением. - It will not be the best decision.
+Я не буду покупать такого рода вещи. - I will not buy this kind of things.
+Я не куплю эти вещи. - I will not buy these things.
+Он думает, у меня не будет много времени на это. - He thinks I will not have much time for it.
+Она думает, у неё не будет много времени на это. - She thinks she will not have much time for it.
+Они думают, у них не будет много времени на это. - They think they will not have much time for it.
+Меня не будет в университете завтра. - I will not be at university tomorrow.
+Меня не будет в офисе завтра. - I will not be in the office tomorrow.
+Мне кажется, она не поймёт этого. - It seems to me she will not understand it.
+Ей кажется, я этого не пойму. - It seems to her I will not understand it.
+Её не будет в школе сегодня. - She will not be at school today.
+Меня не будет в школе завтра. - I will not be at school tomorrow.
+Её не будет на работе сегодня. - She will not be at work today.
+Я думаю, что ему не понравится это предложение. - I think that he will not like this offer.
+Я думаю, что ему не понравится то предложение. - I think that he will not like that offer.
+Я не пойду в этот супермаркет. - I will not go to this supermarket.
+Я думаю, он не согласится. - I think he will not agree.
+Я не буду тратить своё время на эти вещи. - I will not spend my time on these things.
+Я думаю, она не сдаст этот тест. - I think she will not pass this test.
+Она не согласится сделать это. - She will not agree to do it.
+Я думаю, он не откажется сделать это. - I think he will not refuse to do it.
+Я не пойду в кино сегодня вечером. - I will not go to the cinema tonight.
+Он не откажется сделать это. - He will not refuse to do it.
+Это не будет то же самое. - It will not be the same.
+Я думаю, что он не сдаст этот экзамен. - I think that he will not pass this exam.
+Я не буду платить за это. - I will not pay for it.
+Он думает, что это не будет ошибкой. - He thinks that it will not be a mistake.
+Я думаю, она не подпишет те документы. - I think she will not sign those documents.
+Этот проект не будет успешным. - This project will not be successful.
+Он не подпишет этот документ. - He will not sign this document.
