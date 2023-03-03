@@ -52,7 +52,7 @@
 Он мой друг. - He is my friend.
 Мы студенты. - We are students.
 Они менеджеры. - They are managers.
-Это вопрос. - This is a question.
+Это вопрос. - It is a question.
 Он в своей комнате. - He is in his room.
 Она в своей комнате. - She is in her room.
 Я действительно уверен. - I am really sure.
