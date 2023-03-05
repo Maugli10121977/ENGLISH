@@ -80,6 +80,10 @@ try:
                 continue
 except KeyboardInterrupt: # ^C
     print('\nВыполнение прервано.')
+    exit()
+except EOFError:
+    print('\n\nВыполнение прервано.')
+    exit()
 except IndexError:
     h()
 except ValueError:
