@@ -1,101 +1,101 @@
-Что ты будешь делать? - 
-Почему это будет необходимо? - 
-Когда ты окончишь университет? - 
-Когда она доберётся до того места? - 
-Что ты будешь делать? - 
-Что будет на завтрак? - 
-Это будет за деньги? - 
-Кто будет с тобой? - 
-Как ты это сделаешь? - 
-Когда ты будешь играть в футбол? - 
-Когда это будет возможно? - 
-Кто ещё это поддержит? - 
-Почему это будет необходимо? - 
-Когда ты будешь готов? - 
-Когда ты будешь свободен? - 
-Что станет дешевле? - 
-Почему он откажется? - 
-Что станет дороже? - 
-Кто проиграет? - 
-Ты купишь компьютер? - 
-Почему это будет так важно? - 
-Твои друзья пойдут туда с тобой? - 
-Когда он пойдёт в университет? - 
-Ты продашь свою старую машину? - 
-Твой друг будет там? - 
-Когда ты поедешь в Соединённые Штаты? - 
-Почему это случится? - 
-Кто будет работать с ним? - 
-Что случится? - 
-Кто будет работать с тобой? - 
-Кто поддержит эту идею? - 
-Когда мы встретимся? - 
-Где ты будешь завтра? - 
-Что будет на обед? - 
-Что мы будем делать в этой ситуации? - 
-Что будет на ужин? - 
-Когда ты пойдёшь в школу? - 
-Кто победит? - 
-Что будет бесплатно? - 
-Когда ты вернёшься? - 
-Что будет лучше? - 
-Кому ты позвонишь? - 
-Что ты скачаешь? - 
-Когда она поедет в Канаду? - 
-Во сколько ты вернёшься домой? - 
-Когда ты поедешь на море? - 
-Когда ты будешь готов поговорить об этом? - 
-Когда ты окончишь университет? - 
-Когда они поедут на море в следующий раз? - 
-Какой ответ ты выберешь? - 
-Когда ты доберёшься до работы? - 
-Когда ты пойдёшь в отпуск? - 
-Чью книгу ты возьмёшь? - 
-Когда она поедет на море в следующий раз? - 
-Когда ты будешь готов обсудить это со мной? - 
-Сколько денег это будет стоить? - 
-Кто там будет присутствовать? - 
-Как долго это будет длиться? - 
-Когда они доберутся до школы? - 
-Когда ты пойдёшь на пляж? - 
-Когда ты поедешь в эту страну? - 
-Почему он пойдёт в парк? - 
-Когда ты доберёшься сюда? - 
-Когда она доберётся до этого места? - 
-Когда мы доберёмся туда? - 
-Как часто ты будешь ходить в спортзал? - 
-Как часто она будет ходить в спортзал? - 
-Во сколько ты вернёшься? - 
-Когда он придёт домой? - 
-Во сколько она вернётся домой? - 
-Те новости действительно удивят его? - 
-Эта информация действительно удивит её? - 
-Эти книги действительно удивят тебя? - 
-Как ты решишь эту проблему? - 
-Как она решит эту проблему? - 
-Как ты решишь эти проблемы? - 
-Сколько людей будет там? - 
-Сколько детей будет там? - 
-Какое время будет более удобным для тебя? - 
-Какое время будет более удобным для него? - 
-Какое время будет более полезным для нас? - 
-Сколько это будет стоить? - 
-Сколько денег они будут стоить? - 
-Когда он окончит университет? - 
-Когда она окончит университет? - 
-Когда ты окончишь университет? - 
-Кто будет отсутствовать? - 
-Когда ты мне перезвонишь? - 
-Эта новость удивит их? - 
-Когда ты доберёшься домой? - 
-В какое время ты будешь там? - 
-В какое время ты придёшь на работу? - 
-Что будет за деньги? - 
-В какое время это будет? - 
-Как регулярно ты будешь тренироваться? - 
-Когда они решат ту проблему? - 
-Когда ты будешь отсутствовать? - 
-Когда она доберётся до того места? - 
-Почему он будет отсутствовать? - 
-Когда ты окончишь школу? - 
-Сколько денег ты на это потратишь? - 
+Что ты будешь делать? - What will you do?
+Почему это будет необходимо? - Why will it be necessary?
+Когда ты окончишь университет? - When will you graduate from university?
+Когда она доберётся до того места? - When will she get to that place?
+Что ты будешь делать? - What will you do?
+Что будет на завтрак? - What will be for breakfast?
+Это будет за деньги? - Will it be for money?
+Кто будет с тобой? - Who will be with you?
+Как ты это сделаешь? - How will you do it?
+Когда ты будешь играть в футбол? - When will you play football?
+Когда это будет возможно? - When will it be possible?
+Кто ещё это поддержит? - Who else will support it?
+Почему это будет необходимо? - Why will it be necessary?
+Когда ты будешь готов? - When will you be ready?
+Когда ты будешь свободен? - When will you be free?
+Что станет дешевле? - What will become cheaper?
+Почему он откажется? - Why will he refuse?
+Что станет дороже? - What will become more expensive?
+Кто проиграет? - Who will lose?
+Ты купишь компьютер? - Will you buy a computer?
+Почему это будет так важно? - Why will it be so important?
+Твои друзья пойдут туда с тобой? - Will your friends go there with you?
+Когда он пойдёт в университет? - When will he go to university?
+Ты продашь свою старую машину? - Will you sell your old car?
+Твой друг будет там? - Will your friend be there?
+Когда ты поедешь в Соединённые Штаты? - When will you go to the United States?
+Почему это случится? - Why will it happen?
+Кто будет работать с ним? - Who will work with him?
+Что случится? - What will happen?
+Кто будет работать с тобой? - Who will work with you?
+Кто поддержит эту идею? - Who will support this idea?
+Когда мы встретимся? - When will we meet?
+Где ты будешь завтра? - Where will you be tomorrow?
+Что будет на обед? - What will be for lunch?
+Что мы будем делать в этой ситуации? - What will we do in this situation?
+Что будет на ужин? - What will be for dinner?
+Когда ты пойдёшь в школу? - When will you go to school?
+Кто победит? - Who will win?
+Что будет бесплатно? - What will be free?
+Когда ты вернёшься? - When will you come back?
+Что будет лучше? - What will be better?
+Кому ты позвонишь? - Who will you call?
+Что ты скачаешь? - What will you download?
+Когда она поедет в Канаду? - When will she go to Canada?
+Во сколько ты вернёшься домой? - What time will you come back home?
+Когда ты поедешь на море? - When will you go to the sea?
+Когда ты будешь готов поговорить об этом? - When will you be ready to talk about it?
+Когда ты окончишь университет? - When will you graduate from university?
+Когда они поедут на море в следующий раз? - When will they go to the sea next time?
+Какой ответ ты выберешь? - Which answer will you choose?
+Когда ты доберёшься до работы? - When will you get to work?
+Когда ты пойдёшь в отпуск? - When will you go on holiday?
+Чью книгу ты возьмёшь? - Whose book will you take?
+Когда она поедет на море в следующий раз? - When will she go to the sea next time?
+Когда ты будешь готов обсудить это со мной? - When will you be ready to discuss it with me?
+Сколько денег это будет стоить? - How much money will it cost?
+Кто там будет присутствовать? - Who will be present there?
+Как долго это будет длиться? - How long will it last?
+Когда они доберутся до школы? - When will they get to school?
+Когда ты пойдёшь на пляж? - When will you go to the beach?
+Когда ты поедешь в эту страну? - When will you go to this country?
+Почему он пойдёт в парк? - Why will he go to the park?
+Когда ты доберёшься сюда? - When will you get here?
+Когда она доберётся до этого места? - When will she get to this place?
+Когда мы доберёмся туда? - When will we get there?
+Как часто ты будешь ходить в спортзал? - How often will you go to the gym?
+Как часто она будет ходить в спортзал? - How often will she go to the gym?
+Во сколько ты вернёшься? - What time will you come back?
+Когда он придёт домой? - When will he come home?
+Во сколько она вернётся домой? - What time will she come back home?
+Те новости действительно удивят его? - Will that news really surprise him?
+Эта информация действительно удивит её? - Will this information really surprise her?
+Эти книги действительно удивят тебя? - Will these books really surprise you?
+Как ты решишь эту проблему? - How will you solve this problem?
+Как она решит эту проблему? - How will she solve this problem?
+Как ты решишь эти проблемы? - How will you solve these problems?
+Сколько людей будет там? - How many people will be there?
+Сколько детей будет там? - How many children will be there?
+Какое время будет более удобным для тебя? - What time will be more convenient for you?
+Какое время будет более удобным для него? - What time will be more convenient for him?
+Какое время будет более полезным для нас? - What time will be more useful fo us?
+Сколько это будет стоить? - How much will it cost?
+Сколько денег они будут стоить? - How much money will they cost?
+Когда он окончит университет? - When will he graduate from university?
+Когда она окончит университет? - When will she graduate from university?
+Когда ты окончишь этот университет? - When will you graduate from this university?
+Кто будет отсутствовать? - Who will be absent?
+Когда ты мне перезвонишь? - When will you call me back?
+Эта новость удивит их? - Will this news surprise them?
+Когда ты доберёшься домой? - When will you get home?
+В какое время ты будешь там? - What time will you be there?
+В какое время ты придёшь на работу? - What time will you come to work?
+Что будет за деньги? - What will be for money?
+В какое время это будет? - What time will it be?
+Как регулярно ты будешь тренироваться? - How regularly will you train?
+Когда они решат ту проблему? - When will they solve that problem?
+Когда ты будешь отсутствовать? - When will you be absent?
+Когда она доберётся до того места? - When will she get to that place?
+Почему он будет отсутствовать? - Why will he be absent?
+Когда ты окончишь школу? - When will you finish school?
+Сколько денег ты на это потратишь? - How much money will you spend on it?
