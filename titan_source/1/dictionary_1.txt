@@ -21,7 +21,7 @@ live - жить
 in - в
 Russia - Россия
 New York - Нью-Йорк
-country - страна
+country - страна; деревня
 we - мы
 they - они
 help - помощь, помогать
