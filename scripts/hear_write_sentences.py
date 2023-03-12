@@ -4,7 +4,7 @@ import sys
 import time
 import random
 
-root_directory = '/data/data/com.termux/files/home/ENGLISH/titan_source/part_0'
+root_directory = '/data/data/com.termux/files/home/ENGLISH/titan_source'
 
 need_files = []
 def get_need_files():
@@ -64,7 +64,7 @@ def main():
 
 try:
     main()
-except (KeyboardInterrupt, SystemExit):
+except (KeyboardInterrupt, EOFError):
     exit()
 finally:
     if '-h' not in sys.argv:
