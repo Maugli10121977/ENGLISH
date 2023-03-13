@@ -2,7 +2,7 @@ absent - отсутствующий
 beach - пляж
 Canada - Канада
 else - ещё
-gym - спортзал
+gym - зал; спортзал
 graduate (from) - окончить (ВУЗ)
 long - длинный; долго
 news - новости

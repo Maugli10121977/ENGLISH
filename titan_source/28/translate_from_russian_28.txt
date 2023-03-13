@@ -37,12 +37,12 @@
 Когда ты пойдёшь в школу? - When will you go to school?
 Кто победит? - Who will win?
 Что будет бесплатно? - What will be free?
-Когда ты вернёшься? - When will you come back?
+Когда ты вернёшься? - When will you come back? / When will you be back? / When will you return?
 Что будет лучше? - What will be better?
 Кому ты позвонишь? - Who will you call?
 Что ты скачаешь? - What will you download?
 Когда она поедет в Канаду? - When will she go to Canada?
-Во сколько ты вернёшься домой? - What time will you come back home?
+Во сколько ты вернёшься домой? - What time will you come back home? / What time will you return home?
 Когда ты поедешь на море? - When will you go to the sea?
 Когда ты будешь готов поговорить об этом? - When will you be ready to talk about it?
 Когда ты окончишь университет? - When will you graduate from university?
@@ -65,9 +65,9 @@
 Когда мы доберёмся туда? - When will we get there?
 Как часто ты будешь ходить в спортзал? - How often will you go to the gym?
 Как часто она будет ходить в спортзал? - How often will she go to the gym?
-Во сколько ты вернёшься? - What time will you come back?
+Во сколько ты вернёшься? - What time will you come back? / What time will you be back? / What time will you return?
 Когда он придёт домой? - When will he come home?
-Во сколько она вернётся домой? - What time will she come back home?
+Во сколько она вернётся домой? - What time will she come back home? / What time will she return home?
 Те новости действительно удивят его? - Will that news really surprise him?
 Эта информация действительно удивит её? - Will this information really surprise her?
 Эти книги действительно удивят тебя? - Will these books really surprise you?
