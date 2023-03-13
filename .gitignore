@@ -1,6 +1,5 @@
 titan_source/*/*.mp4
 titan_source/*/*.wav
-#titan_source/docs/training_history.txt
-#titan_source/docs/words_for_repeatition.txt
+titan_source/docs/*
 scripts/test.py
 scripts/test.sh
