@@ -1,4 +1,4 @@
-all - все
+all - все; весь
 document - документ
 download - скачать, скачивать
 file - файл
