@@ -28,7 +28,8 @@ hear - слышать
 how - как
 idea - идея
 little - мало
-a lot - много
+a lot (of) - много
+lots (of) - много
 on - на
 people - люди
 person - человек
