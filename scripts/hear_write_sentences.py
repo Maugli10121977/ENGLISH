@@ -4,7 +4,7 @@ import sys
 import time
 import random
 
-root_directory = '/data/data/com.termux/files/home/ENGLISH/titan_source'
+root_directory = '/data/data/com.termux/files/home/ENGLISH/titan_course'
 
 need_files = []
 def get_need_files():

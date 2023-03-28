@@ -25,7 +25,7 @@ if '--count' in sys.argv:
 counter = 0
 number_lesson = int(start_lesson)
 
-root_directory = '/data/data/com.termux/files/home/ENGLISH/titan_source'
+root_directory = '/data/data/com.termux/files/home/ENGLISH/titan_course'
 if 'training_history.txt' not in os.listdir(f'{root_directory}/docs/'):
     training_history = open(f'{root_directory}/docs/training_history.txt','w')
     training_history.close()
