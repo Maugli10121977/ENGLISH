@@ -13,7 +13,7 @@ kind - добрый; род, вид
 this kind of - такого рода, вида
 listening - аудирование
 morning - утро
-offer - предложение
+offer - предложение; предлагать
 product - продукт
 rarely - редко
 rule - правило
