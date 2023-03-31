@@ -2,6 +2,7 @@ before - перед, до
 ([at,in] the) beginning (of) - начало
 birthday - день рожденья
 ([at,in] the) end (of) - конец
+get married - жениться, пожениться, выйти замуж
 large - большой
 marry - жениться, выходить замуж
 modern - современный
