@@ -1,96 +1,96 @@
-Она тебе ответила? - 
-Ты написал письмо? - 
-Ты видел это в начале? - 
-Ты читал об этом в конце? - 
-Тебе было нужно больше денег? - 
-Ты согласился? - 
-Ты вернулся домой позже? - 
-Ты говорил о нашем обществе? - 
-Ты написал письмо? - 
-Ты помнил её фамилию? - 
-Ты получил моё сообщение? - 
-Они говорили о социальных проблемах? - 
-Ты закончил свою работу? - 
-Ты купил квартиру? - 
-Она тебе ответила? - 
-Они производили дешёвые товары? - 
-Ты ходил на работу вчера? - 
-Ты сохранил этот документ? - 
-Ты пригласил своих друзей? - 
-Ты посетил Германию на прошлой неделе? - 
-Ты понял это? - 
-Ты вспомнил его фамилию? - 
-Он ходил в школу позавчера? - 
-Ты сдал этот экзамен? - 
-Ты ездил в Англию в прошлом месяце? - 
-Ты видел её на прошлой неделе? - 
-Они говорили по-английски? - 
-Она потратила слишком много денег? - 
-Ты водил машину вчера? - 
-Это принесло тебе хорошие деньги? - 
-Вы всё обсудили? - 
-Ты снимал квартиру? - 
-Ты отправил ей сообщение? - 
-Ты учился вчера? - 
-Это казалось очень странным? - 
-Тебе нужно было больше времени? - 
-Ты думал о той вещи? - 
-Вы говорили о современных технологиях? - 
-Ты работал вчера? - 
-Они говорили о нашем современном обществе? - 
-Это случилось вчера? - 
-Они производили очень дорогие товары? - 
-Он купил большой дом? - 
-Тебе понравился этот фильм? - 
-Ты ответил на это сообщение? - 
-Ты чувствовал себя счастливым, когда ты жил там? - 
-Ты хотел сменить работу? - 
-Он женился на ней? - 
-Ты переехал в другую страну? - 
-Ты знал, что делать в той ситуации? - 
-Ты прочёл об этом в конце? - 
-Это стоило намного меньше? - 
-Ей была нужна твоя помощь? - 
-Ты ходил туда, когда учился в школе? - 
-Ты слышал эту новость? - 
-Ты купил те билеты? - 
-Она переехала за границу? - 
-Ты прибыл туда вовремя? - 
-Ей нужно было больше практики? - 
-Тебе нужно было найти это срочно? - 
-Ей нужно было сделать это срочно? - 
-Ты пригласил своих друзей на празднование своего дня рожденья? - 
-Ты хотел пригласить своих друзей на празднование своего дня рожденья? - 
-Он выиграл в конце? - 
-Ты выиграл? - 
-Это стоило намного больше? - 
-Эта вещь стоила намного больше? - 
-Это случилось или нет? - 
-Это случилось? - 
-Ты хотел найти новую работу? - 
-Ты хотел найти работу? - 
-Ты пытался найти новую работу? - 
-Ты подготовился к этому экзамену? - 
-Ты подготовился к тому экзамену? - 
-Он говорил это или нет? - 
-Ты говорил это или нет? - 
-Она хотела это или нет? - 
-Это действительно интересовало тебя? - 
-Это действительно интересовало его? - 
-Ему нужны были деньги? - 
-Ему нужно было больше денег? - 
-Она вышла за него замуж? - 
-Ты подготовился к этому тесту? - 
-Это произошло в начале? - 
-Ты прослушал этот урок? - 
-Ты пытался изменить это? - 
-Он рассказал тебе этот секрет? - 
-У тебя были какие-либо проблемы? - 
-Ты видел это в начале? - 
-Они поженились? - 
-Тебе нужно было пойти туда? - 
-Он переехал в Америку? - 
-У тебя были какие-либо вопросы? - 
-Ты знал, как сделать это лучше? - 
-Она рассказала ему тот секрет? - 
-Ты хотел это увидеть? - 
+Она тебе ответила? - Did she answer you?
+Ты написал письмо? - Did you write a letter?
+Ты видел это в начале? - Did you see it in the beginning?
+Ты читал об этом в конце? - Did you read about it in the end?
+Тебе было нужно больше денег? - Did you need more money?
+Ты согласился? - Did you agree?
+Ты вернулся домой позже? - Did you return home later? / Did you come back home later? / Did you be back home later?
+Ты говорил о нашем обществе? - Did you talk about our society?
+Ты написал письмо? - Did you write a letter?
+Ты помнил её фамилию? - Did you remember her surname? / Did you remember her last name? / Did you remember her family name?
+Ты получил моё сообщение? - Did you get my message?
+Они говорили о социальных проблемах? - Did they talk about social problems?
+Ты закончил свою работу? - Did you finish your work?
+Ты купил квартиру? - Did you buy an apartment? / Did you buy a flat?
+Она тебе ответила? - Did she answer you?
+Они производили дешёвые товары? - Did they produce cheap goods?
+Ты ходил на работу вчера? - Did you go to work yesterday?
+Ты сохранил этот документ? - Did you save this document?
+Ты пригласил своих друзей? - Did you invite your friends?
+Ты посетил Германию на прошлой неделе? - Did you visit Germany last week?
+Ты понял это? - Did you understand it?
+Ты вспомнил его фамилию? - Did you remember his surname? / Did you remember his last name? / Did you remember his family name?
+Он ходил в школу позавчера? - Did he go to school the day before yesterday?
+Ты сдал этот экзамен? - Did you pass this exam?
+Ты ездил в Англию в прошлом месяце? - Did you go to England last month?
+Ты видел её на прошлой неделе? - Did you see her last week?
+Они говорили по-английски? - Did they speak English?
+Она потратила слишком много денег? - Did she spend too much money?
+Ты водил машину вчера? - Did you drive a car yesterday?
+Это принесло тебе хорошие деньги? - Did it bring you good money?
+Вы всё обсудили? - Did you discuss everything?
+Ты снимал квартиру? - Did you rent an apartment? / Did you rent a flat?
+Ты отправил ей сообщение? - Did you send her a message?
+Ты учился вчера? - Did you study yesterday?
+Это казалось очень странным? - Did it seem very strange?
+Тебе нужно было больше времени? - Did you need more time?
+Ты думал о той вещи? - Did you think about that thing?
+Вы говорили о современных технологиях? - Did you talk about modern technologies?
+Ты работал вчера? - Did you work yesterday?
+Они говорили о нашем современном обществе? - Did they talk about our modern society?
+Это случилось вчера? - Did it happen yesterday?
+Они производили очень дорогие товары? - Did they produce very expensive goods?
+Он купил большой дом? - Did he buy a big house? / Did he buy a large house?
+Тебе понравился этот фильм? - Did you like this movie?
+Ты ответил на это сообщение? - Did you answer this message?
+Ты чувствовал себя счастливым, когда ты жил там? - Did you feel happy when you lived there?
+Ты хотел сменить работу? - Did you want to change a job?
+Он женился на ней? - Did he marry her?
+Ты переехал в другую страну? - Did you move to another country?
+Ты знал, что делать в той ситуации? - Did you know what to do in that situation?
+Ты прочёл об этом в конце? - Did you read about it in the end?
+Это стоило намного меньше? - Did it cost much less?
+Ей была нужна твоя помощь? - Did she need your help?
+Ты ходил туда, когда учился в школе? - Did you go there when you studied at school?
+Ты слышал эту новость? - Did you hear this news?
+Ты купил те билеты? - Did you buy those tickets?
+Она переехала за границу? - Did she move abroad?
+Ты прибыл туда вовремя? - Did you arrive there on time?
+Ей нужно было больше практики? - Did she need more practice?
+Тебе нужно было найти это срочно? - Did you need to find it urgently?
+Ей нужно было сделать это срочно? - Did she need to do it urgently?
+Ты пригласил своих друзей на празднование своего дня рожденья? - Did you invite your friends to your birthday party?
+Ты хотел пригласить своих друзей на празднование своего дня рожденья? - Did you want to invite your friends to your birthday party?
+Он выиграл в конце? - Did he win in the end?
+Ты выиграл? - Did you win?
+Это стоило намного больше? - Did it cost much more?
+Эта вещь стоила намного больше? -Did this thing cost much more?
+Это случилось или нет? - Did it happen or not?
+Это случилось? - Did it happen?
+Ты хотел найти новую работу? - Did you want to find a new job?
+Ты хотел найти работу? - Did you want to find a job?
+Ты пытался найти новую работу? - Did you try to find a new job?
+Ты подготовился к этому экзамену? - Did you prepare for this exam?
+Ты подготовился к тому экзамену? - Did you prepare for that exam?
+Он говорил это или нет? - Did he say it or not?
+Ты говорил это или нет? - Did you say it or not?
+Она хотела это или нет? - Did she want it or not?
+Это действительно интересовало тебя? - Did it really interest you?
+Это действительно интересовало его? - Did it really interest him?
+Ему нужны были деньги? - Did he need money?
+Ему нужно было больше денег? - Did he need more money?
+Она вышла за него замуж? - Did she marry him?
+Ты подготовился к этому тесту? - Did you prepare for this test?
+Это произошло в начале? - Did it happen in the beginning?
+Ты прослушал этот урок? - Did you listen to this lesson?
+Ты пытался изменить это? - Did you try to change it?
+Он рассказал тебе этот секрет? - Did he tell you this secret?
+У тебя были какие-либо проблемы? - Did you have any problems?
+Ты видел это в начале? - Did you see it in the beginning?
+Они поженились? - Did they get married?
+Тебе нужно было пойти туда? - Did you need to go there?
+Он переехал в Америку? - Did he move to America?
+У тебя были какие-либо вопросы? - Did you have any questions?
+Ты знал, как сделать это лучше? - Did you know how to do it better?
+Она рассказала ему тот секрет? - Did she tell him that secret?
+Ты хотел это увидеть? - Did you want to see it?
