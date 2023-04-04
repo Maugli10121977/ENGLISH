@@ -6,7 +6,8 @@ disagree - не соглашаться
 funny - смешной, забавный
 harder - усерднее
 higher - выше
-holiday - отпуск, каникулы
+holiday - отпуск; праздник
+holidays - каникулы
 join - присоединять(ся)
 laugh - смеяться
 match - матч
