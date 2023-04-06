@@ -42,7 +42,7 @@
 Кому ты позвонишь? - Who will you call?
 Что ты скачаешь? - What will you download?
 Когда она поедет в Канаду? - When will she go to Canada?
-Во сколько ты вернёшься домой? - What time will you come back home? / What time will you return home?
+Во сколько ты вернёшься домой? - What time will you come back home? / What time will you be back home? / What time will you return home?
 Когда ты поедешь на море? - When will you go to the sea?
 Когда ты будешь готов поговорить об этом? - When will you be ready to talk about it?
 Когда ты окончишь университет? - When will you graduate from university?
