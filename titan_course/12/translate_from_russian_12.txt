@@ -104,4 +104,4 @@
 Что ты хочешь поменять? - What do you want to change?
 Как регулярно ты тренируешься? - How regularly do you train?
 Как регулярно ты это делаешь? - How regularly do you do it?
-Какие города он хочет посетить? - What cities does she want to visit?
+Какие города он хочет посетить? - What cities does he want to visit?
