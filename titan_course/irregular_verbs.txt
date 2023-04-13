@@ -1,14 +1,30 @@
-делать (ошибки) : make - made - made
-идти, ходить : go - went - gone
-начинать(ся) : begin - began - begun
-купить, покупать : buy - bought - bought
-говорить, сказать : say - said - said
-получать, получить : get - got - got
-быть : be - was / were - been
-иметь : have - had - had
-рассказать, рассказывать (кому-либо) : tell - told - told
-видеть : see - saw - seen
-делать (дела) : do - did - done
-знать : know - knew - known
-чувствовать (себя) : feel - felt - felt
-приходить : come - came - come
+be - was / were - been : быть
+begin - began - begun : начинать(ся)
+break - broke - broken : ломать
+buy - bought - bought : купить, покупать
+come - came - come : приходить
+cut - cut - cut : резать
+do - did - done : делать (дела)
+drive - drove - driven : водить (авто)
+eat - ate - eaten : есть, кушать
+feel - felt - felt : чувствовать (себя)
+fly - flew - flown : летать
+forget - forgot - forgotten : забывать
+get - got - got : получать, получить
+give - gave - given : давать, дать
+go - went - gone : идти, ходить
+have - had - had : иметь
+keep - kept - kept : хранить, сохранять; держать, сдерживать
+know - knew - known : знать
+make - made - made : делать (ошибки)
+read - read - read : читать
+ride - rode - ridden : кататься (на велосипеде, на лошади)
+run - ran - run : бежать
+say - said - said : говорить, сказать
+see - saw - seen : видеть
+show - showed - shown : показывать
+sing - sang - sung : петь
+sit - sat - sat : сидеть
+sleep - slept - slept : спать
+spend - spent - spent : тратить (деньги); проводить (время)
+tell - told - told : рассказать, рассказывать (кому-либо)
