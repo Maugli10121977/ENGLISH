@@ -11,5 +11,5 @@ kill - убивать
 kiss - целовать; поцелуй
 minute - минута
 myself (himself, herself) - сам(а), себя
-suddently - вдруг, внезапно
+suddenly - вдруг, внезапно
 wash - мыть
