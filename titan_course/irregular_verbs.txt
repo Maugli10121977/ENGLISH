@@ -1,22 +1,32 @@
 be - was / were - been : быть
+become - became - become : становиться
 begin - began - begun : начинать(ся)
 break - broke - broken : ломать
+bring - brought - brought : приносить
+build - built - built : строить
 buy - bought - bought : купить, покупать
+choose - chose - chosen : выбирать
 come - came - come : приходить
+cost - cost - cost : стоить (о цене)
 cut - cut - cut : резать
 do - did - done : делать (дела)
 drive - drove - driven : водить (авто)
 eat - ate - eaten : есть, кушать
 feel - felt - felt : чувствовать (себя)
+find - found - found : находить
 fly - flew - flown : летать
 forget - forgot - forgotten : забывать
 get - got - got : получать, получить
+get up - got up - got up : вставать (проснувшись)
 give - gave - given : давать, дать
-go - went - gone : идти, ходить
+go - went - gone : идти, ходить; ехать
 have - had - had : иметь
 keep - kept - kept : хранить, сохранять; держать, сдерживать
 know - knew - known : знать
+lose - lost - lost : терять; проигрывать
 make - made - made : делать (ошибки)
+mean - meant - meant : означать; иметь ввиду
+pay - paid - paid : платить (за что-либо, кого-либо)
 read - read - read : читать
 ride - rode - ridden : кататься (на велосипеде, на лошади)
 run - ran - run : бежать
@@ -27,4 +37,10 @@ sing - sang - sung : петь
 sit - sat - sat : сидеть
 sleep - slept - slept : спать
 spend - spent - spent : тратить (деньги); проводить (время)
+speak - spoke - spoken : говорить (как-либо; или на каком-то языке)
+take - took - taken : брать, взять; принимать
+teach - taught - taught : преподавать, обучать
 tell - told - told : рассказать, рассказывать (кому-либо)
+think - thought - thought : думать
+wake up - woke up - woken up : просыпаться
+win - won - won : выигрывать; побеждать
