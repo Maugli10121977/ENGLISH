@@ -6,7 +6,7 @@ friend - друг
 interest - интересовать, интерес
 interesting - интересный
 Internet - интернет
-maths - математика
+mathematics, maths - математика
 motivate - мотивировать
 only - только
 plan - план

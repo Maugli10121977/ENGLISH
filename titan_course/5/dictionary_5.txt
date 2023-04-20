@@ -27,9 +27,7 @@ Japan - Япония
 month - месяц
 mother - мать
 next - следующий; дальше
-the United States (of America) - Соединённые Штаты (Америки)
-the USA - Соединённые Штаты Америки (сокр.)
-the United Kingdom - Соединённое Королевство
-the UK - Соединённое Королевство (сокр.)
+the United States (of America), the USA - Соединённые Штаты (Америки), США
+the United Kingdom, the UK - Соединённое Королевство
 their - их (что-либо)
 week - неделя
