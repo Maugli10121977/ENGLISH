@@ -73,7 +73,7 @@
 Она не понимает, когда это происходит. - She does not understand when it happens.
 Они не понимают, где это происходит. - They do not understand where it happens.
 Мне не нравится этот предмет. - I do not like this subject.
-Мне не нравится то предмет. - I do not like that subject.
+Мне не нравится тот предмет. - I do not like that subject.
 Ей не нравятся эти предметы. - She does not like these subjects.
 Я делаю это только иногда. - I do it only sometimes.
 Она делает это только иногда. - She does it only sometimes.
