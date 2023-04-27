@@ -1,0 +1,10 @@
+banana - банан
+beer - пиво
+copy - копия
+fall - падать
+kilo - кило
+paper - бумага
+potatoes - картошка
+then - затем
+tree - дерево
+wine - вино
