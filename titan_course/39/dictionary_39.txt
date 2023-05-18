@@ -1,6 +1,7 @@
 banana - банан
 beer - пиво
 copy - копия
+discover - обнаружить, обнаруживать
 fall - падать
 kilo - кило
 paper - бумага
