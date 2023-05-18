@@ -64,7 +64,7 @@
 Он выиграл в конце? - Did he win in the end?
 Ты выиграл? - Did you win?
 Это стоило намного больше? - Did it cost much more?
-Эта вещь стоила намного больше? -Did this thing cost much more?
+Эта вещь стоила намного больше? - Did this thing cost much more?
 Это случилось или нет? - Did it happen or not?
 Это случилось? - Did it happen?
 Ты хотел найти новую работу? - Did you want to find a new job?
