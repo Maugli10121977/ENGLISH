@@ -36,7 +36,7 @@ meet - met - met : встречать, встретить
 pay - paid - paid : платить (за что-либо, кого-либо)
 put - pit - put : ложить, положить; класть
 read - read - read : читать
-ride - rode - ridden : кататься (на велосипеде, на лошади)
+ride - rode - ridden : ездить, кататься (на велосипеде, на лошади)
 run - ran - run : бежать
 say - said - said : говорить, сказать
 see - saw - seen : видеть
