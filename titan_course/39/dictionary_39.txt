@@ -4,8 +4,10 @@ copy - копия
 discover - обнаружить, обнаруживать
 fall - падать
 kilo - кило
+lake - озеро
 paper - бумага
 potatoes - картошка
+river - река, речка
 then - затем
 tree - дерево
 wine - вино
