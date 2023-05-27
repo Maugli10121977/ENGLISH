@@ -45,7 +45,6 @@ there - там; туда
 language - язык (речь)
 every - каждый
 day - день
-do - делать
 travel - путешествовать
 year - год
 travelling - путешествие
