@@ -1,100 +1,100 @@
-Я купил килограмм яблок. - 
-Он встал, и затем он сел. - 
-Я написал это на бумаге. - 
-Он сел. - 
-Я слышал это тоже. - 
-Он пил молоко. - 
-Она отправила нам копию. - 
-Он выпил немного воды. - 
-Они продавали очень дорогие товары. - 
-Он сделал ошибку. - 
-Он пришёл домой поздно. - 
-Он написал письмо. - 
-Где ты встретил её? - 
-У него был вопрос. - 
-Она продала свой дом. - 
-Я отправил ей письмо. - 
-Они сделали несколько ошибок. - 
-Он рассказал мне всё. - 
-Он тоже пришёл на вечеринку. - 
-Они пили сок. - 
-У меня была одна интересная идея. - 
-Я купил там немного еды. - 
-Я положил это сюда. - 
-Она продавала дешёвые вещи. - 
-Она положила это туда. - 
-Он сделал слишком много ошибок. - 
-Я написал имейл. - 
-Он купил квартиру. - 
-Я отправил ей копию. - 
-Я встретил её в том месте. - 
-Он продавал дорогую одежду. - 
-Я выучил все эти слова. - 
-Этот мальчик упал. - 
-Я всё понял. - 
-Я встал. - 
-Он написал книгу. - 
-Он встал. - 
-Я купил машину. - 
-Как ты выучил китайский? - 
-Она не пришла на ту вечеринку. - 
-Она сказала мне это. - 
-Я купил немного яблок. - 
-Я выучил английский онлайн. - 
-Я всё понял очень легко. - 
-Я обнаружил несколько новых слов в этом тексте. - 
-Я выпил чашку чая. - 
-Я купил килограмм яблок. - 
-Я мог бы сделать это очень легко. - 
-Мы купили килограмм бананов. - 
-Я оставил свою сумку дома. - 
-Он оставил свои ключи в том месте. - 
-Я обнаружил так много новых слов там. - 
-Эта девушка упала на пол. - 
-Я положил это на письменный стол. - 
-Он рассказал мне, как это сделать. - 
-Я ушёл из дома очень рано. - 
-Я положил это под эту коробку. - 
-Я купил два килограмма картошки. - 
-Я встал, а затем сел. - 
-Он встал, а затем он сел. - 
-Она не встала. - 
-Он положил это на стол. - 
-Я не клал это туда. - 
-Она положила это на стол. - 
-Он положил это на его стол. - 
-Это яблоко упало с дерева. - 
-Эти яблоки упали с дерева. - 
-Эти бананы не падали с дерева. - 
-Я купил один апельсин. - 
-Он купил два яблока. - 
-Она купила пять бананов. - 
-Я не плавал в море. - 
-Я плавал в озере. - 
-Он плавает в море. - 
-Она не могла поверить этому. - 
-Он мог поверить мне. - 
-Она не могла поверить ему. - 
-Я хотел плавать в море. - 
-Он хотел плавать в море. - 
-Я не хотел плавать там. - 
-Я выучил эти слова очень легко. - 
-Я не выучил эти правила. - 
-Она выучила много новых слов там. - 
-Я слышал это по телевизору тоже. - 
-Я также слышал это по телевизору. - 
-Я мог тратить всё своё свободное время на это. - 
-Он не умел плавать. - 
-Я хотел выпить немного воды. - 
-Я мог понимать всё очень легко. - 
-Сколько ошибок она сделала? - 
-Она положила это под свой стол. - 
-Я положил это на пол. - 
-Я не хотел покупать это в том магазине. - 
-Я выпил стакан сока. - 
-Он не пил вино. - 
-Он написал это на бумаге. - 
-Я положил это около моего компьютера. - 
-Я не хотел пить пиво. - 
-Я написал это на бумаге. - 
-Он выпил чашку кофе. - 
+Я купил килограмм яблок. - I bought a kilo of apples.
+Он встал, и затем он сел. - He stood up and then he sat down.
+Я написал это на бумаге. - I wrote it on paper.
+Он сел. - He sat down.
+Я слышал это тоже. - I heard it, too.
+Он пил молоко. - He drank milk.
+Она отправила нам копию. - She sent us a copy.
+Он выпил немного воды. - He drank some water.
+Они продавали очень дорогие товары. - They sold very expensive goods.
+Он сделал ошибку. - He made a mistake.
+Он пришёл домой поздно. - He came home late.
+Он написал письмо. - He wrote a letter.
+Где ты встретил её? - Where did you meet her?
+У него был вопрос. - He had a question.
+Она продала свой дом. - She sold her house.
+Я отправил ей письмо. - I sent her a letter.
+Они сделали несколько ошибок. - They made some mistakes. / They made several mistakes. / They made a few mistakes.
+Он рассказал мне всё. - He told me everything.
+Он тоже пришёл на вечеринку. - He also came to the party. / He came to the party, too.
+Они пили сок. - They drank juice.
+У меня была одна интересная идея. - I had one interesting idea.
+Я купил там немного еды. - I bought some food there.
+Я положил это сюда. - I put it here.
+Она продавала дешёвые вещи. - She sold cheap things.
+Она положила это туда. - She put it there.
+Он сделал слишком много ошибок. - He made too many mistakes.
+Я написал имейл. - I wrote an email.
+Он купил квартиру. - He bought an apartment.
+Я отправил ей копию. - I sent her a copy.
+Я встретил её в том месте. - I met her in that place.
+Он продавал дорогую одежду. - He sold expensive clothes.
+Я выучил все эти слова. - I learnt all these words. / I learned all these words.
+Этот мальчик упал. - This boy fell.
+Я всё понял. - I understood everything.
+Я встал. - I stood up.
+Он написал книгу. - He wrote a book.
+Он встал. - He stood up.
+Я купил машину. - I bought a car. / I bought the car.
+Как ты выучил китайский? - How did you learn Chinese?
+Она не пришла на ту вечеринку. - She did not come to that party.
+Она сказала мне это. - She told me it.
+Я купил немного яблок. - I bought some apples.
+Я выучил английский онлайн. - I learnt English online. / I learned English online.
+Я всё понял очень легко. - I understood everything very easily.
+Я обнаружил несколько новых слов в этом тексте. - I discovered some new words in this text. / I discovered a few new words in this text. / I discovered several new words in this text.
+Я выпил чашку чая. - I drank a cup of tea.
+Я купил килограмм яблок. - I bought a kilo of apples.
+Я мог бы сделать это очень легко. - I could do it very easily.
+Мы купили килограмм бананов. - We bought a kilo of bananas.
+Я оставил свою сумку дома. - I left my bag at home.
+Он оставил свои ключи в том месте. - He left his keys in that place.
+Я обнаружил так много новых слов там. - I discovered so many new words there.
+Эта девушка упала на пол. - This girl fell on the floor.
+Я положил это на письменный стол. - I put it on the desk.
+Он рассказал мне, как это сделать. - He told me how to do it.
+Я ушёл из дома очень рано. - I left home very early.
+Я положил это под эту коробку. - I put it under this box.
+Я купил два килограмма картошки. - I bought two kilos of potatoes.
+Я встал, а затем сел. - I stood up and then sat down.
+Он встал, а затем он сел. - He stood up and then he sat down.
+Она не встала. - She did not stand up.
+Он положил это на стол. - He put it on the table.
+Я не клал это туда. - I did not put it there.
+Она положила это на стол. - She put it on the table.
+Он положил это на его стол. - He put it on his table.
+Это яблоко упало с дерева. - This apple fell from a tree.
+Эти яблоки упали с дерева. - These apples fell from a tree.
+Эти бананы не падали с дерева. - These bananas did not fall from a tree.
+Я купил один апельсин. - I bought one orange.
+Он купил два яблока. - He bought two apples.
+Она купила пять бананов. - She bought five bananas.
+Я не плавал в море. - I did not swim in the sea.
+Я плавал в озере. - I swam in the lake.
+Он плавает в море. - He swims in the sea.
+Она не могла поверить этому. - She could not believe it.
+Он мог поверить мне. - He could believe me.
+Она не могла поверить ему. - She could not believe him.
+Я хотел плавать в море. - I wanted to swim in the sea.
+Он хотел плавать в море. - He wanted to swim in the sea.
+Я не хотел плавать там. - I did not want to swim there.
+Я выучил эти слова очень легко. - I learnt these words very easily. / I learned these words very easily.
+Я не выучил эти правила. - I did not learn these rules.
+Она выучила много новых слов там. - She learnt many new words there. / She learned many new words there.
+Я слышал это по телевизору тоже. - I heard it on TV, too.
+Я также слышал это по телевизору. - I also heard it on TV.
+Я мог тратить всё своё свободное время на это. - I could spend all my free time on it.
+Он не умел плавать. - He could not swim.
+Я хотел выпить немного воды. - I wanted to drink some water.
+Я мог понимать всё очень легко. - I could understand everything very easily.
+Сколько ошибок она сделала? - How many mistakes did she make?
+Она положила это под свой стол. - She put it under her table.
+Я положил это на пол. - I put it on the floor.
+Я не хотел покупать это в том магазине. - I did not want to buy it in that shop.
+Я выпил стакан сока. - I drank a glass of juice.
+Он не пил вино. - He did not drink wine.
+Он написал это на бумаге. - He wrote it on paper.
+Я положил это около моего компьютера. - I put it near my computer.
+Я не хотел пить пиво. - I did want to drink beer.
+Я написал это на бумаге. - I wrote it on paper.
+Он выпил чашку кофе. - He drank a cup of coffee.
