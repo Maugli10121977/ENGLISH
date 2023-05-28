@@ -1,0 +1,5 @@
+bathroom - ванная (комната)
+century - век
+living room - гостиная (комната)
+optimistic - оптимистичный
+pessimistic - пессимистичный
