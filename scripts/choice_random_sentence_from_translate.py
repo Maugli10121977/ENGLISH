@@ -40,7 +40,8 @@ while number_lesson <= stop_lesson:
                     number_string_in_file += 1
                     ru = sentence.split(' - ')[0]
                     en = sentence.split(' - ')[-1].rstrip('\n')
-                    dict_all_sentences[f'{ru}'] = [f'{file}',f'{en}',f'{number_string_in_file}']
+                    if '*' not in en:
+                        dict_all_sentences[f'{ru}'] = [f'{file}',f'{en}',f'{number_string_in_file}']
     number_lesson += 1
 
 try:
