@@ -10,6 +10,6 @@ hair - волосы
 kill - убивать
 kiss - целовать; поцелуй
 minute - минута
-myself (himself, herself) - сам(а), себя
+myself (yourself, himself, herself) - сам(а), себя
 suddenly - вдруг, внезапно
 wash - мыть
