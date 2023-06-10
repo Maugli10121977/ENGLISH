@@ -1,0 +1,4 @@
+dentist - зубной врач
+engineer - инженер
+lonely - одинокий
+motivating - мотивирующий
