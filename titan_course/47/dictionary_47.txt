@@ -1,0 +1,7 @@
+artist - художник; артист
+company - компания
+ground - земля
+kindness - доброта
+parcel - посылка
+pie - пирог
+process - процесс
