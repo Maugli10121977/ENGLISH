@@ -4,3 +4,5 @@ most - большинство
 most of all - больше всего
 smoking - курение
 topic - тема
+turn on - включить
+turn off - выключить
