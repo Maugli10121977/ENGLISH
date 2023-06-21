@@ -1,97 +1,97 @@
-Кто был твоим учителем? - 
-Где ты был вчера? - 
-Кто был твоим учителем? - 
-Почему это было так необычно? - 
-Как он был? - 
-Кто был твоим тренером? - 
-Где он был прошлой ночью? - 
-Почему ты был там? - 
-Где это было? - 
-Кто был прав? - 
-Почему это было неправильно? - 
-Где ты был вчера? - 
-Почему она была так расстроена? - 
-Почему ты был таким уставшим? - 
-Что было лучше? - 
-Когда вы были в Италии в последний раз? - 
-Почему это было так скучно? - 
-Когда ты был за границей в последний раз? - 
-Когда ты был дома? - 
-Сколько это стоило? - 
-Почему он был такой грустный? - 
-Когда ты был в этом городе в последний раз? - 
-Где ты был в прошлом году? - 
-Почему это было так дёшево? - 
-Кто был с тобой? - 
-Они были хорошими студентами? - 
-Почему это было так важно? - 
-Где он был вчера утром? - 
-Как у неё были дела? - 
-Почему это было неправильно? - 
-Кто был неправ? - 
-Что было так сложно для тебя? - 
-Как это было? - 
-Что было так необычно для тебя? - 
-Когда ты был болен? - 
-Почему это было так дорого? - 
-Кто был с твоим братом? - 
-Почему ты был так счастлив? - 
-Когда ты был в России последний раз? - 
-Почему он был так зол? - 
-Когда ты был там последний раз? - 
-Как долго это было? - 
-Сколько было времени? - 
-Как далеко это было? - 
-Какой ответ был правильным? - 
-Что было в углу? - 
-Ты тоже был на вечеринке? - 
-Сколько ей было лет? - 
-Когда она была во дворе? - 
-Что было в классе? - 
-Что было на письменном столе? - 
-Она тоже была в том месте? - 
-Что было за коробкой? - 
-Что было в том углу? - 
-Сколько ему было лет? - 
-Кто был классе? - 
-Как часто ты был там? - 
-Он тоже там был? - 
-Она тоже там была? - 
-Он был там вчера? - 
-Когда ты был во дворе? - 
-Когда ты был в саду? - 
-Что было на столе? - 
-Кто был на столе? - 
-Что было на стуле? - 
-Какая у него была работа? - 
-Какой была её работа? - 
-Кто был его другом? - 
-Чья идея была лучше? - 
-Чья идея лучшая? - 
-Кто был в парке? - 
-Кто был в доме? - 
-Что было на дереве? - 
-Во сколько ты был там? - 
-Во сколько ты был здесь? - 
-Во сколько он был дома? - 
-Чья книга была интереснее? - 
-Которая книга была там? - 
-Какой был её ответ? - 
-Какой ответ был правильным? - 
-Какой вопрос был правильным? - 
-Какие ответы были неправильными? - 
-Сколько тебе было лет? - 
-Какой билет был дороже? - 
-Кто был во дворе? - 
-Насколько это было трудно для тебя? - 
-Он был на вечеринке? - 
-Что было в коробке? - 
-Насколько это было эффективно? - 
-Кто был за тем деревом? - 
-Кто был в лесу? - 
-Что было на полу? - 
-Кто был в саду? - 
-Ты был также с ними? - 
-Что было за той коробкой? - 
-Кто был за дверью? - 
-Насколько это было интересно? - 
+Кто был твоим учителем? - Who was your teacher?
+Где ты был вчера? - Where were you yesterday?
+Кто был твоим учителем? - Who was your teacher?
+Почему это было так необычно? - Why was it so unusual?
+Как он был? - How was he?
+Кто был твоим тренером? - Who was your trainer?
+Где он был прошлой ночью? - Where was he last night?
+Почему ты был там? - Why were you there?
+Где это было? - Where was it?
+Кто был прав? - Who was right?
+Почему это было неправильно? - Why was it wrong? / Why was it incorrect?
+Где ты был вчера? - Where were you yesterday?
+Почему она была так расстроена? - Why was she so upset?
+Почему ты был таким уставшим? - Why were you so tired?
+Что было лучше? - What was better?
+Когда вы были в Италии в последний раз? - When were you in Italy last time?
+Почему это было так скучно? - Why was it so boring?
+Когда ты был за границей в последний раз? - When were you abroad last time?
+Когда ты был дома? - When were you at home?
+Сколько это стоило? - How much was it? / How much did it cost?
+Почему он был такой грустный? - Why was he so sad?
+Когда ты был в этом городе в последний раз? - When were in this city last time?
+Где ты был в прошлом году? - Where were you last year?
+Почему это было так дёшево? - Why was it so cheap?
+Кто был с тобой? - Who was with you?
+Они были хорошими студентами? - Were they good students?
+Почему это было так важно? - Why was it so important?
+Где он был вчера утром? - Where was he yesterday morning?
+Как у неё были дела? - How was she?
+Почему это было неправильно? - Why was it wrong? / Why was it incorrect?
+Кто был неправ? - Who was wrong?
+Что было так сложно для тебя? - What was so difficult for you?
+Как это было? - How was it?
+Что было так необычно для тебя? - What was so unusual for you?
+Когда ты был болен? - When were you ill?
+Почему это было так дорого? - Why was it so expensive?
+Кто был с твоим братом? - Who was with your brother?
+Почему ты был так счастлив? - Why were you so happy?
+Когда ты был в России последний раз? - When were you in Russia last time?
+Почему он был так зол? - Why was he so angry?
+Когда ты был там последний раз? - When were you there last time?
+Как долго это было? - How long was it?
+Сколько было времени? - What time was it?
+Как далеко это было? - How far was it?
+Какой ответ был правильным? - Which answer was right? / Which answer was correct?
+Что было в углу? - What was in the corner?
+Ты тоже был на вечеринке? - Were you also at the party? / Were you at the party, too?
+Сколько ей было лет? - How old was she?
+Когда она была во дворе? - When was she in the yard?
+Что было в классе? - What was in the classroom?
+Что было на письменном столе? - What was on the desk?
+Она тоже была в том месте? - Was she also in that place? / Was she in that place, too?
+Что было за коробкой? - What was behind the box?
+Что было в том углу? - What was in that corner?
+Сколько ему было лет? - How old was he?
+Кто был классе? - Who was in the classroom?
+Как часто ты был там? - How often were you there?
+Он тоже там был? - Was he also there? / Was he there, too?
+Она тоже там была? - Was she also there? / Was she there, too?
+Он был там вчера? - Was he there yesterday?
+Когда ты был во дворе? - When were you in the yard?
+Когда ты был в саду? - When were you in the garden?
+Что было на столе? - What was on the table?
+Кто был на столе? - Who was on the table?
+Что было на стуле? - What was on the chair?
+Какая у него была работа? - What was his job?
+Какой была её работа? - What was her job?
+Кто был его другом? - Who was his friend?
+Чья идея была лучше? - Whose idea was better?
+Чья идея лучшая? - Whose idea is the best?
+Кто был в парке? - Who was in the park?
+Кто был в доме? - Who was in the house?
+Что было на дереве? - What was on the tree? / What was on a tree?
+Во сколько ты был там? - What time were you there?
+Во сколько ты был здесь? - What time were you here?
+Во сколько он был дома? - What time was he at home?
+Чья книга была интереснее? - Whose book was more interesting?
+Которая книга была там? - Which book was there? / What book was there?
+Какой был её ответ? - What was her answer?
+Какой ответ был правильным? - What answer was right? / What answer was correct? / Which answer was right? / Which answer was correct?
+Какой вопрос был правильным? - What question was right? / Which question was right? / What question was correct? / Which question was correct?
+Какие ответы были неправильными? - What answers were wrong? / What answers were incorrect? / Which answers were wrong? / Which answers were incorrect?
+Сколько тебе было лет? - How old were you?
+Какой билет был дороже? - Which ticket was more expensive?
+Кто был во дворе? - Who was in the yard?
+Насколько это было трудно для тебя? - How difficult was it for you?
+Он был на вечеринке? - Was he at the party?
+Что было в коробке? - What was in the box?
+Насколько это было эффективно? - How effective was it?
+Кто был за тем деревом? - Who was behind that tree?
+Кто был в лесу? - Who was in the forest?
+Что было на полу? - What was on the floor?
+Кто был в саду? -  Who was in the garden?
+Ты был также с ними? - Were you also with them? / Were you with them, too?
+Что было за той коробкой? - What was behind that box?
+Кто был за дверью? - Who was behind the door?
+Насколько это было интересно? - How interesting was it?
