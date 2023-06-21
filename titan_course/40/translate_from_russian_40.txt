@@ -8,7 +8,7 @@
 Это была проблема. - It was a problem.
 Они были очень голодные. - They were very hungry.
 Он был очень занят. - He was very busy.
-Это было очень плохо. - It was very bag.
+Это было очень плохо. - It was very bad.
 Ты был прав. - You were right.
 Это было хорошо. - It was good.
 Они были в другом месте. - They were in another place.
@@ -68,7 +68,7 @@
 Она думает, это было очень хорошо. - She thinks it was very good.
 Они думают, это было очень хорошо. - They think it was very good.
 Он был уставшим. - He was tired.
-Они действительно устали. - They were really tired.
+Они действительно устали. - They got really tired. / They were really tired.
 Я был очень уставшим. - I was very tired.
 Это было худшее решение. - It was the worst decision.
 Это было ваше худшее решение. - It was your worst decision.
