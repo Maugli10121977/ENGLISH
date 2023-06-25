@@ -11,7 +11,7 @@
 Почему это было неправильно? - Why was it wrong? / Why was it incorrect?
 Где ты был вчера? - Where were you yesterday?
 Почему она была так расстроена? - Why was she so upset?
-Почему ты был таким уставшим? - Why were you so tired?
+Почему ты был таким уставшим? - Why were you so tired? / Why did you get so tired?
 Что было лучше? - What was better?
 Когда вы были в Италии в последний раз? - When were you in Italy last time?
 Почему это было так скучно? - Why was it so boring?
@@ -19,7 +19,7 @@
 Когда ты был дома? - When were you at home?
 Сколько это стоило? - How much was it? / How much did it cost?
 Почему он был такой грустный? - Why was he so sad?
-Когда ты был в этом городе в последний раз? - When were in this city last time?
+Когда ты был в этом городе в последний раз? - When were you in this city last time?
 Где ты был в прошлом году? - Where were you last year?
 Почему это было так дёшево? - Why was it so cheap?
 Кто был с тобой? - Who was with you?
@@ -90,7 +90,7 @@
 Кто был за тем деревом? - Who was behind that tree?
 Кто был в лесу? - Who was in the forest?
 Что было на полу? - What was on the floor?
-Кто был в саду? -  Who was in the garden?
+Кто был в саду? - Who was in the garden?
 Ты был также с ними? - Were you also with them? / Were you with them, too?
 Что было за той коробкой? - What was behind that box?
 Кто был за дверью? - Who was behind the door?
