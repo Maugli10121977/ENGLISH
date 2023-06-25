@@ -8,4 +8,5 @@ meeting - встреча
 over - через
 rope - верёвка
 sooner - скорее
+sooner or later - рано или поздно
 street - улица
