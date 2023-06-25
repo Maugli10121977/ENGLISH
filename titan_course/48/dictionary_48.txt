@@ -1,0 +1,12 @@
+accident - авария
+alcohol - алкоголь
+bill - счёт
+cafe - кафе
+chance - шанс
+crime - преступность
+criminal - преступник
+if - если
+point - точка
+screen - экран
+view - вид
+point of view - точка зрения
