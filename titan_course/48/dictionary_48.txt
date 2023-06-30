@@ -5,6 +5,9 @@ cafe - кафе
 chance - шанс
 crime - преступность
 criminal - преступник
+harm - вред
+harmful (to) - вредный
+harmfully - вредно
 if - если
 point - точка
 screen - экран
