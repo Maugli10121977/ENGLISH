@@ -1,0 +1,7 @@
+butter - масло (сливочное)
+cheese - сыр
+desert - пустыня
+donkey - осёл
+hand - рука (кисть)
+head - голова
+material - материал
