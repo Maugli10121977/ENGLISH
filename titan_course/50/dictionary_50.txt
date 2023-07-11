@@ -6,5 +6,5 @@ delicious - очень вкусный, восхитительный (по вку
 dictionary - словарь
 fashionable - модный
 just - просто
-mostly - в основном
+mostly, mainly - в основном
 speech - речь
