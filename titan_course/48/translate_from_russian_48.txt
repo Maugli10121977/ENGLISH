@@ -1,100 +1,101 @@
-Это может изменить твою жизнь. - 
-Почему это происходит со мной? - 
-Одна авария произошла вчера. - 
-У него не будет этого шанса. - 
-Я действительно поверил ему. - 
-Она не пьёт пиво. - 
-Как он преподавал английский? - 
-Они не хотели его убивать. - 
-Посмотри на эту фотографию! - 
-У них так много вопросов. - 
-Он рекоммендовал несколько книг. - 
-Мы продолжаем этот курс. - 
-Этот преступник не убивал их. - 
-У меня было мало свободного времени на это. - 
-Не потеряй это! - 
-Тебе нужно подумать об этом снова. - 
-Она профессионально преподаёт математику. - 
-Он может потерять это очень легко. - 
-Он преподаст нам урок. - 
-Тот человек посмотрел на неё вдруг. - 
-У тебя будет шанс. - 
-Когда ты встретил её? - 
-Я не пил алкоголь. - 
-Она спела свою любимую песню. - 
-Ты исправил все эти ошибки? - 
-Где мы встретимся? - 
-Когда мы продолжим? - 
-Наш учитель поправил меня. - 
-Я исправлю эту ошибку. - 
-Мы встретились в кафе. - 
-Они сравнили свои результаты. - 
-Эти вещи меняются очень быстро. - 
-Не переживай об этом так сильно! - 
-Она так красиво поёт. - 
-Она потеряла это в лесу. - 
-Я не рекомендую этот отель. - 
-Не смейся! - 
-Это случилось с ним. - 
-Он рекомендовал этот сайт? - 
-Ему нужно продолжить. - 
-У тебя были какие-либо проблемы с этим? - 
-Она сохранила этот секрет. - 
-Я думаю, он изменит свою точку зрения позже. - 
-Я понял, что это было слишком дорого. - 
-Я хочу подвинуть этот стол. - 
-Он пьёт слишком много алкоголя, и это очень вредно для его здоровья. - 
-Он понял тот урок лучше меня. - 
-Те мальчики смеялись над ней. - 
-Она не думает, что он сдержит своё обещание. - 
-Я решил сделать это чуть позже. - 
-Они двигаются очень быстро. - 
-Я не хочу переезжать в другую страну. - 
-Ты можешь сравнить эти два ресторана. - 
-Мой друг переехал в США. - 
-Эта цена включает в себя эти услуги. - 
-Мне нужно решить это сейчас. - 
-Ему нужно решить это сейчас. - 
-Мне нужно сказать это завтра. - 
-Я не смеюсь над этим. - 
-Мы не смеёмся над ним. - 
-Она не смеётся. - 
-Я понимаю, что мне нужно намного больше денег, если я хочу купить это. - 
-Он понимает, что ему нужно больше денег, если он хочет купить новую машину. - 
-Я видел, что они жили так счастливо. - 
-Я понимаю, что мы живём так счастливо. - 
-Он видел, что они жили так счастливо. - 
-Они скоро переедут в США. - 
-Она скоро переедет в Англию. - 
-Он не переедет в эту страну. - 
-Он держит свои деньги в банке. - 
-Она держит свои деньги дома. - 
-Он не держит свои деньги в банке. - 
-Ты можешь сравнить эти цены. - 
-Мы можем сравнить эти товары. - 
-Он может сравнить эти цены. - 
-Они включат это в счёт. - 
-Мы включим это в счёт. - 
-Он не включит это в твой счёт. - 
-Тебе нужно быть более осторожным, когда ты водишь. - 
-Нам нужно быть более осторожными, когда мы водим. - 
-Мне нужно быть более осторожным, когда я говорю. - 
-Он учит нас английскому, и мне это действительно нравится. - 
-Она учит нас испанскому, и мне это действительно нравится. - 
-Ты учишь меня английскому, и мне это действительно нравится. - 
-Они включат это в цену. - 
-Я хочу сравнить эти два приложения. - 
-Ему нужно быть осторожнее. - 
-Мы решили остаться дома. - 
-Я действительно верю, что это возможно. - 
-Та цена включает в себя ужин и завтрак. - 
-Она понимает это лучше, чем я. - 
-Не смейся над ним! - 
-Она изменила своё решение в конце. - 
-Она хочет учиться в Соединённых Штатах. - 
-Ты жил в Сша? - 
-Он хочет жить в Соединённых Штатах. - 
-Я посмотрел на экран. - 
-Она очень быстро двигается, когда танцует. - 
-Посмотри на экран! - 
-Она заплакала вдруг. - 
+Это может изменить твою жизнь. - It can change your life.
+Почему это происходит со мной? - Why does it happen to me?
+Одна авария произошла вчера. - One accident happened yesterday.
+У него не будет этого шанса. -He will not have this chance. 
+Я действительно поверил ему. - I really believed him.
+Она не пьёт пиво. - She does not drink beer.
+Как он преподавал английский? - How did he teach English?
+Они не хотели его убивать. - They did not want to kill him.
+Посмотри на эту фотографию! - Look at this photo!
+У них так много вопросов. - They have so many questions.
+Он рекоммендовал несколько книг. - He recommended some books. / He recommended a few books. / He recommended several books.
+Мы продолжаем этот курс. - We continue this course.
+Этот преступник не убивал их. - This criminal did not kill them.
+У меня было мало свободного времени на это. - I had little free time for it.
+Не потеряй это! - Do not lose it!
+Тебе нужно подумать об этом снова. - You need to think about it again.
+Она профессионально преподаёт математику. - She teaches maths professionally. / She teaches mathematics professionally.
+Он может потерять это очень легко. - He can lose it very easily.
+Он преподаст нам урок. - He will teach us a lesson.
+Тот человек посмотрел на неё вдруг. - That man looked at her suddenly.
+У тебя будет шанс. - You will have a chance.
+Когда ты встретил её? - When did you meet her?
+Я не пил алкоголь. - I did not drink alcohol.
+Она спела свою любимую песню. - She sang her favourite song.
+Ты исправил все эти ошибки? - Did you correct all these mistakes?
+Где мы встретимся? - Where will we meet?
+Когда мы продолжим? - When will we continue?
+Наш учитель поправил меня. - Our teacher corrected me.
+Я исправлю эту ошибку. - I will correct this mistake.
+Мы встретились в кафе. - We met in a cafe. / We met in the cafe.
+Они сравнили свои результаты. - They compared their results.
+Эти вещи меняются очень быстро. - These things change very quickly.
+Не переживай об этом так сильно! - Do not worry about it so much!
+Она так красиво поёт. - She sings so beautifully.
+Она потеряла это в лесу. - She lost it in the forest.
+Я не рекомендую этот отель. - I do not recommend this hotel.
+Не смейся! - Do not laugh!
+Это случилось с ним. - It happened to him.
+Он рекомендовал этот сайт? - Did he recommend this website?
+Ему нужно продолжить. - He needs to continue.
+У тебя были какие-либо проблемы с этим? - Did you have any problems with it?
+Она сохранила этот секрет. -She kept this secret.
+Я думаю, он изменит свою точку зрения позже. - I think he will change his point of view later.
+Я понял, что это было слишком дорого. - I understood that it was too expensive.
+Я хочу подвинуть этот стол. - I want to move this table.
+Он пьёт слишком много алкоголя, и это очень вредно для его здоровья. - He drinks too much alcohol and it is very harmful to his health.
+Он понял тот урок лучше меня. - He understood that lesson better than me.
+Те мальчики смеялись над ней. - Those boys laughed at her.
+Она не думает, что он сдержит своё обещание. - She does not think that he will keep his promise.
+Я решил сделать это чуть позже. - I decided to do it a bit later.
+Они двигаются очень быстро. - They move very fast. / They move very quickly.
+Я не хочу переезжать в другую страну. - I do not want to move to another country.
+Ты можешь сравнить эти два ресторана. - You can compare these two restaurants.
+Мой друг переехал в США. - My friend moved to the USA.
+Эта цена включает в себя эти услуги. - This price included these services.
+Мне нужно решить это сейчас. - I need to decide it now.
+Ему нужно решить это сейчас. - He needs to decide it now.
+Мне нужно сказать это завтра. - I need to say it tomorrow.
+Я не смеюсь над этим. - I do not laugh at it.
+Мы не смеёмся над ним. - We do not laugh at him.
+Она не смеётся. - She does not laugh.
+Я понимаю, что мне нужно намного больше денег, если я хочу купить это. - I understand that I need much more money if I want to buy it.
+Он понимает, что ему нужно больше денег, если он хочет купить новую машину. -  He understands that he needs more money if he wants to buy a new car.
+Я видел, что они жили так счастливо. - I saw that they lived so happily.
+Я понимаю, что мы живём так счастливо. - I understand that we live so happily.
+Он видел, что они жили так счастливо. - He saw that they lived so happily.
+Они скоро переедут в США. - They will move to the USA soon.
+Она скоро переедет в Англию. - She will move to England soon.
+Он не переедет в эту страну. - He will not move to this country.
+Он держит свои деньги в банке. - He keeps his money in a bank.
+Она держит свои деньги дома. - She keeps her money at home.
+Он не держит свои деньги в банке. - He did not keep his money in a bank.
+Ты можешь сравнить эти цены. - You can compare these prices.
+Мы можем сравнить эти товары. - We can compare these goods.
+Он может сравнить эти цены. - He can compare these prices.
+Они включат это в счёт. - They will include it in the bill.
+Мы включим это в счёт. - We will include it in the bill.
+Он не включит это в твой счёт. - He will not include it in your bill.
+Тебе нужно быть более осторожным, когда ты водишь. - You need to be more careful when you drive.
+Нам нужно быть более осторожными, когда мы водим. - We need to be more careful when we drive.
+Мне нужно быть более осторожным, когда я говорю. - I need to be more careful when I speak.
+Он учит нас английскому, и мне это действительно нравится. - He teaches us English and I really like it.
+Она учит нас испанскому, и мне это действительно нравится. - She teaches us Spanish and I really like it.
+Ты учишь меня английскому, и мне это действительно нравится. - You teach me English and I really like it.
+Они включат это в цену. - They will include it in the price.
+Я хочу сравнить эти два приложения. - I want to compare these two applications. / I want to compare these two apps.
+Ему нужно быть осторожнее. - He needs to be more careful.
+Мы решили остаться дома. - We decided to stay at home.
+Я действительно верю, что это возможно. - I really believe that it is possible.
+Та цена включает в себя ужин и завтрак. - That price includes dinner and breakfast.
+Она понимает это лучше, чем я. - She understands it better than me.
+Не смейся над ним! - Do not laugh at him!
+Она изменила своё решение в конце. - She changed her decision in the end.
+Она хочет учиться в Соединённых Штатах. - She wants to study in the United States.
+Ты жил в США? - Did you live in the USA?
+Он хочет жить в Соединённых Штатах. - He wants to live in the United States.
+Я посмотрел на экран. - I looked at the screen.
+Она очень быстро двигается, когда танцует. - She moves very fast when she dances. / She moves very quickly when she dances.
+Посмотри на экран! - Look at the screen!
+Она заплакала вдруг. - She cried suddenly.
+Он зарабатывал очень мало. - He earned very little.
