@@ -1,7 +1,7 @@
 Это может изменить твою жизнь. - It can change your life.
 Почему это происходит со мной? - Why does it happen to me?
 Одна авария произошла вчера. - One accident happened yesterday.
-У него не будет этого шанса. -He will not have this chance. 
+У него не будет этого шанса. - He will not have this chance. 
 Я действительно поверил ему. - I really believed him.
 Она не пьёт пиво. - She does not drink beer.
 Как он преподавал английский? - How did he teach English?
@@ -39,7 +39,7 @@
 Он рекомендовал этот сайт? - Did he recommend this website?
 Ему нужно продолжить. - He needs to continue.
 У тебя были какие-либо проблемы с этим? - Did you have any problems with it?
-Она сохранила этот секрет. -She kept this secret.
+Она сохранила этот секрет. - She kept this secret.
 Я думаю, он изменит свою точку зрения позже. - I think he will change his point of view later.
 Я понял, что это было слишком дорого. - I understood that it was too expensive.
 Я хочу подвинуть этот стол. - I want to move this table.
@@ -69,7 +69,7 @@
 Он не переедет в эту страну. - He will not move to this country.
 Он держит свои деньги в банке. - He keeps his money in a bank.
 Она держит свои деньги дома. - She keeps her money at home.
-Он не держит свои деньги в банке. - He did not keep his money in a bank.
+Он не держит свои деньги в банке. - He does not keep his money in a bank.
 Ты можешь сравнить эти цены. - You can compare these prices.
 Мы можем сравнить эти товары. - We can compare these goods.
 Он может сравнить эти цены. - He can compare these prices.
