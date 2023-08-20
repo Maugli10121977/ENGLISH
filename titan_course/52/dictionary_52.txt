@@ -5,7 +5,7 @@ black - чёрный
 blonde - светлый
 blue - синий
 cold - холодный
-colour - цвет
+colour, color - цвет
 device - устройство
 effect - эффект, влияние
 financial - финансовый
