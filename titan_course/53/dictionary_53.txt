@@ -10,5 +10,5 @@ guy - парень
 hospitable - гостеприимный
 number - число
 partner - партнёр
-realise - осознавать
+realise, realize - осознавать
 unique - уникальный
