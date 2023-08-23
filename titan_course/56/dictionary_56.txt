@@ -1,0 +1,34 @@
+accountant - бухгалтер
+bedroom - спальня
+bright - яркий
+chess - шахматы
+college - колледж
+comment - комментарий
+disappointed - разочарованный
+diving - дайвинг
+draw - рисовать
+drawing - рисование
+episode - эпизод
+expression - выражение
+fifteen - пятнадцать
+gardening - садоводство
+genius - гений
+heavy - тяжёлый
+hobby - хобби
+humour - юмор
+jacket - куртка
+lamp - лампа
+learning - изучение
+lecture - лекция
+main - главный, основной
+nurse - медсестра
+prison - тюрьма
+resource - ресурс
+sense - чувство
+shocked - шокированный
+skiing - катание на лыжах
+suit - костюм
+surprised - удивлённый
+taste - вкус
+thief - вор
+towel - полотенце
