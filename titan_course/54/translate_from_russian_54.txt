@@ -1,105 +1,105 @@
-Они работают в другом месте. - 
-Он думает о своей семье. - 
-Я счастлив быть здесь. - 
-Они из разных стран. - 
-Он очень стар. - 
-Она из Лондона. - 
-Это очень популярная песня. - 
-Она боится их. - 
-Это проблема для них. - 
-У тебя хорошая работа. - 
-Это новый компьютер. - 
-Они в разных странах. - 
-Мне нужен новый компьютер. - 
-Он боится этого. - 
-Это действительно так. - 
-У него одна проблема. - 
-Она родом из Лос-Анджелеса. - 
-Это интересует меня. - 
-Они чувствуют себя такими счастливыми. - 
-Мы думаем так. - 
-Он согласен с этим утверждением. - 
-Они очень счастливы. - 
-Он работает в другом месте. - 
-Она такая уставшая. - 
-Это новое платье для неё. - 
-Я здесь в данный момент. - 
-Это кажется фантастическим. - 
-Она хочет новое платье. - 
-Мы согласны с тобой. - 
-Она очень молодая. - 
-Это выглядит очень эффективно. - 
-Он чувствует себя таким уставшим. - 
-Он думает иначе. - 
-Он родом из Нью-Йорка. - 
-Это хорошая работа. - 
-Она выглядит очень молодо. - 
-Я согласен с этим утверждением. - 
-Это фантастически. - 
-Она живёт в прекрасном месте. - 
-Он из Соединённых Штатов. - 
-Это прекрасное место. - 
-Они живут в очень большом доме. - 
-Я очень устал. - 
-Это маленький дом. - 
-Это интересно мне. - 
-Это чрезвычайно важная вещь. - 
-Это большой успех. - 
-Он выглядит шокированным. - 
-Это кажется лучшим решением этой проблемы. - 
-Ты выглядишь очень удивлённым. - 
-Наши учителя часто говорят, что это типичная ошибка для изучающих английский язык. - 
-У них очень интересные обычаи и традиции. - 
-Это лучшее решение этой проблемы. - 
-Это кажется лучшим решением этой проблемы. - 
-Я так удивлён. - 
-Я думаю, это огромный успех. - 
-Они часто лежат на пляже. - 
-Это также мне очень интересно. - 
-У меня есть уникальная возможность выучить английский здесь. - 
-Это чрезвычайно важная деталь. - 
-Это типичная ошибка изучающих английский язык. - 
-Это самая типичная ошибка изучающих английский язык. - 
-Это самая распространённая ошибка изучающих английский язык. - 
-Это огромный успех. - 
-Это действительно огромный успех. - 
-Это действительно большой успех. - 
-Это кажется очень необычным выбором. - 
-Это кажется очень типичным выбором. - 
-Это кажется очень хорошим выбором. - 
-Я действительно шокирован. - 
-Она действительно шокирована. - 
-Мы действительно шокированы. - 
-Это официальный документ. - 
-Это новый документ. - 
-Это важный документ. - 
-Это кажется уникальной возможностью. - 
-Это кажется уникальным шансом. - 
-Это кажется отличной возможностью. - 
-Это чрезвычайно важно. - 
-Это действительно важно. - 
-Это очень важно. - 
-Это уникальная возможность. - 
-Это хорошая возможность. - 
-Это действительно большая возможность. - 
-Я так счастлив, что у меня есть эта уникальная возможность. - 
-Она так счастлива, что у неё есть эта уникальная возможность. - 
-Они так счастливы, что у них есть эта уникальная возможность. - 
-Я думаю, это большой успех. - 
-Мы думаем, это большой успех. - 
-Она думает, это большой успех. - 
-Это кажется таким важным. - 
-Ты выглядишь таким удивлённым. - 
-Это очень необычный выбор. - 
-Это лежит на крыше. - 
-Это на крыше. - 
-Я думаю, это пустая трата времени. - 
-Это кажется пустой тратой времени для меня. - 
-Я думаю, это действительно ужасно. - 
-Это пустая трата времени. - 
-Я чрезвычайно устал. - 
-Мне нужно найти решение этой проблемы. - 
-Он говорит, что это чрезвычайно важно для всех нас. - 
-Мы можем видеть это в официальном документе. - 
-Они на пляже. - 
-Это очень интересная традиция. - 
+Они работают в другом месте. - They work in another place.
+Он думает о своей семье. - He thinks about his family.
+Я счастлив быть здесь. - I am happy to be here.
+Они из разных стран. - They are from different contries.
+Он очень стар. - He is very old.
+Она из Лондона. - She is from London.
+Это очень популярная песня. - It is a very popular song.
+Она боится их. - She is afraid of them.
+Это проблема для них. - It is a problem for them.
+У тебя хорошая работа. - You have a good job.
+Это новый компьютер. - It is a new computer.
+Они в разных странах. - They are in different countries.
+Мне нужен новый компьютер. - I need a new computer.
+Он боится этого. - He is afraid of it.
+Это действительно так. - It is really so.
+У него одна проблема. - He has one problem.
+Она родом из Лос-Анджелеса. - She comes from Los Angeles.
+Это интересует меня. - It interests me.
+Они чувствуют себя такими счастливыми. - They feel so happy.
+Мы думаем так. - We think so.
+Он согласен с этим утверждением. - He agrees with this statement.
+Они очень счастливы. - They are very happy.
+Он работает в другом месте. - He works in another place.
+Она такая уставшая. - She is so tired.
+Это новое платье для неё. - It is a new dress for her.
+Я здесь в данный момент. - I am here at the moment.
+Это кажется фантастическим. - It seems fantastic.
+Она хочет новое платье. - She wants a new dress.
+Мы согласны с тобой. - We agree with you.
+Она очень молодая. - She is very young.
+Это выглядит очень эффективно. - It looks very effective. / It looks very effectively.
+Он чувствует себя таким уставшим. - He feels so tired.
+Он думает иначе. - He thinks differently.
+Он родом из Нью-Йорка. - He comes from New York.
+Это хорошая работа. - It is a good job.
+Она выглядит очень молодо. - She looks very young.
+Я согласен с этим утверждением. - I agree with this statement.
+Это фантастически. - It is fantastic.
+Она живёт в прекрасном месте. - She lives in a lovely place. / She lives in a wonderful place.
+Он из Соединённых Штатов. - He is from the United States.
+Это прекрасное место. - It is a lovely place. / It is a wonderful place.
+Они живут в очень большом доме. - They live in a large house. / They live in a big house.
+Я очень устал. - I am very tired.
+Это маленький дом. - It is a small house.
+Это интересно мне. - It is interesting for me.
+Это чрезвычайно важная вещь. - It is an extremely important thing.
+Это большой успех. - It is a big success.
+Он выглядит шокированным. - He looks shocked.
+Это кажется лучшим решением этой проблемы. - It seems the best solution to this problem.
+Ты выглядишь очень удивлённым. - You look very surprised.
+Наши учителя часто говорят, что это типичная ошибка для изучающих английский язык. - Our teachers often say that it is a typical mistake for English leaners. / Our teachers often say that it is a typical mistake of English learners. / Our teachers often say that it is a typical mistake among English learners.
+У них очень интересные обычаи и традиции. - They have very interesting customs and traditiions.
+Это лучшее решение этой проблемы. - It is the best solution to this problem.
+Это кажется лучшим решением этой проблемы. - It seems the best decision.
+Я так удивлён. - I am so surprised.
+Я думаю, это огромный успех. - I think it is a huge success.
+Они часто лежат на пляже. - They often lie on the beach.
+Это также мне очень интересно. - It is also very interesting for me.
+У меня есть уникальная возможность выучить английский здесь. - I have a unique opportunity to learn English here.
+Это чрезвычайно важная деталь. - It is an extremely important detail.
+Это типичная ошибка изучающих английский язык. - It is a typical mistake of English learners. / It is a typical mistake among English leaners. / It is a typical mistake for English learners.
+Это самая типичная ошибка изучающих английский язык. - It is the most typical mistake of English leaners. / It is the most typical mistake among English learners. / It is the most typical mistake for English learners.
+Это самая распространённая ошибка изучающих английский язык. - It the most common mistake of English learners. / It is the most common mistake for English learners. / It is the most common mistake among English learners.
+Это огромный успех. - It is a huge success.
+Это действительно огромный успех. - It is a really huge success. / It is really a huge success.
+Это действительно большой успех. - It is a really big success. / It is really a big success.
+Это кажется очень необычным выбором. - It seems a a very unusual choice.
+Это кажется очень типичным выбором. - It seems a very typical choice.
+Это кажется очень хорошим выбором. - It seems a very good choice.
+Я действительно шокирован. - I am really shocked.
+Она действительно шокирована. - She is really shocked.
+Мы действительно шокированы. - We are really shocked.
+Это официальный документ. - It is an official document.
+Это новый документ. - It is a new document.
+Это важный документ. - It is an important document.
+Это кажется уникальной возможностью. - It seems a unique opportunity.
+Это кажется уникальным шансом. - It seems a unique chance.
+Это кажется отличной возможностью. - It seems an excellent opportunity. / It seems a great opportunity.
+Это чрезвычайно важно. - It is extremely important.
+Это действительно важно. - It is really important.
+Это очень важно. - It is very important.
+Это уникальная возможность. - It is a unique opportunity.
+Это хорошая возможность. - It is a good opportunity.
+Это действительно большая возможность. - It is a really big opprotunity. / It is really a big opportunity.
+Я так счастлив, что у меня есть эта уникальная возможность. - I am so happy that I have this unique opportunity.
+Она так счастлива, что у неё есть эта уникальная возможность. - She is so happy that she has this unique opportunity.
+Они так счастливы, что у них есть эта уникальная возможность. - They are so happy that they have this unique opportunity.
+Я думаю, это большой успех. - I think it is a big success.
+Мы думаем, это большой успех. - We think it is a big success.
+Она думает, это большой успех. - She thinks it is a big success.
+Это кажется таким важным. - It seems so important.
+Ты выглядишь таким удивлённым. - You look so surprised.
+Это очень необычный выбор. - It is a very unusual choice.
+Это лежит на крыше. - It lies on the roof.
+Это на крыше. - It is on the roof.
+Я думаю, это пустая трата времени. - I think it is a waste of time.
+Это кажется пустой тратой времени для меня. - It seems a waste of time.
+Я думаю, это действительно ужасно. - I think it is really terrible.
+Это пустая трата времени. - It is a waste of time.
+Я чрезвычайно устал. - I am extremely tired.
+Мне нужно найти решение этой проблемы. - I need to find a solution to this problem.
+Он говорит, что это чрезвычайно важно для всех нас. - He says that it is extremely important for all of us.
+Мы можем видеть это в официальном документе. - We can see it in the official document.
+Они на пляже. - They are on the beach.
+Это очень интересная традиция. - It is a very interesting tradition.
