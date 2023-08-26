@@ -1,8 +1,8 @@
 boss - начальник, босс
 carefully - осторожно
 credit card - кредитная карта
-elder sister - старшая сестра
-following - следующий
+elder - старший, старшая
+(the) following - следующее (сущ.); следующий (прил.)
 freelancer - фрилансер
 greatly - очень сильно
 hang - висеть, вешать
@@ -17,10 +17,11 @@ poster - плакат
 sale - продажа, распродажа
 sales manager - менеджер по продажам
 shoes - туфли
+shorter - короче
 online shop, online store - онлайн магазин
 teenager - подросток
 vet - ветеринар
 wall - стена
 way - путь
 weak - слабый
-younger brother - младший брат
+younger - младший, младшая
