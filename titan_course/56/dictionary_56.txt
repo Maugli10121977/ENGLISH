@@ -16,6 +16,7 @@ genius - гений
 heavy - тяжёлый
 hobby - хобби
 humour - юмор
+its - его, её (для неодушевлённых предметов)
 jacket - куртка
 lamp - лампа
 learning - изучение
@@ -29,6 +30,6 @@ shocked - шокированный
 skiing - катание на лыжах
 suit - костюм
 surprised - удивлённый
-taste - вкус
-thief - вор
+taste - вкус (сущ., гл.)
+thief (thieves) - вор (воры)
 towel - полотенце
