@@ -1,101 +1,101 @@
-Моим друьям нравится эта идея. - 
-Та игра кажется такой интересной. - 
-Эти мужчины выглядят очень слабыми. - 
-Эти идеи выглядят так интересно. - 
-Твой результат выглядит очень хорошо. - 
-У его брата есть девушка. - 
-Эта вещь очень мотивирует меня. - 
-Моим родителям действительно нравится эта идея. - 
-Этот билет стоит больше. - 
-Этот студент учится лучше. - 
-Моему брату нравится эта музыка тоже. - 
-Те билеты стоят меньше. - 
-Моя сестра работает ветеринаром. - 
-Наш учитель часто говорит это. - 
-У его сестры есть парень. - 
-Мои друзья согласны со мной. - 
-Эта идея кажется очень интересной. - 
-Этот год кажется нам очень сложным. - 
-У нашего учителя много студентов. - 
-Тот студент показывает лучше результаты. - 
-Эти вещи так сильно мотивируют меня. - 
-У этого мальчика очень богатые родители. - 
-Моя мама работает врачом. - 
-Эти вещи кажутся действительно важными. - 
-Моей сестре тоже нравится эта песня. - 
-Эта работа кажется такой сложной. - 
-Эта женщина выглядит такой красивой. - 
-Мой брат работает фрилансером. - 
-У этого мальчика много вопросов. - 
-Мои друзья часто говорят мне эти вещи. - 
-Эта игра кажется такой скучной. - 
-Этот курс действительно помогает мне. - 
-Эти женщины выглядят так красиво. - 
-Наша жизнь кажется очень короткой. - 
-Этот парень работает с ними. - 
-Тот путь кажется короче. - 
-Эта вещь стоит слишком много. - 
-Мой отец работает менеджером по продажам. - 
-Этот мужчина выглядит очень сильным. - 
-У этого доктора много пациентов. - 
-Мой друг поддерживает меня. - 
-У этой девочки очень бедные родители. - 
-Я хочу сказать тебе, что эта речь очень сильно вдохновляет меня. - 
-Мой начальник хочет купить новую машину. - 
-Студенты часто копируют эти ошибки. - 
-Этот магазин принимает кредитные карты тоже. - 
-Я вижу, что время проходит очень быстро. - 
-Эта коробка лежит на полу. - 
-У моих родителей другое мнение. - 
-Его сестра танцует профессионально. - 
-Этот подросток часто перебивает других людей. - 
-Тот проект приносит им слишком мало денег. - 
-Моя мама выходит в отпуск несколько раз в год. - 
-Этот проект приносит ему большие деньги. - 
-Тот мальчик всегда перебивает других. - 
-Я вижу, что этот метод действительно работает. - 
-Это человек пытается найти новую работу. - 
-Девочка часто перебивает других. - 
-Девочка часто перебивает других людей. - 
-Её дочь часто перебивала других. - 
-Картина висит на стене. - 
-Две картины висят на стене. - 
-Некоторые картины висят на стене. - 
-Я вижу, что время действительно летит. - 
-Она видит, что время действительно летит. - 
-Они видят, что время летит. - 
-Этот магазин принимает кредитные карты. - 
-Эти магазины принимают кредитные карты. - 
-Этот интернет-магазин принимает кредитные карты. - 
-Мой друг пытается водить очень осторожно. - 
-Мой друг всегда водит очень осторожно. - 
-Мои друзья стараются водить очень осторожно. - 
-Слово означает другую вещь. - 
-Эти слова означают другие вещи. - 
-Это слово означает другую вещь. - 
-Такие вещи часто случаются. - 
-Эта вещь часто случается. - 
-Мой младший брат думает так. - 
-Мои братья думают так. - 
-Мой старший брат думает так. - 
-Этот интернет-магазин работает двадцать четыре часа в сутки. - 
-Тот интернет-магазин работает двадцать четыре часа в сутки. - 
-Этот магазин работает двадцать четыре часа в сутки. - 
-Много людей делают это. - 
-Некоторые люди делают это. - 
-* - 
-У моей старшей сестры другое мнение. - 
-У этой компании очень большие проблемы. - 
-Я хочу сказать, что эта речь так сильео вдохновляет меня. - 
-Этих денег кажется достаточно. - 
-Много людей пытаются сделать это. - 
-Эта фраза означает следующее. - 
-Эта новость кажется такой интересной. - 
-Мой отец обычно ездит в отпуск дважды в год. - 
-Тот плакат висит на стене. - 
-Этот пример действительно вдохновляет меня. - 
-Эта речь действительно вдохновляет меня. - 
-Тот магазин также принимает кредитные карты. - 
-Эти часы стоят триста долларов. - 
-Моей сестре действительно нравятся эти туфли. - 
-Такие вещи иногда случаются. - 
+Моим друьям нравится эта идея. - My friends like this idea.
+Та игра кажется такой интересной. - That game seems so interesting.
+Эти мужчины выглядят очень слабыми. - These men look very weak.
+Эти идеи выглядят так интересно. - These ideas look so interesting.
+Твой результат выглядит очень хорошо. - Your results looks very good.
+У его брата есть девушка. - His brother has a girlfriend.
+Эта вещь очень мотивирует меня. - This thing motivates me greatly. / This thing motivates me very much.
+Моим родителям действительно нравится эта идея. - My parents really likes this idea.
+Этот билет стоит больше. - This ticket costs more.
+Этот студент учится лучше. - This student studies better.
+Моему брату нравится эта музыка тоже. - My brother likes this music, too.
+Те билеты стоят меньше. - Those tickets cost less.
+Моя сестра работает ветеринаром. - My sister works as a vet.
+Наш учитель часто говорит это. - Our teacher often says it.
+У его сестры есть парень. - His sister has a boyfriend.
+Мои друзья согласны со мной. - My freinds agree with me.
+Эта идея кажется очень интересной. - This idea seems very interesting.
+Этот год кажется нам очень сложным. - This year seems very difficult for us.
+У нашего учителя много студентов. - Our teacher has many students. / Our teacher has a lot of students. / Our teacher has lots of students.
+Тот студент показывает лучше результаты. - That student shows better results.
+Эти вещи так сильно мотивируют меня. - These things motivate me so much.
+У этого мальчика очень богатые родители. - This boy has very rich parents.
+Моя мама работает врачом. - My mother works as a doctor.
+Эти вещи кажутся действительно важными. - These things seem really important.
+Моей сестре тоже нравится эта песня. - My sister also likes this song.
+Эта работа кажется такой сложной. - This work seems so difficult.
+Эта женщина выглядит такой красивой. - This woman looks so beautiful.
+Мой брат работает фрилансером. - My brother works as a freelancer.
+У этого мальчика много вопросов. - This boy has many questions. / This boy has a lot of questions. / This boy has lots of questions.
+Мои друзья часто говорят мне эти вещи. - My friends often tell me these things.
+Эта игра кажется такой скучной. - This game seems so boring.
+Этот курс действительно помогает мне. - This course really helps me.
+Эти женщины выглядят так красиво. - These women look so beautiful.
+Наша жизнь кажется очень короткой. - Our life seems very short.
+Этот парень работает с ними. - This guy works with them.
+Тот путь кажется короче. - That way seems shorter.
+Эта вещь стоит слишком много. - This thing costs too much.
+Мой отец работает менеджером по продажам. - My father works as a sales manager.
+Этот мужчина выглядит очень сильным. - This man looks very strong.
+У этого доктора много пациентов. - This doctor has many patients. / This doctor has a lot of patients. / This doctor has lots of patients.
+Мой друг поддерживает меня. - My friend supports me.
+У этой девочки очень бедные родители. - This girl has very poor parents.
+Я хочу сказать тебе, что эта речь очень сильно вдохновляет меня. - I want to tell you that this speech inspires me greatly. / I want to tell you that this speech inspires me very much.
+Мой начальник хочет купить новую машину. - My boss wants to buy a new car.
+Студенты часто копируют эти ошибки. - Students often copy these mistakes.
+Этот магазин принимает кредитные карты тоже. - This shop takes credit cards, too. / This store takes credit cards, too.
+Я вижу, что время проходит очень быстро. - I see that time passes very quickly. / I see that time passes very fast.
+Эта коробка лежит на полу. - This box lies on the floor.
+У моих родителей другое мнение. - My parents have another opinion.
+Его сестра танцует профессионально. - His sister dances professionally.
+Этот подросток часто перебивает других людей. - This teenager often interrupts other people.
+Тот проект приносит им слишком мало денег. - That project brings them too little money.
+Моя мама выходит в отпуск несколько раз в год. - My mother goes on holiday several times a year. / My mother goes on holiday a few times a year.
+Этот проект приносит ему большие деньги. - This project brings him big money.
+Тот мальчик всегда перебивает других. - That boy always interrupts others.
+Я вижу, что этот метод действительно работает. - I see that this method really works.
+Это человек пытается найти новую работу. - This person tries to find a new job.
+Девочка часто перебивает других. - The girl often interrupts others.
+Девочка часто перебивает других людей. - The girl often interrupts other people.
+Её дочь часто перебивала других. - Her daughter often interrupted others.
+Картина висит на стене. - The picture hangs on the wall.
+Две картины висят на стене. - Two pictures hang on the wall.
+Некоторые картины висят на стене. - Some pictures hang on the wall. / Several pictures hang on the wall.
+Я вижу, что время действительно летит. - I see that time really flies.
+Она видит, что время действительно летит. - She sees that time really flies.
+Они видят, что время летит. - They see that time flies.
+Этот магазин принимает кредитные карты. - This shop takes credit cards. / This store takes credit cards.
+Эти магазины принимают кредитные карты. - These shops take credit catds. / These stores take credit cards.
+Этот интернет-магазин принимает кредитные карты. - This online shop takes credit cards. / This online store takes credit cards.
+Мой друг пытается водить очень осторожно. - My friend tries to drive very carefully.
+Мой друг всегда водит очень осторожно. - My friend always drives very carefully.
+Мои друзья стараются водить очень осторожно. - My friends tries to drive very carefully.
+Слово означает другую вещь. - The word means another thing.
+Эти слова означают другие вещи. - These words mean other things.
+Это слово означает другую вещь. - This word means another thing.
+Такие вещи часто случаются. - Such things often happen.
+Эта вещь часто случается. - This thing often happens.
+Мой младший брат думает так. - My younger brother thinks so.
+Мои братья думают так. - My brothers think so.
+Мой старший брат думает так. - My elder brother thinks so.
+Этот интернет-магазин работает двадцать четыре часа в сутки. - This online store works twenty four hours a day. / This online shop works twenty four hours a day.
+Тот интернет-магазин работает двадцать четыре часа в сутки. - That online store works twenty four hours a day. / That online shop works twenty four hours a day.
+Этот магазин работает двадцать четыре часа в сутки. - This store works twenty four hours a day. / This shop works twenty four hours a day.
+Много людей делают это. - Many people do it. / A lot of people do it. / Lots of people do it.
+Некоторые люди делают это. - Some people do it. / Several people do it.
+* - *
+У моей старшей сестры другое мнение. - My elder sister has another opinion.
+У этой компании очень большие проблемы. - This company has very big problems.
+Я хочу сказать, что эта речь так сильно вдохновляет меня. - I want to say that this speech inspires me so much.
+Этих денег кажется достаточно. - This money seems enough.
+Много людей пытаются сделать это. - Many people try to do it. / A lot of people try to do it. / Lots of people try to do it.
+Эта фраза означает следующее. - This phrase means the following.
+Эта новость кажется такой интересной. - This news seems so interresting.
+Мой отец обычно ездит в отпуск дважды в год. - My father usually goes on holiday twice a year.
+Тот плакат висит на стене. - That poster hangs on the wall.
+Этот пример действительно вдохновляет меня. - This example really inspires me.
+Эта речь действительно вдохновляет меня. - This speech really inspires me.
+Тот магазин также принимает кредитные карты. - That shop also takes credit cards. / This store also takes credit cards.
+Эти часы стоят триста долларов. - This watch costs three hundred dollars.
+Моей сестре действительно нравятся эти туфли. - My sister really likes these shoes.
+Такие вещи иногда случаются. - Such things sometimes happen.
