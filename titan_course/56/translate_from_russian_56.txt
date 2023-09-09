@@ -1,102 +1,102 @@
-Этот дом очень дорогой. - 
-Эти документы действительно полезны. - 
-У этого костюма хорошая цена. - 
-Это очень модный костюм. - 
-Мои друзья действительно шокированы. - 
-Эта еда очень дорогая. - 
-Вся эта одежда по распродаже. - 
-Эти билеты очень дорогие. - 
-Тот мальчик очень расстроен. - 
-Его брат ходит в колледж. - 
-Этот дом очень старый. - 
-Эта одежда слишком формальная. - 
-Её муж бухгалтер. - 
-Этот отель слишком дорогой. - 
-Эта женщина медсестра. - 
-Этот мальчик очень сильный. - 
-Эти лекции такие скучные. - 
-У тебя блестящая идея. - 
-Этот комментарий такой длинный. - 
-Эти мужчины очень разочарованы. - 
-Этот ресурс чрезвычайно полезен. - 
-Это повседневное платье. - 
-Эта куртка по распродаже. - 
-Его жена действительно удивлена. - 
-Все эти материалы чрезвычайно полезны. - 
-Этот курс очень эффективен. - 
-Этот мужчина очень разочарован. - 
-Это платье слишком неформальное. - 
-Твой дом такой красивый. - 
-Эти женщины коллеги. - 
-Этот эпизод очень интересный. - 
-Те студенты очень трудолюбивы. - 
-Это место такое красивое. - 
-Этот певец очень знаменитый. - 
-Эти комментарии такие смешные. - 
-Эта девочка очень грустная. - 
-Эти студенты очень ленивые. - 
-Эта лампа такая яркая. - 
-Его хобби -- это езда на велосипеде, дайвинг и катание на лыжах. - 
-Эта вещь слишком дорогая для них. - 
-Моей сестре пятнадцать. - 
-Его уровень очень низкий. - 
-Эти воры сейчас в тюрьме. - 
-Я думаю, этот мальчик настоящий гений. - 
-Моё главное хобби -- это изучение иностранных языков. - 
-Моя мама на кухне сейчас. - 
-Я вижу, что это приложение чрезвычайно полезно для изучающих английский язык, потому что оно действительно помогает. - 
-Плавание -- моё хобби. - 
-Эти выражения являются новыми для нас. - 
-У твоего друга хорошее чувство юмора. - 
-Мои коллеги всегда помогают мне, когда мне нужно это. - 
-Этот вор в тюрьме. - 
-Эти результаты отличные. - 
-Эта еда дорогая, но она очень хорошая. - 
-У моих коллег хорошее чувство юмора. - 
-Эта коробка действительно тяжёлая. - 
-Эти видеоуроки чрезвычайно полезны. - 
-Моё полотенце в ванной. - 
-Моя чашка на кухне. - 
-Моя чашка на столе. - 
-Я думаю, английский лёгкий. - 
-Они думают, английский лёгкий. - 
-Она думает, что английский лёгкий. - 
-Я согласен, что деньги очень важны. - 
-Я знаю, что деньги очень важны. - 
-Она согласна, что деньги очень важны. - 
-Мои хобби -- готовка, бег трусцой и путешествия. - 
-Её хобби -- плавание и чтение. - 
-Его хобби -- готовка. - 
-Английский также интересен ей. - 
-Это также интересно мне. - 
-Английский также очень важен для нас. - 
-Изучение английского моё хобби. - 
-Изучение английского и готовка -- мои хобби. - 
-Моё хобби -- изучение английского. - 
-Эти выражения являются новыми для меня. - 
-Многие выражения являются новыми для меня. - 
-То выражение является новым для меня. - 
-Эта еда хороша на вкус. - 
-Эти яблоки хороши на вкус. - 
-Этот апельсин очень хорош на вкус. - 
-Я часто слышу, что испанский язык также лёгкий. - 
-Она часто слышит, что испанский язык действительно лёгкий. - 
-Они часто слышат, что английский также лёгкий. - 
-Мои хобби -- плавание, теннис и английский язык. - 
-Мои хобби -- теннис и английский язык. - 
-Моё хобби -- это футбол. - 
-Люди обычно говорят, что китайский очень сложный. - 
-Эта игрушка в спальне. - 
-Некоторые люди говорят, что деньги -- это всё, но я так не думаю. - 
-Моё хобби -- изучение иностаранных языков. - 
-Я думаю, что время -- это больше, чем деньги. - 
-Эта цена очень высокая. - 
-Это выражение новое для меня. - 
-Английский язык -- моё основное хобби. - 
-Мои хобби -- это рисование, шахматы и иностранные языки. - 
-Мой отец в гостиной. - 
-Этот мальчик гений. - 
-Эта компания очень большая, и мы все видим её успех. - 
-Вся эта информация чрезвычайно полезна для меня. - 
-Я думаю, мой друг прав. - 
-Её основное хобби -- садоводство. - 
+Этот дом очень дорогой. - This house is very expensive.
+Эти документы действительно полезны. - These documents are really useful.
+У этого костюма хорошая цена. - This suit has a good price.
+Это очень модный костюм. - It is a very fashionable suit.
+Мои друзья действительно шокированы. - My friends are really shocked.
+Эта еда очень дорогая. - This food is very expensive.
+Вся эта одежда по распродаже. - All these clothes are on sale.
+Эти билеты очень дорогие. - These tickets are very expensive.
+Тот мальчик очень расстроен. - That boy is very upset.
+Его брат ходит в колледж. - His brother goes to college.
+Этот дом очень старый. - This house is very old.
+Эта одежда слишком формальная. - These clothes are too formal.
+Её муж бухгалтер. -  Her husband is an accountant.
+Этот отель слишком дорогой. - This hotel is too expensive.
+Эта женщина медсестра. - This woman is a nurse.
+Этот мальчик очень сильный. - This boy is very strong.
+Эти лекции такие скучные. - These lectures are so boring.
+У тебя блестящая идея. - You have a brilliant idea.
+Этот комментарий такой длинный. - This comment is so long.
+Эти мужчины очень разочарованы. - These men are very disappointed.
+Этот ресурс чрезвычайно полезен. - This resource is extremely useful.
+Это повседневное платье. - It is a casual dress.
+Эта куртка по распродаже. - This jacket is on sale.
+Его жена действительно удивлена. - His wife is really surprised.
+Все эти материалы чрезвычайно полезны. - All these materials are extremely useful.
+Этот курс очень эффективен. - This course is very effective.
+Этот мужчина очень разочарован. - This man is very disappointed.
+Это платье слишком неформальное. - This dress is too informal.
+Твой дом такой красивый. - Your house is so beautiful.
+Эти женщины коллеги. - These women are colleagues.
+Этот эпизод очень интересный. - This episode is very interesting.
+Те студенты очень трудолюбивы. - Those students are very hard-working.
+Это место такое красивое. - This place is so beautiful.
+Этот певец очень знаменитый. - This singer is very famous.
+Эти комментарии такие смешные. - These comments are so funny.
+Эта девочка очень грустная. - This girl is very sad.
+Эти студенты очень ленивые. - These students are very lazy.
+Эта лампа такая яркая. - This lamp is so bright.
+Его хобби -- это езда на велосипеде, дайвинг и катание на лыжах. - His hobbies are cycling, diving and skiing.
+Эта вещь слишком дорогая для них. - This thing is too expensive for them.
+Моей сестре пятнадцать. - My sister is fifteen.
+Его уровень очень низкий. - His level is very low.
+Эти воры сейчас в тюрьме. - These thieves are in prison now.
+Я думаю, этот мальчик настоящий гений. - I think this boy is a real genius.
+Моё главное хобби -- это изучение иностранных языков. - My main hobby is learning foreign languages.
+Моя мама на кухне сейчас. - My mother in the kitchen now.
+Я вижу, что это приложение чрезвычайно полезно для изучающих английский язык, потому что оно действительно помогает. - I see that this application is extremely useful for English learners because it really helps.
+Плавание -- моё хобби. - Swimming is my hobby.
+Эти выражения являются новыми для нас. - These expressions are new for us.
+У твоего друга хорошее чувство юмора. - Your friend has a good sense of humour.
+Мои коллеги всегда помогают мне, когда мне нужно это. - My colleagues always help me when I need it.
+Этот вор в тюрьме. - This thief is in prison.
+Эти результаты отличные. - These results are excellent.
+Эта еда дорогая, но она очень хорошая. - This food is expensive but it is very good.
+У моих коллег хорошее чувство юмора. - My colleagues have a good sense of humour.
+Эта коробка действительно тяжёлая. - This box is really heavy.
+Эти видеоуроки чрезвычайно полезны. - These video lessons are extremely useful.
+Моё полотенце в ванной. - My towel is in the bathroom.
+Моя чашка на кухне. - My cup is in the kitchen.
+Моя чашка на столе. - My cup is on the table.
+Я думаю, английский лёгкий. - I think English is easy.
+Они думают, английский лёгкий. - They think English is easy.
+Она думает, что английский лёгкий. - She thinks that English is easy.
+Я согласен, что деньги очень важны. - I agree that money is very important.
+Я знаю, что деньги очень важны. - I know that money is very important.
+Она согласна, что деньги очень важны. - She agrees that money is very important.
+Мои хобби -- готовка, бег трусцой и путешествия. - My hobbies are cooking, jogging and travelling.
+Её хобби -- плавание и чтение. - Her hobbies are swimming and reading.
+Его хобби -- готовка. - His hobby is cooking.
+Английский также интересен ей. - English is also interesting for her.
+Это также интересно мне. - It is also interesting for me.
+Английский также очень важен для нас. - English is also very important for us.
+Изучение английского моё хобби. - Learning English is my hobby.
+Изучение английского и готовка -- мои хобби. - Learning English and cooking are my hobbies.
+Моё хобби -- изучение английского. - My hobby is learning English.
+Эти выражения являются новыми для меня. - These expressions are new for me.
+Многие выражения являются новыми для меня. - Many expressions are new for me. / A lot of expressions are new for me. / Lots of expressions are new for me.
+То выражение является новым для меня. - That expression is new for me.
+Эта еда хороша на вкус. - This food has a good taste. / This food tastes good.
+Эти яблоки хороши на вкус. - These apples have a good taste. / These apples taste good.
+Этот апельсин очень хорош на вкус. - This orange has a very good taste. / This orange tastes very good.
+Я часто слышу, что испанский язык также лёгкий. - I often hear that Spanish is also easy.
+Она часто слышит, что испанский язык действительно лёгкий. - She often hears that Spanish is really easy.
+Они часто слышат, что английский также лёгкий. - They often hear that English is also easy.
+Мои хобби -- плавание, теннис и английский язык. - My hobbies are swimming, tennis and English.
+Мои хобби -- теннис и английский язык. - My hobbies are tennis and English.
+Моё хобби -- это футбол. - My hobby is football.
+Люди обычно говорят, что китайский очень сложный. - People usually say that Chinese is very difficult.
+Эта игрушка в спальне. - This toy is in the bedroom.
+Некоторые люди говорят, что деньги -- это всё, но я так не думаю. - Some peaople say that money is everything but I do not think so.
+Моё хобби -- изучение иностаранных языков. - My hobby is learning foreign languages.
+Я думаю, что время -- это больше, чем деньги. - I think that time is more than money.
+Эта цена очень высокая. - This price is very high.
+Это выражение новое для меня. - This expression is new for me.
+Английский язык -- моё основное хобби. - English is my main hobby.
+Мои хобби -- это рисование, шахматы и иностранные языки. - My hobbies are drawing, chess and foreign languages.
+Мой отец в гостиной. - My father is in the living room.
+Этот мальчик гений. - This boy is a genius.
+Эта компания очень большая, и мы все видим её успех. - This company is very big and we all see its success.
+Вся эта информация чрезвычайно полезна для меня. - All this information is extremely useful for me.
+Я думаю, мой друг прав. - I think my friend is right.
+Её основное хобби -- садоводство. - Her main hobby is gardening.
