@@ -8,7 +8,7 @@ friendly - дружелюбный
 generous - щедрый
 guy - парень
 hospitable - гостеприимный
-number - число
+number - число; номер
 partner - партнёр
 realise, realize - осознавать
 unique - уникальный

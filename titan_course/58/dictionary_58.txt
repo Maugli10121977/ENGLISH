@@ -4,11 +4,13 @@ class - занятие, урок
 clean - чистить; чистый
 difference - разница, различие
 guitar - гитара
+have lunch - обедать
 jazz - джаз
 lead - вести; лидировать
 lifestyle - образ жизни
 magazine - журнал
 newspaper - газета
+phone number - номер телефона
 piano - пианино
 pop music - поп-музыка
 public - публичный, общественный
