@@ -13,6 +13,7 @@ secretary - секретарь
 singer - певец
 sixty - шестьдесят
 (to be) sure - уверен
+(to be) unsure - неуверен
 wife - жена
 wonderful - замечательный, прекрасный, чудесный
 young - молодой

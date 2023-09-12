@@ -20,3 +20,4 @@ strange - странный
 than - (больше/меньше) чем
 thirty - тридцать
 thousand - тысяча
+unimportant - неважный
