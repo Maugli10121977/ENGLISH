@@ -1,101 +1,101 @@
-Ребёнок дома. - 
-Вода в этой бутылке. - 
-Эта девушка моя подруга. - 
-Много людей приходит сюда каждый день. - 
-Еда свежая. - 
-Игра такая скучная. - 
-Книга очень тонкая. - 
-Это солнечный день. - 
-Комната слишком маленькая. - 
-День такой солнечный. - 
-Это маленькая комната. - 
-Экзамен слишком сложный. - 
-Это тонкая книга. - 
-Это скучная игра. - 
-Мужчина толстый. - 
-Это очень сложная ситуация. - 
-Идеи очень интересные. - 
-Студент очень амбициозен. - 
-Результаты блестящие. - 
-Ситуация очень сложная. - 
-Женщина очень стройная. - 
-Тест очень простой. - 
-Путь слишком длинный. - 
-Это блестящий результат. - 
-Вопросы очень хорошие. - 
-Студенты очень амбициозны. - 
-Урок чрезвычайно полезен. - 
-Она очень стройная девушка. - 
-Шутка очень смешная. - 
-Программа действительно скучная. - 
-Видео такие скучные. - 
-Мужчины очень толстые. - 
-Это очень интересная идея. - 
-Уроки очень полезны. - 
-Место такое красивое. - 
-Результат отличный. - 
-Ребёнок в школе. - 
-Еда очень вкусная. - 
-Это дождливый день. - 
-Путь очень короткий. - 
-День дождливый. - 
-Видео такое неинформативное. - 
-Это очень простой тест. - 
-Цена слишком высокая. - 
-Это очень красивая церковь. - 
-Женщины очень стройные. - 
-Я думаю, что настоящее счастье намного больше, чем просто деньги. - 
-Он очень амбициозный студент. - 
-У тебя блестящие идеи, как всегда. - 
-Многие люди говорят, что здоровье важнее денег. - 
-Он очень опытный учитель. - 
-Дорога пустая. - 
-Я вижу, ты полон энтузиазма. - 
-Это очень узкая улица. - 
-Дети в кровати. - 
-Земля кругая. - 
-Еда восхитительная. - 
-Она очень опытный врач. - 
-Церковь очень красивая. - 
-Малыш в кровати. - 
-Малыш лежит в кровати. - 
-Этот малыш в кровати. - 
-Стакан пустой. - 
-Мой стакан пустой. - 
-Этот стакан пустой. - 
-Я вижу, что ты очень опытный. - 
-Я вижу, что они очень опытные. - 
-Я знаю, что она очень опытная. - 
-Это неинформативное видео. - 
-Это информативное видео. - 
-Это неинформативный урок. - 
-Это пустая бутылка. - 
-Это пустой стакан. - 
-Это полная бутылка. - 
-Счастье -- больше, чем деньги. - 
-Счастье -- это действительно больше, чем деньги. - 
-Работа полна ошибок. - 
-Эта работа полна ошибок. - 
-Эти документы полны ошибок. - 
-Те дети в кровати. - 
-Он очень профессиональный врач. - 
-Они очень профессиональные врачи. - 
-Он очень хороший врач. - 
-Любовь -- это прекрасное чувство. - 
-Любовь -- это хорошее чувство. - 
-Любовь -- это действительно прекрасное чувство. - 
-Полиция там. - 
-Дети дома. - 
-Деньги -- больше, чем бумага. - 
-Это широкая улица. - 
-Я знаю, что компьютеры очень старые. - 
-Дорога полна машин. - 
-Улица очень узкая. - 
-Текст сложный для понимания. - 
-Это чрезвычайно полезный урок. - 
-Ответ очевиден. - 
-Я полон энергии. - 
-Это старая машина. - 
-Эта улица очень широкая. - 
-Они очень опытные работники. - 
-Полиция здесь. - 
+Ребёнок дома. - The child is at home. / The kid is at home.
+Вода в этой бутылке. - The water is in this bottle.
+Эта девушка моя подруга. - This girl is my friend.
+Много людей приходит сюда каждый день. - Many people come here every day. / A lot of people come here every day. / Lots of people come here every day.
+Еда свежая. - The food is fresh.
+Игра такая скучная. - The game is so boring.
+Книга очень тонкая. - The book is very thin.
+Это солнечный день. - It is a sunny day.
+Комната слишком маленькая. - The room is too small.
+День такой солнечный. - The day is so sunny.
+Это маленькая комната. - It is a small room.
+Экзамен слишком сложный. - The exam is too difficult.
+Это тонкая книга. - It is a thin book.
+Это скучная игра. - It is a boring game.
+Мужчина толстый. - The man is fat.
+Это очень сложная ситуация. - It is a very difficult situation.
+Идеи очень интересные. - The ideas are very interesting.
+Студент очень амбициозен. - The student is very ambitious.
+Результаты блестящие. - The results are brilliant.
+Ситуация очень сложная. - The situation is very difficult.
+Женщина очень стройная. - The woman is very slim.
+Тест очень простой. - The test is very simple.
+Путь слишком длинный. - The way is too long.
+Это блестящий результат. - It is a brilliant result.
+Вопросы очень хорошие. - The questions are very good.
+Студенты очень амбициозны. - The students are very ambitious.
+Урок чрезвычайно полезен. - The lesson is extremely useful.
+Она очень стройная девушка. - She is a very slim girl.
+Шутка очень смешная. - The joke is very funny.
+Программа действительно скучная. - The program is really boring.
+Видео такие скучные. - The videos are so boring.
+Мужчины очень толстые. - The men are very fat.
+Это очень интересная идея. - It is a very interesting idea.
+Уроки очень полезны. - The lessons are very useful.
+Место такое красивое. - The place is so beautiful.
+Результат отличный. - The result is excellent.
+Ребёнок в школе. - The child is at school. / The kid is at school.
+Еда очень вкусная. - The food is very tasty.
+Это дождливый день. - It is a rainy day.
+Путь очень короткий. - The way is very short.
+День дождливый. - The day is rainy.
+Видео такое неинформативное. - The video is so uninformative.
+Это очень простой тест. - It is a very simple test.
+Цена слишком высокая. - The price is too high.
+Это очень красивая церковь. - It is a very beautiful church.
+Женщины очень стройные. - The women are very slim.
+Я думаю, что настоящее счастье намного больше, чем просто деньги. - I think that real happiness is much more than just money.
+Он очень амбициозный студент. - He is a very ambitious student.
+У тебя блестящие идеи, как всегда. - You have brilliant ideas as always.
+Многие люди говорят, что здоровье важнее денег. - Many people say that health is more important than money. / A lot of people say that health is more important than money. / Lot of people say that health is more important than money.
+Он очень опытный учитель. - He is a very experienced teacher.
+Дорога пустая. - The road is empty.
+Я вижу, ты полон энтузиазма. - I see you are full of enthusiasm.
+Это очень узкая улица. - It is a very narrow street.
+Дети в кровати. - The children are in bed. / The kids are in bed.
+Земля кругая. - The Earth is round.
+Еда восхитительная. - The food is delicious.
+Она очень опытный врач. - She is a very experienced doctor.
+Церковь очень красивая. - The church is very beautiful.
+Малыш в кровати. - The baby is in bed.
+Малыш лежит в кровати. - The baby lies in bed.
+Этот малыш в кровати. - This baby is in bed.
+Стакан пустой. - The glass in empty.
+Мой стакан пустой. - My glass is empty.
+Этот стакан пустой. - This glass is empty.
+Я вижу, что ты очень опытный. - I see that you are very experienced.
+Я вижу, что они очень опытные. - I see that they are very experienced.
+Я знаю, что она очень опытная. - I know that she is very experienced.
+Это неинформативное видео. - It is not an informative video. / It is an uninformative video.
+Это информативное видео. - It is an informative video.
+Это неинформативный урок. - It is not an informative lesson. / It is an unformative lesson.
+Это пустая бутылка. - It is an empty bottle.
+Это пустой стакан. - It is an empty bottle.
+Это полная бутылка. - It is a full bottle.
+Счастье -- больше, чем деньги. - Happiness is more than money.
+Счастье -- это действительно больше, чем деньги. - Happiness is really more than money.
+Работа полна ошибок. - The work is full of mistakes.
+Эта работа полна ошибок. - This work is full of mistakes.
+Эти документы полны ошибок. - These documents are full of mistakes.
+Те дети в кровати. - Those children are in bed. / Those kids are in bed.
+Он очень профессиональный врач. - He is a very professional doctor.
+Они очень профессиональные врачи. - They are very professional doctors.
+Он очень хороший врач. - He is a good doctor.
+Любовь -- это прекрасное чувство. - Love is a wonderful feeling.
+Любовь -- это хорошее чувство. - Love is a good feeling.
+Любовь -- это действительно прекрасное чувство. - Love is a really wonderful feeling. / Love is really a wonderful feeling.
+Полиция там. - The police are there.
+Дети дома. - The children are at home. / The kids are at home.
+Деньги -- больше, чем бумага. - Money is more than paper.
+Это широкая улица. - It is a wide street.
+Я знаю, что компьютеры очень старые. - I know that the computers are very old.
+Дорога полна машин. - The road is full of cars.
+Улица очень узкая. - The street is very narrow.
+Текст сложный для понимания. - The text is difficult for understanding.
+Это чрезвычайно полезный урок. - It is an extremely useful lesson.
+Ответ очевиден. - The answer is obvious.
+Я полон энергии. - I am full of energy.
+Это старая машина. - It is an old car.
+Эта улица очень широкая. - This street is very wide.
+Они очень опытные работники. - They are very experienced workers.
+Полиция здесь. - The police are here.
