@@ -1,0 +1,30 @@
+agency - агенство
+behaviour - поведение
+classmate - одноклассник
+client - клиент
+complain - жаловаться
+condition - состояние
+consider - рассматривать
+design - дизайн
+employee - работник
+employer - работодатель
+exist - существовать
+groupmate - одногруппник
+invest - инвестировать, вкладывать (средства во что-либо)
+investor - инвестор
+matter - иметь значение
+overpay - переплачивать
+perfect - идеальный
+quality - качество
+reliable - надёжный
+robot - робот
+satisfaction - удовлетворение
+science - наука
+seriously - серьёзно
+shirt - рубашка
+size - размер
+skirt - юбка
+surprising - удивительный
+tourist - турист
+weigh - взвешивать
+weight - вес
