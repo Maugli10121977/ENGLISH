@@ -44,7 +44,7 @@ here - здесь; сюда
 there - там; туда
 language - язык (речь)
 every - каждый
-day - день
+day - день; сутки
 travel - путешествовать
 year - год
 travelling - путешествие
