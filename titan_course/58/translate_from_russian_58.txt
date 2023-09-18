@@ -1,102 +1,102 @@
-Он не ест шоколад. - 
-Мы не пьём кофе каждый день. - 
-Я не читаю эти журналы. - 
-Она не пьёт вино. - 
-Она не ест шоколад. - 
-Он не катается на лыжах. - 
-Он не читает книги. - 
-Ей не нравится кататься на сноуборде. - 
-Она не убирает свою комнату. - 
-Ему не нравится его новая школа. - 
-Он не играет в футбол. - 
-Мы так не думаем. - 
-Я не чувствую себя уставшим. - 
-Она не говорит по-английски. - 
-У него нет кота. - 
-Он не работает каждый день. - 
-Я не смотрю телевизор. - 
-Они не живут в большом городе. - 
-Она не любит компьютерные игры. - 
-Я не пью кофе каждое утро. - 
-Она не чувствует никакого прогресса. - 
-У меня нет занятий в воскресенье. - 
-У них нет каких-либо вопросов. - 
-Ему не нравится его работа. - 
-Она не пьёт кофе по утрам. - 
-Ей не нравится это платье. - 
-У меня нет собаки. - 
-Он не играет в шахматы. - 
-Я не помню её номер телефона. - 
-Он не пьёт чай утром. - 
-Он не водит машину. - 
-Они не ходят в школу летом. - 
-Она не читает газеты. - 
-Он не пьёт пиво. - 
-Она не пьёт молоко. - 
-Она не живёт в большом городе. - 
-Я не плачу за это. - 
-Она не готовит каждый день. - 
-Ему не нравится мясо. - 
-Она не курит. - 
-Я не пью алкоголь. - 
-Я не ем слишком много по вечерам. - 
-Я не понимаю, почему таак много людей не ведут здоровый образ жизни. - 
-Я не езжу на велосипеде каждую неделю. - 
-Он не работает вечером, потому что проводит время со своей семьёй. - 
-Мы не встречаемся на выходных. - 
-Я больше не хочу платить за это. - 
-Он чувствует себя таким счастливым, потому что не платит за своё образование. - 
-Она не играет в шахматы. - 
-Он больше не хочет это слышать. - 
-Это не принадлежит ему. - 
-Он не играет на скрипке, но он играет на гитаре. - 
-Она не хочет быть стоматологом. - 
-Мне не нравится рок-музыка. - 
-Он не пытается ничего изменить. - 
-Она не понимает, как это происходит. - 
-Ему не нравится джаз. - 
-Я не прихожу туда позже. - 
-Она не приходит туда позже. - 
-Я не прихожу сюда позже. - 
-Он не ходит в спортзал дважды в неделю. - 
-Я не хожу в спортзал дважды в месяц. - 
-Она не ходит туда дважды в неделю. - 
-Я не езжу на работу. (на машине) - 
-Он не ездит на работу. (на машине) - 
-Они не ездят на работу. (на машине) - 
-Они не ходят в спортзал. - 
-Он не ходит в спортзал. - 
-Я не хожу в спортзал. - 
-Я не делаю покупки каждый день. - 
-Она не делает покупки каждый день. - 
-Мы не делаем покупки каждую неделю. - 
-Он не обедает на работе. - 
-Я не обедаю на работе. - 
-Она не обедает дома. - 
-Я не вижу никакой разницы между этими двумя вещами. - 
-Я вижу некоторые различия между этими вещами. - 
-Он не видит никакой разницы между этими двумя вещами. - 
-У меня нет братьев или сестёр. - 
-У него нет братьев или сестёр. - 
-У него много братьев и сестёр. - 
-Это не кажется самой лучшей идеей. - 
-Это не кажется хорошей идеей. - 
-Это кажется самой лучшей идеей. - 
-Я не понимаю, почему это происходит. - 
-Я не понимаю, когда это происходит. - 
-Я не знаю, почему это происходит. - 
-Она не работает по выходным. - 
-Это не принадлежит им. - 
-Она не играет на пианино. - 
-Я не хожу за покупками так часто. - 
-Я не пользуюсь общественным транспортом так часто. - 
-У неё нет никаких близких родственников. - 
-Ей не нравится поп-музыка. - 
-Я думаю, это не стоит этих денег. - 
-Он не играет на скрипке. - 
-Я не думаю, что это так хорошо. - 
-Я не работаю  на выходных. - 
-Я не хожу плавать так часто. - 
-Он не ведёт здоровый образ жизни, и я думаю, что это очень плохо. - 
-Я не играю на гитаре. - 
-Я не езжу на работу на автобусе. - 
+Он не ест шоколад. - He does not eat chocolate.
+Мы не пьём кофе каждый день. - We are not drink coffee every day.
+Я не читаю эти журналы. - I am not read these magazines.
+Она не пьёт вино. - She does not drink wine.
+Она не ест шоколад. - She does not eat chocolate.
+Он не катается на лыжах. - He does not go skiing.
+Он не читает книги. - He does not read books.
+Ей не нравится кататься на сноуборде. - She does not like snowboarding.
+Она не убирает свою комнату. - She does not clean her room.
+Ему не нравится его новая школа. - He does not like his new school.
+Он не играет в футбол. - He does not play football.
+Мы так не думаем. - We do not think so.
+Я не чувствую себя уставшим. - I do not feel tired.
+Она не говорит по-английски. - She does not speak English.
+У него нет кота. - He does not have a cat.
+Он не работает каждый день. - He does not work every day.
+Я не смотрю телевизор. - I do not watch TV.
+Они не живут в большом городе. - They do not live in a big city.
+Она не любит компьютерные игры. - She does not like computer games. / She does not love computer games.
+Я не пью кофе каждое утро. - I do not drink coffee every morning.
+Она не чувствует никакого прогресса. - She does not feel any progress.
+У меня нет занятий в воскресенье. - I do not have classes on Sunday. / I do not have lessons on Sunday.
+У них нет каких-либо вопросов. - They do not have any questions.
+Ему не нравится его работа. - He does not like his job.
+Она не пьёт кофе по утрам. - She does not drink coffee in the mornings.
+Ей не нравится это платье. - She doe not like this dress.
+У меня нет собаки. - I do not have a dog.
+Он не играет в шахматы. - He does not play chess.
+Я не помню её номер телефона. - I do not remember her phone number.
+Он не пьёт чай утром. - He does not drink tea in the morning.
+Он не водит машину. - He does not drive a car.
+Они не ходят в школу летом. - They do not go to school in summer. / They do not go to school in the summer.
+Она не читает газеты. - She does not read newspapers.
+Он не пьёт пиво. - He does not drink beer.
+Она не пьёт молоко. - She does not drink milk.
+Она не живёт в большом городе. - She does not live in a big city.
+Я не плачу за это. - I do not pay for it.
+Она не готовит каждый день. - She does not cook every day.
+Ему не нравится мясо. - He does not like meat.
+Она не курит. - She does not smoke.
+Я не пью алкоголь. - I do not drink alcohol.
+Я не ем слишком много по вечерам. - I do not eat too much in the evenings.
+Я не понимаю, почему таак много людей не ведут здоровый образ жизни. - I do not understand why so many people do not lead healty lifestyle.
+Я не езжу на велосипеде каждую неделю. - I do not go sycling every week.
+Он не работает вечером, потому что проводит время со своей семьёй. - He does not work in the evening because he spends time with his family.
+Мы не встречаемся на выходных. - We do not meet at the weekends. / We do not meet on the weekends.
+Я больше не хочу платить за это. - I do not want to pay for it anymore.
+Он чувствует себя таким счастливым, потому что не платит за своё образование. - He feels so happy because he does not pay for his education.
+Она не играет в шахматы. - She does not play chess.
+Он больше не хочет это слышать. - He does not want to hear it anymore.
+Это не принадлежит ему. - It does not belong to him.
+Он не играет на скрипке, но он играет на гитаре. - He does not play the violin but he plays the guitar.
+Она не хочет быть стоматологом. - She does not want to be a dentist.
+Мне не нравится рок-музыка. - I do not like rock music.
+Он не пытается ничего изменить. - He does not try to change anything. / He tries to change nothing.
+Она не понимает, как это происходит. - She does not understand how it happens.
+Ему не нравится джаз. - He does not like jazz.
+Я не прихожу туда позже. - I do not come there later.
+Она не приходит туда позже. - She does not come there later.
+Я не прихожу сюда позже. - I do not come here later.
+Он не ходит в спортзал дважды в неделю. - He does not go to the gym twice a week.
+Я не хожу в спортзал дважды в месяц. - I do not go to the gym twice a month.
+Она не ходит туда дважды в неделю. - She does not go there twice a week.
+Я не езжу на работу. (на машине) - I do not drive to work.
+Он не ездит на работу. (на машине) - He does not drive to work.
+Они не ездят на работу. (на машине) - They do not drive to work.
+Они не ходят в спортзал. - They do not go to the gym.
+Он не ходит в спортзал. - He does not go to the gym.
+Я не хожу в спортзал. - I do not go to the gym.
+Я не делаю покупки каждый день. - I do not do the shopping every day.
+Она не делает покупки каждый день. - She does not do the shopping every day.
+Мы не делаем покупки каждую неделю. - We do not do the shopping every week.
+Он не обедает на работе. - He does not have lunch at work.
+Я не обедаю на работе. - I do not have lunch at work.
+Она не обедает дома. - She does not have lunch at home.
+Я не вижу никакой разницы между этими двумя вещами. - I do not see any difference between these two things. / I see no difference between these two things.
+Я вижу некоторые различия между этими вещами. - I see some differences between these things.
+Он не видит никакой разницы между этими двумя вещами. - He does not see any difference between these two things.
+У меня нет братьев или сестёр. - I do not have any brothers or sisters.
+У него нет братьев или сестёр. - He does not have any brothers or sisters.
+У него много братьев и сестёр. - He has many brothers and sisters.
+Это не кажется самой лучшей идеей. - It does not seem the best idea.
+Это не кажется хорошей идеей. - It does not seem a good idea.
+Это кажется самой лучшей идеей. - It seems the best idea.
+Я не понимаю, почему это происходит. - I do not understand why it happens.
+Я не понимаю, когда это происходит. - I do not understand when it happens.
+Я не знаю, почему это происходит. - I do not know why it happens.
+Она не работает по выходным. - She does not work at the weekends. / She does not work on the weekends.
+Это не принадлежит им. - It does not belong to them.
+Она не играет на пианино. - She does not play the piano.
+Я не хожу за покупками так часто. - I do not go shopping so often.
+Я не пользуюсь общественным транспортом так часто. - I do not use public transport so often.
+У неё нет никаких близких родственников. - She does not have any close relatives.
+Ей не нравится поп-музыка. - She does not like pop music.
+Я думаю, это не стоит этих денег. - I think it does not cost this money.
+Он не играет на скрипке. - He does not play the violin.
+Я не думаю, что это так хорошо. - I do not think that it is so good.
+Я не работаю  на выходных. - I do not work at the weekends. / I do not work on the weekends.
+Я не хожу плавать так часто. - I do not go swimming so often.
+Он не ведёт здоровый образ жизни, и я думаю, что это очень плохо. - He does not lead a healthy lifestyle and I think that it is very bad.
+Я не играю на гитаре. - I do not play the guitar.
+Я не езжу на работу на автобусе. - I do not go to work by bus. / I do not go to work on a bus. / I do not go to work on the bus.
