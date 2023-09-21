@@ -1,15 +1,18 @@
 apologise (for) - извиняться
 clinic - клиника
+clock - часы (настенные, настольные)
 confidence - уверенность
 confident - уверенный
 dependent - зависимый
 financially - финансово
 illness - болезнь
 independent - независимый
+inexpensive - недорогой
+neck - шея
 necklace - ожерелье
-nervous - нервный
+(to be) nervous - нервный
 salary - зарплата
-(to be) sick - больной
+(to be) sick - больной (лёгкое недомогание)
 surgeon - хирург
 translator - переводчик
 well-paid - хорошо оплачиваемый

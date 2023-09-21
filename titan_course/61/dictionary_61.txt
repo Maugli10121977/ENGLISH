@@ -3,8 +3,8 @@ behaviour - поведение
 classmate - одноклассник
 client - клиент
 complain - жаловаться
-condition - состояние
-consider - рассматривать
+condition - состояние; условие (чего-либо)
+consider - рассматривать, считать (иметь мнение)
 design - дизайн
 employee - работник
 employer - работодатель
@@ -17,6 +17,7 @@ overpay - переплачивать
 perfect - идеальный
 quality - качество
 reliable - надёжный
+rely - полагаться
 robot - робот
 satisfaction - удовлетворение
 science - наука
@@ -26,5 +27,6 @@ size - размер
 skirt - юбка
 surprising - удивительный
 tourist - турист
+trainee - тренирующийся (ученик) (сущ.)
 weigh - взвешивать
 weight - вес
