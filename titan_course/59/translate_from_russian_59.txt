@@ -1,101 +1,101 @@
-Я не дома сейчас. - 
-Мы не в твоей группе. - 
-Это не плохая идея. - 
-Это не опасное место. - 
-Это не её окончательный ответ. - 
-Я не интересуюсь этим. - 
-Это не новая машина. - 
-Я не в кафе сейчас. - 
-Он совсем не устал. - 
-Он не интересуется политикой. - 
-Это не высокий уровень. - 
-Она не интересуется экономикой. - 
-Это не лёгкий тест для нас. - 
-Это не хорошая идея. - 
-Я совсем не устал. - 
-Она не художник. - 
-Я не рад этому. - 
-Он не писатель. - 
-Я не в отпуске сейчас. - 
-Это не так смешно. - 
-Это не большой риск. - 
-Я не заинтересован в этих вещах. - 
-Я не опаздываю. - 
-Это не большая проблема. - 
-Конечно, он не сумасшедший. - 
-Он не бизнесмен. - 
-Он не профессиональный певец. - 
-Он не сумасшедший. - 
-Конечно, она не сумасшедшая. - 
-Это не глубокое озеро. - 
-Они не бедные люди. - 
-Она не медсестра. - 
-Я не уверен. - 
-Это не сложное упражнение для меня. - 
-Она не бухгалтер. - 
-Это не главная проблема. - 
-Это не моё окончательное решение. - 
-Она не сумасшедшая. - 
-Это не смешная шутка. - 
-Он не удивлён. - 
-Он не болен. - 
-Это не глубокая река. - 
-Это не простой тест. - 
-Это не главный вопрос. - 
-Он не в школе сейчас. - 
-Это не мой лучший результат. - 
-Это не распространённая ошибка среди студентов. - 
-Я думаю, это не лучшее решение этой проблемы. - 
-Он не носитель языка. - 
-Это не лучший ответ на этот вопрос. - 
-Я не думаю, что это лучший ответ на тот вопрос. - 
-Он не женат на ней. - 
-Он думает, это не лучше. - 
-Мне кажется, что она не носитель языка. - 
-Это не натуральный ингредиент. - 
-Это не очень распространённая ошибка среди изучающих английский язык. - 
-Это не моя главная мечта. - 
-Я не заинтересован в этой вещи. - 
-Это неправильный глагол. - 
-Это не правильный глагол. - 
-Это правильный глагол. - 
-Мы не в одной и той же группе. - 
-Мы в одной и той же группе. - 
-Они не в той группе. - 
-Это не очень популярный ответ. - 
-Это очень популярный ответ. - 
-Это не очень популярный вопрос. - 
-Они не в аэропорту. - 
-Она не в аэропорту. - 
-Мы в аэропорту. - 
-К сожалению, ты не рпав. - 
-К сожалению, я не прав. - 
-К сожалению, они не правы. - 
-Это не правильный ответ. - 
-Это правильный ответ. - 
-Это не самый лучший ответ. - 
-Она не замужем за ним. - 
-Они не женаты. - 
-Это не официальный документ. - 
-Это официальный документ. - 
-Это не важный документ. - 
-Он не готов к этому экзамену сейчас. - 
-Я не готов к тому экзамену. - 
-Он не готов к экзаменам. - 
-Я хочу сказать, что я не уверен. - 
-Она хочет сказать, что она не уверена. - 
-Они хотят сказать, что они не уверены. - 
-Он не бухгалтер. - 
-Это не моё главное хобби. - 
-Я не в парке сейчас. - 
-Мне кажется, это не лучшее решение. - 
-Они не в одном и том же классе. - 
-Это не официальный документ. - 
-Она не на кухне. - 
-Я знаю, что это не возможно. - 
-Я действительно не уверен. - 
-Она не на работе в данный момент. - 
-Он не заинтересован в этом предмете. - 
-К сожалению, это невозможно. - 
-Это неправильный ответ. - 
-К сожалению, это не так. - 
+Я не дома сейчас. - I am not at home now.
+Мы не в твоей группе. - We are not in your group.
+Это не плохая идея. - It is not a bad idea.
+Это не опасное место. - It is not a dangerous place.
+Это не её окончательный ответ. - It is not her final answer.
+Я не интересуюсь этим. - I am not interested in it.
+Это не новая машина. - It is not a new car.
+Я не в кафе сейчас. - I am not in a cafe now. / I am not in the cafe now.
+Он совсем не устал. - He is not tired at all.
+Он не интересуется политикой. - He is not interested in politics.
+Это не высокий уровень. - It is not a high level.
+Она не интересуется экономикой. - She is not interested in economics.
+Это не лёгкий тест для нас. - It is not an easy test for us.
+Это не хорошая идея. - It is not a good idea.
+Я совсем не устал. - I am not tired at all.
+Она не художник. - She is not an artist.
+Я не рад этому. - I am not happy about it.
+Он не писатель. - He is not a writer.
+Я не в отпуске сейчас. - I am not on holiday now.
+Это не так смешно. - It is not so funny.
+Это не большой риск. - It is not a big risk.
+Я не заинтересован в этих вещах. - I am not interested in these things.
+Я не опаздываю. - I am not late.
+Это не большая проблема. - It is not a big problem. / It is not a large problem.
+Конечно, он не сумасшедший. - Of couse, he is not crazy. / Of course, he is not mad.
+Он не бизнесмен. - He is not a businessman.
+Он не профессиональный певец. - He is not a professional singer.
+Он не сумасшедший. - He is not crazy. / He is not mad.
+Конечно, она не сумасшедшая. - Of course, she is not crazy. / Of course, she is not mad.
+Это не глубокое озеро. - It is not a deep lake.
+Они не бедные люди. - They are not poor people.
+Она не медсестра. - She is not a nurse.
+Я не уверен. - I am not sure.
+Это не сложное упражнение для меня. - It is not a difficult exercise for me. / It is not the difficult exercise for me.
+Она не бухгалтер. - She is not an accountant.
+Это не главная проблема. - It is not the main problem.
+Это не моё окончательное решение. - It is not my final decision.
+Она не сумасшедшая. - She is not crazy. / She is not mad.
+Это не смешная шутка. - It is not a funny joke.
+Он не удивлён. - He is not surprised.
+Он не болен. - He is not ill. / He is not sick.
+Это не глубокая река. - It is not a deep river.
+Это не простой тест. - It is not a simple test.
+Это не главный вопрос. - It is not the main question.
+Он не в школе сейчас. - He is not at school now.
+Это не мой лучший результат. - It is not me best result.
+Это не распространённая ошибка среди студентов. - It is not a common mistake among students.
+Я думаю, это не лучшее решение этой проблемы. - I think it is not the best solution to this problem.
+Он не носитель языка. - He is not a native speaker.
+Это не лучший ответ на этот вопрос. - It is not the best answer to this question.
+Я не думаю, что это лучший ответ на тот вопрос. - I do not think that it is the best answer to that question.
+Он не женат на ней. -  He is not married to her.
+Он думает, это не лучше. - He thinks it is not better.
+Мне кажется, что она не носитель языка. - It seems to me that she is not a native speaker.
+Это не натуральный ингредиент. - It is not a natural ingredient.
+Это не очень распространённая ошибка среди изучающих английский язык. - It is not a very common mistake among English leaners.
+Это не моя главная мечта. - It is not my main dream.
+Я не заинтересован в этой вещи. - I am not interested in this thing.
+Это неправильный глагол. - It is an irrerular verb.
+Это не правильный глагол. - It is not a regular verb.
+Это правильный глагол. - It is a regular verb.
+Мы не в одной и той же группе. - We are not in the same group.
+Мы в одной и той же группе. - We are in the same group.
+Они не в той группе. - They are not in that group.
+Это не очень популярный ответ. - It is not a very popular answer.
+Это очень популярный ответ. - It is a very popular answer.
+Это не очень популярный вопрос. - It is not a very popular question.
+Они не в аэропорту. - They are not at the airport.
+Она не в аэропорту. - She is not at the airport.
+Мы в аэропорту. - We are in the airport.
+К сожалению, ты не прав. - Unfortunately, you are not right. / Unfortunately, you are wrong.
+К сожалению, я не прав. - Unfortunately, I am not right. / Unfortunately, I am wrong.
+К сожалению, они не правы. - Unfortunately, they are not right. / Unfortunately, they are wrong.
+Это не правильный ответ. - It is not the right answer. / It is not the correct answer. / It is the wrong answer.
+Это правильный ответ. - It is the right answer. / It is the correct answer.
+Это не самый лучший ответ. - It is not the best answer.
+Она не замужем за ним. - She is not married to him.
+Они не женаты. - They are not married.
+Это не официальный документ. - It is not an official document. / It is an unofficial document.
+Это официальный документ. - It is an official document.
+Это не важный документ. - It is not an important document. / It is an unimportant document.
+Он не готов к этому экзамену сейчас. - He is not ready for this exam now.
+Я не готов к тому экзамену. - I am not ready for that exam.
+Он не готов к экзаменам. - He is not ready for the exams.
+Я хочу сказать, что я не уверен. - I want to say that I am not sure.
+Она хочет сказать, что она не уверена. - She wants to say that she is not sure.
+Они хотят сказать, что они не уверены. - They want to say that they are not sure.
+Он не бухгалтер. - He is not an accountant.
+Это не моё главное хобби. - It is not my main hobby.
+Я не в парке сейчас. - I am not in the park now.
+Мне кажется, это не лучшее решение. - It seems to me it is not the best decision.
+Они не в одном и том же классе. - They are not in the same class. / They are not in the same classroom.
+Это неофициальный документ. - It is an unofficial document. / It is not an official document.
+Она не на кухне. - She is not in the kitchen.
+Я знаю, что это не возможно. - I know that it is not possible. / I know that it is impossible.
+Я действительно не уверен. - I am not really sure. / I am really unsure.
+Она не на работе в данный момент. - She is not at work at the moment.
+Он не заинтересован в этом предмете. - He is not interested in this subject.
+К сожалению, это невозможно. - Unfortunately, it is not possible. / Unfortunately, it is impossible.
+Это неправильный ответ. - It is the wrong answer. / It is not the right answer. / It is not the correct answer.
+К сожалению, это не так. - Unfortunately, it is not so.
