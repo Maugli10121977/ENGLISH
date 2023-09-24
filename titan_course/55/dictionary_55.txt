@@ -16,7 +16,7 @@ picture - картина
 poster - плакат
 sale - продажа, распродажа
 sales manager - менеджер по продажам
-shoes - туфли
+shoes - туфли; ботинки
 shorter - короче
 online shop, online store - онлайн магазин
 teenager - подросток
