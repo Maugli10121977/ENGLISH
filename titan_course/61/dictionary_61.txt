@@ -28,5 +28,5 @@ skirt - юбка
 surprising - удивительный
 tourist - турист
 trainee - тренирующийся (ученик) (сущ.)
-weigh - взвешивать
+weigh - взвешивать; весить
 weight - вес
