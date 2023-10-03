@@ -8,7 +8,7 @@ image - имидж; образ; изображение
 model - модель
 organization - организация
 outside - снаружи
-power - мощь
+power - мощь, сила
 powerful - мощный
 reputation - репутация
 tall - высокий (о росте)
