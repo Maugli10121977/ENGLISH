@@ -7,7 +7,7 @@
 Это не новая машина. - It is not a new car.
 Я не в кафе сейчас. - I am not in a cafe now. / I am not in the cafe now.
 Он совсем не устал. - He is not tired at all.
-Он не интересуется политикой. - He is not interested in politics.
+Он не интересуется политикой. - He is not interested in politics. / He does not interest politics.
 Это не высокий уровень. - It is not a high level.
 Она не интересуется экономикой. - She is not interested in economics.
 Это не лёгкий тест для нас. - It is not an easy test for us.
@@ -67,7 +67,7 @@
 Это не очень популярный вопрос. - It is not a very popular question.
 Они не в аэропорту. - They are not at the airport.
 Она не в аэропорту. - She is not at the airport.
-Мы в аэропорту. - We are in the airport.
+Мы в аэропорту. - We are at the airport.
 К сожалению, ты не прав. - Unfortunately, you are not right. / Unfortunately, you are wrong.
 К сожалению, я не прав. - Unfortunately, I am not right. / Unfortunately, I am wrong.
 К сожалению, они не правы. - Unfortunately, they are not right. / Unfortunately, they are wrong.
