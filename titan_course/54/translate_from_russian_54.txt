@@ -94,7 +94,7 @@
 Это лежит на крыше. - It lies on the roof.
 Это на крыше. - It is on the roof.
 Я думаю, это пустая трата времени. - I think it is a waste of time.
-Это кажется пустой тратой времени для меня. - It seems a waste of time.
+Это кажется пустой тратой времени для меня. - It seems a waste of time for me.
 Я думаю, это действительно ужасно. - I think it is really terrible.
 Это пустая трата времени. - It is a waste of time.
 Я чрезвычайно устал. - I am extremely tired.

@@ -6,7 +6,7 @@ necessary - необходимо
 photo - фотография
 relax - отдыхать, расслабляться
 simple - простой
-smile - улыбаться, улыбка
+smile (at) - улыбаться, улыбка
 sofa - диван
 text - текст
 tradition - традиция
