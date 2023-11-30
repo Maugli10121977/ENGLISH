@@ -1,6 +1,6 @@
 Он не ест шоколад. - He does not eat chocolate.
-Мы не пьём кофе каждый день. - We are not drink coffee every day.
-Я не читаю эти журналы. - I am not read these magazines.
+Мы не пьём кофе каждый день. - We do not drink coffee every day.
+Я не читаю эти журналы. - I do not read these magazines.
 Она не пьёт вино. - She does not drink wine.
 Она не ест шоколад. - She does not eat chocolate.
 Он не катается на лыжах. - He does not go skiing.
