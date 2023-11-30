@@ -2,7 +2,7 @@ agency - агенство
 behaviour - поведение
 classmate - одноклассник
 client - клиент
-complain - жаловаться
+complain (about) - жаловаться
 condition - состояние; условие (чего-либо)
 consider - рассматривать, считать (иметь мнение)
 design - дизайн

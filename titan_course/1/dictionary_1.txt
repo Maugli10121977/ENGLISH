@@ -37,7 +37,7 @@ result - результат
 Russian - русский (язык)
 know - знать
 go - идти, ходить; ехать
-to - в; к
+to - в; к; чтобы
 school - школа
 often - часто
 here - здесь; сюда
@@ -45,13 +45,13 @@ there - там; туда
 language - язык (речь)
 every - каждый
 day - день; сутки
-travel - путешествовать
+travel (around) - путешествовать
 year - год
 travelling - путешествие
 game - игра
 play - играть
 football - футбол
-so - так, такой
+so - так, такой; поэтому
 also - также; тоже
 think - думать
 about - о, об

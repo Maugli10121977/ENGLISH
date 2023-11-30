@@ -1,6 +1,6 @@
 apologise (for) - извиняться
 clinic - клиника
-clock - часы (настенные, настольные)
+clock - часы (настенные, настольные (ед.ч.))
 confidence - уверенность
 confident - уверенный
 dependent - зависимый
