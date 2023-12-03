@@ -13,4 +13,5 @@ powerful - мощный
 reputation - репутация
 tall - высокий (о росте)
 tax - налог
+wind - ветер
 windy - ветреный

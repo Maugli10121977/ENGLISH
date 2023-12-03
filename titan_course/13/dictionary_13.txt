@@ -13,8 +13,8 @@ room - комната
 secretary - секретарь
 singer - певец
 sixty - шестьдесят
-(to be) sure - уверен
-(to be) unsure - неуверен
+(to be) sure (about) - уверен
+(to be) unsure (about) - неуверен
 wife - жена
 wonderful - замечательный, прекрасный, чудесный
 young - молодой

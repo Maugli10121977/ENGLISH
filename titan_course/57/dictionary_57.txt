@@ -13,6 +13,7 @@ joke - шутка
 narrow - узкий
 obvious - очевидный
 the police - полиция (всегда мн. число)
+rain - дождь
 rainy - дождливый
 road - дорога
 round - круглый
