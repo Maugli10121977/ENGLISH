@@ -1,102 +1,102 @@
-Отель не такой дорогой. - 
-Эти налоги не такие большие. - 
-Эти правила не такие сложные. - 
-Эта информация не такая важная. - 
-Компьютер не такой мощный. - 
-Учитель не старый. - 
-Моя мама не дома. - 
-Правило не такое простое. - 
-Наш директор в данный момент не свободен. - 
-Проблема не такая большая. - 
-Эти выражения для нас не новые. - 
-Окно не закрыто. - 
-Их поддержка не так велика. - 
-Программа не скучная. - 
-Это сообщество сейчас не такое большое. - 
-Отель не такой дорогой. - 
-Это изображение не такое большое. - 
-Это сочинение не плохое. - 
-Мальчики не в одной группе. - 
-Его ессе не такое плохое. - 
-Это слово не новое для меня. - 
-Ребёнок не снаружи. - 
-Дом не маленький. - 
-День не ветреный. - 
-Его сочинение не такое плохое. - 
-Эта вещь не такая важная. - 
-День не такой солнечный. - 
-Эта организация не известная. - 
-Эта идея не новая. - 
-Дни не дождливые. - 
-Цена не такая высокая. - 
-Эта работа ей не интересна. - 
-Стол не круглый. - 
-Той практики не достаточно. - 
-Мой друг не уверен. - 
-Дети не дома. - 
-Её дом не такой маленький. - 
-Погода не такая плохая. - 
-Его бизнес не прибыльный. - 
-Этой информации не достаточно. - 
-Дверь не открыта. - 
-Это предложение работы не так интересно мне. - 
-Мужчина недостаточно сильный. - 
-Я знаю, что многие люди говорят, что время -- это деньги, но я думаю, что время -- это намного больше, чем деньги, потому что мы не можем вернуть его назад. - 
-Сообщество не очень большое в настоящее время. - 
-Качество этих продуктов недостаточно хорошее. - 
-То качество не достаточно хорошее. - 
-Я думаю, что твой друг не прав. - 
-Эти условия не идеальные. - 
-Химия ей не так интересна. - 
-Их образ не достаточно хорош. - 
-Этот бизнесмен не успешный в настоящее время. - 
-Мальчик не высокий. - 
-Эта пара джинсов не такая дешёвая. - 
-Модель не новая. - 
-Здание не такое высокое. - 
-Их репутация не плохая. - 
-Я думаю, что немецкий не такой лёгкий. - 
-Она думает, что английский не такой лёгкий. - 
-Я думаю, что этот тест не такой лёгкий. - 
-Этот налог не такой маленький. - 
-Налоги не такие маленькие. - 
-Тот налог не такой большой. - 
-Те брюки не модные. - 
-Эта одежда не модная. - 
-Мои брюки не модные. - 
-Курение не хорошо для здоровья. - 
-Курение плохо для здоровья. - 
-Употребление алкоголя не хорошо для твоего здоровья. - 
-Яблоки не свежие. - 
-Твои яблоки не свежие. - 
-Эти яблоки не свежие. - 
-Девочка не высокая. - 
-Эти девочки не высокие. - 
-Девочка не очень высокая. - 
-Тот метод недостаточно хороший. - 
-Те методы не достаточно хорошие. - 
-Тот метод не такой хороший. - 
-Еда не вкусная. - 
-Эти продукты не вкусные. - 
-Еда не очень вкусная. - 
-История не его любимый предмет. - 
-История не мой любимый предмет. - 
-Математика и история не его любимые предметы. - 
-Их дочь не замужем. - 
-Их дочери не замужем. - 
-Их дочь замужем. - 
-Экономика этой страны достаточно сильная. - 
-Я вижу, что дверь не закрыта. - 
-Размер этих ботинок слишком маленький. - 
-Эти джинсы не дорогие. - 
-Я думаю, что английский язык не такой сложный. - 
-Размер тех джинсов слишком большой. - 
-Тот курс не достаточно эффективный. - 
-Я думаю, что деньги -- это не всё. - 
-Рыба не свежая. - 
-Этот певец не так популярен в настоящее время. - 
-Качество тех уроков недостаточно хорошее. - 
-Я думаю, что те условия не идеальны. - 
-Эти налоги не такие большие. - 
-Эта песня не так популярна в настоящее время. - 
-Математика не её любимый предмет. - 
+Отель не такой дорогой. - The hotel is not so expensive.
+Эти налоги не такие большие. - These taxes are not so big.
+Эти правила не такие сложные. - These rules are not so difficult.
+Эта информация не такая важная. - This information is not so important.
+Компьютер не такой мощный. - The computer is so powerful.
+Учитель не старый. - The teacher is not old.
+Моя мама не дома. - My mother is not at home.
+Правило не такое простое. - The rule is not so simple.
+Наш директор в данный момент не свободен. - Our director is not free at the moment.
+Проблема не такая большая. - The problem is not so big.
+Эти выражения для нас не новые. - These expressions are not new for us.
+Окно не закрыто. - The window is not closed.
+Их поддержка не так велика. - Their support is not so great. / Their support is not so big.
+Программа не скучная. - The program is not boring.
+Это сообщество сейчас не такое большое. - This community is not so big now.
+Отель не такой дорогой. - The hotel is so expensive.
+Это изображение не такое большое. - This image is not so big.
+Это сочинение не плохое. - This composition is not bad. / This essay is not bad.
+Мальчики не в одной группе. - The boys are not in one group. / The boys are not in the same group.
+Его эссе не такое плохое. - His essay is not so bad.
+Это слово не новое для меня. - This word is not new for me.
+Ребёнок не снаружи. - The child is not outside. / The kid is not outside.
+Дом не маленький. - The house is not small. / The house is not little.
+День не ветреный. - The day is not windy.
+Его сочинение не такое плохое. - His composition is not so bad. / His essay is not so bad.
+Эта вещь не такая важная. - This thing is not so important.
+День не такой солнечный. - The day is not so sunny.
+Эта организация не известная. - This organization is not famous.
+Эта идея не новая. - This idea is not new.
+Дни не дождливые. - The days are not rainy.
+Цена не такая высокая. - The price is not so high.
+Эта работа ей не интересна. - This job is not interesting for her. / This work is not interesting for her.
+Стол не круглый. - The table is not round.
+Той практики не достаточно. - That practice is not enough.
+Мой друг не уверен. - My friend is not sure. / My friend is unsure.
+Дети не дома. - The children are not at home. / The kids are not at home.
+Её дом не такой маленький. - Her house is not so small. / Her house is not so little.
+Погода не такая плохая. - The weather is not so bad.
+Его бизнес не прибыльный. - His business is not profitable.
+Этой информации не достаточно. - This information is not enough.
+Дверь не открыта. - The door is not open.
+Это предложение работы не так интересно мне. - This work offer is not so interesting for me.
+Мужчина недостаточно сильный. - The man is not strong enough.
+Я знаю, что многие люди говорят, что время -- это деньги, но я думаю, что время -- это намного больше, чем деньги, потому что мы не можем вернуть его назад. - I know that many people say that time is money but I think that time is much more than money because we cannot turn it back.
+Сообщество не очень большое в настоящее время. - The community is not very big at the pesent time. / The community is not very big at present.
+Качество этих продуктов недостаточно хорошее. - The quality of these products is not good enough.
+То качество не достаточно хорошее. - That quality is not good enough.
+Я думаю, что твой друг не прав. - I think that your friend is not right. / I think that your friend is wrong.
+Эти условия не идеальные. - These conditions are not perfect. / These conditions are not ideal.
+Химия ей не так интересна. - Chemistry is not so interesting for her.
+Их образ не достаточно хорош. - Their image is not good enough.
+Этот бизнесмен не успешный в настоящее время. - This businessman is not successful at the present time. / This businessman is not successful at present. / This businessman is unsuccessful at the present time. / This businessman is unsuccessful at present.
+Мальчик не высокий. - The boy is not tall.
+Эта пара джинсов не такая дешёвая. - This pair of jeans is not so cheap.
+Модель не новая. - The model is not new.
+Здание не такое высокое. - The building is not so high.
+Их репутация не плохая. - Their reputation is not bad.
+Я думаю, что немецкий не такой лёгкий. - I think that German is not so easy.
+Она думает, что английский не такой лёгкий. - She thinks that English is not so easy.
+Я думаю, что этот тест не такой лёгкий. - I think that this test is not so easy.
+Этот налог не такой маленький. - This tax is not so small. / This tax is not so little.
+Налоги не такие маленькие. - The taxes are not so small. / The taxes are not so little.
+Тот налог не такой большой. - That tax is not so big.
+Те брюки не модные. - Those trousers are not fashionable.
+Эта одежда не модная. - These clothes are not fashionable.
+Мои брюки не модные. - My trousers are not fashionable.
+Курение не хорошо для здоровья. - Smoking is not good for health.
+Курение плохо для здоровья. - Smoking is bad for health.
+Употребление алкоголя не хорошо для твоего здоровья. - Drinking alcohol is not good for your health.
+Яблоки не свежие. - The apples are not fresh.
+Твои яблоки не свежие. - Your apples are not fresh.
+Эти яблоки не свежие. - These apples are not fresh.
+Девочка не высокая. - The girl is not tall.
+Эти девочки не высокие. - These girls are not tall.
+Девочка не очень высокая. - The girl is not very tall.
+Тот метод недостаточно хороший. - That method is not good enough.
+Те методы не достаточно хорошие. - Those methods are not good enough.
+Тот метод не такой хороший. - That method is not so good.
+Еда не вкусная. - The food is not tasty.
+Эти продукты не вкусные. - These products are not tasty.
+Еда не очень вкусная. - The food is not very tasty.
+История не его любимый предмет. - History is not his favourite subject.
+История не мой любимый предмет. - History is not my favourite subject.
+Математика и история не его любимые предметы. -  Mathematics and history are not his favourite subjects. / Maths and history are not his favourite subjects.
+Их дочь не замужем. - Their daugther is not married.
+Их дочери не замужем. - Their daughters are not married.
+Их дочь замужем. - Their daughter is married.
+Экономика этой страны достаточно сильная. - The economy of this country is strong enough.
+Я вижу, что дверь не закрыта. - I see that the door is not closed.
+Размер этих ботинок слишком маленький. - The size of these shoes is too small. / The size of these shoes is too little.
+Эти джинсы не дорогие. - These jeans are not expensive. / These jeans are inexpensive.
+Я думаю, что английский язык не такой сложный. - I think that English is not so difficult.
+Размер тех джинсов слишком большой. - The size of those jeans is too big.
+Тот курс не достаточно эффективный. - That course is not effective enough.
+Я думаю, что деньги -- это не всё. - I think that money is not everything.
+Рыба не свежая. - The fish is not fresh.
+Этот певец не так популярен в настоящее время. - This singer is not so popular at the present time. / This singer is not so popular at present.
+Качество тех уроков недостаточно хорошее. - The quality of those lessons are not good enough.
+Я думаю, что те условия не идеальны. - I think that those conditions are not perfect. / I think that those conditions are not ideal.
+Эти налоги не такие большие. - These taxes are not so big.
+Эта песня не так популярна в настоящее время. - This song is not so popular at the present time. / This song is not so popular at present.
+Математика не её любимый предмет. - Maths is not her favourite subject. / Mathematics is not her favourite subject.

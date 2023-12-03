@@ -2,7 +2,7 @@ chemistry - химия
 community - сообщество
 composition - сочинение
 economy - экономика
-essay - ессе, сочинение
+essay - эссе, сочинение
 history - история (наука)
 image - имидж; образ; изображение
 model - модель
