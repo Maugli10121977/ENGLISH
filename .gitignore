@@ -1,3 +1,4 @@
+*.swp
 titan_course/*/*.mp4
 titan_course/*/*.wav
 titan_course/docs/*
