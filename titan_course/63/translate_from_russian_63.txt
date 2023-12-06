@@ -1,102 +1,102 @@
-Ты пьёшь кофе утром? - 
-Она живёт в большом городе? - 
-Он изучает французский в университете? - 
-Он курит или нет? - 
-Он пытается найти здесь эту информацию? - 
-Он часто это говорит? - 
-Ты живёшь в большом доме? - 
-Он плавает лучше? - 
-Ты живёшь отдельно? - 
-Тебе нравится эта программа? - 
-Это действительно помогает ему? - 
-Он тоже так думает? - 
-У тебя много родственников? - 
-Она живёт в маленьком городке? - 
-Это приносит людям счастье? - 
-Она хочет жить одна? - 
-Он верит в Бога? - 
-Он чувствует себя больным? - 
-Ей нравится этот сериал? - 
-Он часто говорит тебе эту вещь? - 
-Ты находишь эту идею интересной? - 
-Они живут отдельно? - 
-Она хочет учиться в другом месте? - 
-Ты хочешь жить один? - 
-Ты находишь этот тест очень лёгким? - 
-Тебе нравится плавание? - 
-Ты живёшь в новом здании? - 
-У него стабильный доход? - 
-Ты знаешь этого парня? - 
-Ты куришь? - 
-У тебя есть стабильный доход? - 
-Ты живёшь в большом городе? - 
-Ты ищешь это онлайн? - 
-Она тоже так думает? - 
-Ты хочешь жить в другом месте? - 
-У тебя большой дом? - 
-Она живёт в старом здании? - 
-Ты смотришь бесплатные уроки английского онлайн? - 
-У тебя есть какое-либо свободное время? - 
-Она изучает английский в школе? - 
-Ты ищешь эту информацию онлайн? - 
-Тебе нравится этот сериал? - 
-Это принадлежит ему? - 
-Это развивает наши профессиональные навыки? - 
-Он работает музыкантом? - 
-Он ведёт здоровый образ жизни? - 
-Ты понимаешь, почему он это делает? - 
-Ты зависишь от своих родителей финансово? - 
-Это развивает наше воображение? - 
-Ты изучаешь английский самостоятельно? - 
-Ты хочешь быть учёным? - 
-Это развивает эти навыки? - 
-Ты знаешь, что я учу английский самостоятельно? - 
-Он работает программистом? - 
-Ты действительно понимаешь, почему это стоит так много? - 
-У тебя такой же вопрос? - 
-Ты пытаешься решить эту проблему? - 
-Ты знаешь, что я учу английский самостоятельно? - 
-Ты знаешь, что она учит английский самостоятельно? - 
-Она знает, что он изучает английский самостоятельно? - 
-Она платит за своё образование? - 
-Ты платишь за своё образование? - 
-Он платит за своё образование? - 
-Ты хочешь путешествовать по миру? - 
-Твой брат хочет путешествовать по миру? - 
-Она хочет путешествовать по стране? - 
-Он работает инструктором? - 
-Ты работаешь инструктором? - 
-Он работает тренером? - 
-Это зависит от тебя? - 
-Это зависит от меня? - 
-Ты зависишь от него? - 
-Ты делаешь это самостоятельно? - 
-Она делает это самостоятельно? - 
-Он делает это самостоятельно? - 
-У него такие же результаты? - 
-У тебя такие же результаты? - 
-У нас разные результаты? - 
-Ты часто делаешь ошибки, когда говоришь на иностранном языке? - 
-Он часто делает ошибки, когда говорит на иностранном языке? - 
-Я часто делаю ошибки, когда говорю по-английски? - 
-Ты знаешь, как ответить на этот вопрос? - 
-Она знает, как ответить на этот вопрос? - 
-Ты знаешь, как ответить на мой вопрос? - 
-Он часто делает ошибки, когда говорит по-английски? - 
-Ты часто делаешь ошибки, когда говоришь по-английски? - 
-Она часто делает ошибки, когда она говорит по-испански? - 
-Он финансово зависит от своих родителей? - 
-Он работает фитнесс-инструктором? - 
-Это принадлежит тебе? - 
-У него в настоящий момент есть какие-либо вопросы? - 
-Ты работаешь фитнесс-тренером? - 
-Ты изучаешь английский самостоятельно? - 
-Ты стараешься вести здоровый образ жизни? - 
-Ты делаешь это самостоятельно? - 
-Это зависит от нас? - 
-Ты знаешь, как решить эту проблему? - 
-Она хочет быть специалистом по маркетингу? - 
-У тебя есть какие-либо вопросы на данный момент? - 
-Ему нужно сделать это срочно? - 
-Ты работаешь персональным тренером? - 
-Он хочет быть президентом? - 
+Ты пьёшь кофе утром? - Do you drink coffee in the morning?
+Она живёт в большом городе? - Does she live in a big city?
+Он изучает французский в университете? - Does he study French at university?
+Он курит или нет? - Does he smoke or not?
+Он пытается найти здесь эту информацию? - Does he try to find this information here?
+Он часто это говорит? - Does he often say it?
+Ты живёшь в большом доме? - Do you live in a big house? / Do you live in a large house?
+Он плавает лучше? - Does he swim better?
+Ты живёшь отдельно? - Do you live separately?
+Тебе нравится эта программа? - Do you like this program?
+Это действительно помогает ему? - Does it really help him?
+Он тоже так думает? - Does he also think so? / Does he think so, too?
+У тебя много родственников? - Do you have many relatives?
+Она живёт в маленьком городке? - Does she live in a small town? / Does she live in a little town?
+Это приносит людям счастье? - Does it bring people happiness?
+Она хочет жить одна? - Does she want to live alone?
+Он верит в Бога? - Does he believe in God?
+Он чувствует себя больным? - Does he feel sick? / Does he feel ill?
+Ей нравится этот сериал? - Does she like this TV series? / Does she like this series?
+Он часто говорит тебе эту вещь? - Does he often tell you this thing?
+Ты находишь эту идею интересной? - Do you find this idea interesting?
+Они живут отдельно? - Do they live separately?
+Она хочет учиться в другом месте? - Does she want to study in another place?
+Ты хочешь жить один? - Do you want to live alone?
+Ты находишь этот тест очень лёгким? - Do you find this test very easy?
+Тебе нравится плавание? - Do you like swimming?
+Ты живёшь в новом здании? - Do you live in a new building?
+У него стабильный доход? - Does he have a stable income?
+Ты знаешь этого парня? - Do you know this guy?
+Ты куришь? - Do you smoke?
+У тебя есть стабильный доход? - Do you have a stable income?
+Ты живёшь в большом городе? - Do you live in a big city?
+Ты ищешь это онлайн? - Do you look for it online?
+Она тоже так думает? - Does she also think so? / Does she think so, too?
+Ты хочешь жить в другом месте? - Do you want to live in another place?
+У тебя большой дом? - Do you have a big house? / Do you have a large house?
+Она живёт в старом здании? - Does she live in an old building?
+Ты смотришь бесплатные уроки английского онлайн? - Do you watch free English lessons online?
+У тебя есть какое-либо свободное время? - Do you have any free time?
+Она изучает английский в школе? - Does she study English at school?
+Ты ищешь эту информацию онлайн? - Do you look for this information online?
+Тебе нравится этот сериал? - Do you like this TV series? / Do you like this series?
+Это принадлежит ему? - Does it belong to him?
+Это развивает наши профессиональные навыки? - Does it develop our professional skills?
+Он работает музыкантом? - Does he work as a musician?
+Он ведёт здоровый образ жизни? - Does he lead a healthy lifestyle? / Does he lead a healthy way of life?
+Ты понимаешь, почему он это делает? - Do you understand why he does it?
+Ты зависишь от своих родителей финансово? - Do you depend on your parents financially?
+Это развивает наше воображение? - Does it develop our imagination?
+Ты изучаешь английский самостоятельно? - Do you learn English by yourself? / Do you learn English on your own?
+Ты хочешь быть учёным? - Do you want to be a scientist?
+Это развивает эти навыки? - Does it develop these skills?
+Ты знаешь, что я учу английский самостоятельно? - Do you know that I learn Eglish by myself? / Do you know that I learn English on my own?
+Он работает программистом? - Does he work as a programmer?
+Ты действительно понимаешь, почему это стоит так много? - Do you really understand why it costs so much?
+У тебя такой же вопрос? - Do you have the same question?
+Ты пытаешься решить эту проблему? - Do you try to solve this problem?
+Ты знаешь, что я учу английский самостоятельно? - Do you know that I learn English on my own? / Do you know that I learn English by myself?
+Ты знаешь, что она учит английский самостоятельно? - Do you know that she learns English by herself? / Do you know that she learns English on her own?
+Она знает, что он изучает английский самостоятельно? - Does she know that he learns English by himself? / Does she know that he learns English on his own?
+Она платит за своё образование? - Does she pay for her education?
+Ты платишь за своё образование? - Do you pay for your education?
+Он платит за своё образование? - Does he pay for his education?
+Ты хочешь путешествовать по миру? - Do you want to travel around the world?
+Твой брат хочет путешествовать по миру? - Does your brother want to travel around the world?
+Она хочет путешествовать по стране? - Does she want to travel around the country?
+Он работает инструктором? - Does he work as an instructor?
+Ты работаешь инструктором? - Do you work as an instructor?
+Он работает тренером? - Does he work as a trainer?
+Это зависит от тебя? - Does it depend on you?
+Это зависит от меня? - Does it depend on me?
+Ты зависишь от него? - Do you depend on me?
+Ты делаешь это самостоятельно? - Do you do it by yourself? / Do you do it on your own?
+Она делает это самостоятельно? - Does she do it on her own? / Does she do it by herself?
+Он делает это самостоятельно? - Does he do it on his own? / Does he do it by himself?
+У него такие же результаты? - Does he have the same results?
+У тебя такие же результаты? - Do you have the same results?
+У нас разные результаты? - Do we have different results?
+Ты часто делаешь ошибки, когда говоришь на иностранном языке? - Do you often make mistakes when you speak a foreign language?
+Он часто делает ошибки, когда говорит на иностранном языке? - Does he often make mistakes when he speaks a foreign language?
+Я часто делаю ошибки, когда говорю по-английски? - Do I often make mistakes when I speak English?
+Ты знаешь, как ответить на этот вопрос? - Do you know how to answer this question?
+Она знает, как ответить на этот вопрос? - Does she know how to answer this question?
+Ты знаешь, как ответить на мой вопрос? - Do you know how to answer my question?
+Он часто делает ошибки, когда говорит по-английски? - Does he often make mistakes when he speaks English?
+Ты часто делаешь ошибки, когда говоришь по-английски? - Do you often make mistakes when you speak English?
+Она часто делает ошибки, когда она говорит по-испански? - Does she often make mistakes when she speaks Spanish?
+Он финансово зависит от своих родителей? - Does he depend on his parents financially?
+Он работает фитнесс-инструктором? - Does he work as a fitness instructor?
+Это принадлежит тебе? - Does it belong to you?
+У него в настоящий момент есть какие-либо вопросы? - Does he have any questions at the moment? / Does he have any questions at the present moment? / Does he have any questions at the present time? / Does he have any questions at present?
+Ты работаешь фитнесс-тренером? - Do you work as a fitness trainer?
+Ты изучаешь английский самостоятельно? - Do you learn English by yourself? / Do you learn English on your own?
+Ты стараешься вести здоровый образ жизни? - Do you try to lead a healthy lifestyle? / Do you try to lead a healty way of life?
+Ты делаешь это самостоятельно? - Do you do it by yourself? / Do you do it on your own?
+Это зависит от нас? - Does it depend on us?
+Ты знаешь, как решить эту проблему? - Do you know how to solve this problem?
+Она хочет быть специалистом по маркетингу? - Does she want to be a marketing specialist?
+У тебя есть какие-либо вопросы на данный момент? - Do you have any questions at the moment? / Do you have any questions at the present moment? / Do you have any questions at the present time? / Do you have any questions at present?
+Ему нужно сделать это срочно? - Do you need to do it urgently?
+Ты работаешь персональным тренером? - Do you work as a personal trainer?
+Он хочет быть президентом? - Does he want to be a president?

@@ -13,7 +13,7 @@ personal - личный, персональный
 president - президент
 scientist - учёный
 separately - отдельно
-series, TV series - сериал, телесериал
+series, TV series - сериал, телесериал (ед.ч.)
 skill - навык
 specialist - специалист
 marketing specialist - специалист по маркетингу
