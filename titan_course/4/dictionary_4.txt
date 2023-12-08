@@ -24,4 +24,4 @@ hospital - госпиталь, больница
 pizza - пицца
 swim - плавать
 swimming - плавание
-knowledge - знания (мн.ч.)
+knowledge - знания (ед.ч.)

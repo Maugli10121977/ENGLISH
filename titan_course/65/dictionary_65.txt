@@ -10,3 +10,4 @@ spoil - портить
 strangely - странно
 vegetarian - вегетарианец
 version - версия
+(the) latest - последний (самый новый)
