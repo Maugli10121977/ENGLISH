@@ -8,6 +8,7 @@ economist - экономист
 explanation - объяснение
 firm - фирма
 grow - расти
+happier - счастливее
 immigrant - иммигрант
 point ([at|out]) - указывать
 provide - предоставлять, обеспечивать
