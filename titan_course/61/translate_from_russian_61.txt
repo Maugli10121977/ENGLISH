@@ -59,7 +59,7 @@
 Этот робот не существует в действительности. - This robot does not exist in reality.
 Эти роботы не существуют сейчас. - These robots do not exist now.
 Мне кажется, что эта вещь действительно не имеет значения. - It seems to me that this thing does not really matter.
-Ему кажется, что эта вещь не имеет значения. - It seems to him that this thing does not really matter.
+Ему кажется, что эта вещь не имеет значения. - It seems to him that this thing does not matter.
 Мне кажется, что эти вещи действительно не имеют значения. -  It seems to me that these things do not really matter.
 Её одноклассник не разделяет её точку зрения. - Her classmate does not share her point of view.
 Мой одноклассник не разделяет мою точку зрения. - My classmate does not share my point of view.
