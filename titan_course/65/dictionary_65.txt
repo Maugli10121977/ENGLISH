@@ -1,5 +1,6 @@
 account - аккаунт; счёт
 behave - вести себя
+(the) cheapest - самый дешёвый
 crisis - кризис
 economic - экономический
 premium - премиум
