@@ -1,100 +1,100 @@
-Я хороший специалист? - 
-Они хорошие студенты? - 
-Это традиционная еда? - 
-Это дешёвая вещь? - 
-Это официальный документ? - 
-Это шумное место? - 
-Это традиционный метод? - 
-Ты сейчас в Америке? - 
-Он из Бразилии? - 
-Они сёстры? - 
-Он твой двоюродный брат? - 
-Это лучший ресторан в этой области? - 
-Он британец? - 
-Это голубая ручка? - 
-Они американцы? - 
-Это его родной язык? - 
-Они хорошие специалисты? - 
-Это старое здание? - 
-Ты действительно серьёзно? - 
-Это твоё любимое блюдо? - 
-Это важная вещь? - 
-Он хороший специалист? - 
-Это бесплатно или нет? - 
-Они высокие мальчики? - 
-Это хороший результат для тебя? - 
-Это высокий уровень? - 
-Он твой любимый певец? - 
-Это твой родной язык? - 
-Это длинная история? - 
-Он твой брат? - 
-Это хорошая идея? - 
-Ты из Испании? - 
-Он холост? - 
-Это тихое место? - 
-Они братья? - 
-Это твой любимый фильм? - 
-Он испанец? - 
-Это другой пример? - 
-Это тяжёлая коробка? - 
-Ты оффлайн сейчас? - 
-Они твои двоюродные братья? - 
-Ты онлайн сейчас? - 
-Это чёрный карандаш? - 
-Это неважная вещь? - 
-Ты интересуешься иностранными языками? - 
-Ты действительно шокирован? - 
-Это для тебя большое достижение? - 
-Ты действительно уверен в этом? - 
-Это далеко или близко? - 
-Ты действительно удивлён? - 
-Это недорогие часы? - 
-Ты гордишься своими достижениями? - 
-Это действительно необходимо сделать завтра? - 
-Он действительно устал от этого? - 
-Это полезное приложение? - 
-Они рядом с этим местом? - 
-Это необходимо сделать? - 
-Это рядом с тем местом? - 
-Ты действительно устал? - 
-Ты устал? - 
-Он действительно устал? - 
-Это слева? - 
-Это справа? - 
-Это с левой стороны стола? - 
-Они заинтересованы в этом проекте? - 
-Он заинтересован в этом проекте? - 
-Ты заинтересован в этой работе? - 
-Это неверно? - 
-Это ответ неверный? - 
-Это действительно верно? - 
-Он носитель английского языка? - 
-Они носители английского языка? - 
-Ты носитель английского языка? - 
-Это верно или нет? - 
-Это верно? - 
-Он очень осторожный водитель? - 
-Ты осторожный водитель? - 
-Они очень осторожные водители? - 
-Это полезная вещь? - 
-Это хорошая вещь? - 
-Он гордится этим успехом? - 
-Ты гордишься своим успехом? - 
-Ты гордишься своей матерью? - 
-Ты также заинтересован в этом? - 
-Они также заинтересованы в этом? - 
-Она также заинтересована в этом? - 
-Он женат на ней? - 
-Она интересуется музыкой? - 
-Ты действительно удивлён слышать это? - 
-Она замужем за ним? - 
-Это очень дорогая вещь? - 
-Она носитель английского языка? - 
-Это необходимый шаг? - 
-Ты гордишься своими результатами? - 
-Она действительно устала от этой рутины? - 
-Это важное правило или нет? - 
-Он гордится своими достижениями? - 
-Это недорогая вещь? - 
-Это действительно необходимо? - 
-Это полезное устройство? - 
+Я хороший специалист? - Am I a good specialist?
+Они хорошие студенты? - Are they good students?
+Это традиционная еда? - Is it traditional food?
+Это дешёвая вещь? - Is it a cheap thing?
+Это официальный документ? - Is it an official document?
+Это шумное место? - Is it a noisy place?
+Это традиционный метод? - Is it a traditional method?
+Ты сейчас в Америке? - Are you in America now?
+Он из Бразилии? - Is he from Brazil?
+Они сёстры? - Are they sisters?
+Он твой двоюродный брат? - Is he your cousin?
+Это лучший ресторан в этой области? - Is it the best restaurant in this area?
+Он британец? - Is he British?
+Это голубая ручка? - Is it a blue pen?
+Они американцы? - Are they Americans?
+Это его родной язык? - Is it his mother tongue?
+Они хорошие специалисты? - Are they good specialists?
+Это старое здание? - Is it an old building?
+Ты действительно серьёзно? - Are you really serious?
+Это твоё любимое блюдо? - Is it your favourite dish?
+Это важная вещь? - Is it an important thing?
+Он хороший специалист? - Is he a good specialist?
+Это бесплатно или нет? - It it free or not?
+Они высокие мальчики? - Are they tall boys?
+Это хороший результат для тебя? - Is it a good result for you?
+Это высокий уровень? - Is it a high level?
+Он твой любимый певец? - Is he your favourite singer?
+Это твой родной язык? - Is it your mother tongue?
+Это длинная история? - Is it a long story?
+Он твой брат? - Is he your brother?
+Это хорошая идея? - Is it a good idea?
+Ты из Испании? - Are you from Spain?
+Он холост? - Is he single?
+Это тихое место? - Is it a quiet place?
+Они братья? - Are they brothers?
+Это твой любимый фильм? - Is it your favourite movie?
+Он испанец? - Is he Spanish?
+Это другой пример? - Is it another example? / Is it a different example?
+Это тяжёлая коробка? - Is it a heavy box?
+Ты оффлайн сейчас? - Are you offline now?
+Они твои двоюродные братья? - Are they your cousins?
+Ты онлайн сейчас? - Are you online now?
+Это чёрный карандаш? - Is it a black pencil?
+Это неважная вещь? - Is it an unimportant thing?
+Ты интересуешься иностранными языками? - Are you interested in foreign languages? / Do foreign languages interest you? / Are foreign languages interesting for you?
+Ты действительно шокирован? - Are you really shocked?
+Это для тебя большое достижение? - Is it a big achievement for you?
+Ты действительно уверен в этом? - Are you really sure about it?
+Это далеко или близко? - Is it far or near?
+Ты действительно удивлён? - Are you really surprised?
+Это недорогие часы? - Is it an inexpensive watch?
+Ты гордишься своими достижениями? - Are you proud of your achievements?
+Это действительно необходимо сделать завтра? - Is it really necessary to it tomorrow?
+Он действительно устал от этого? - Is he really tired of it?
+Это полезное приложение? - Is it a useful application? / Is it a useful app?
+Они рядом с этим местом? - Are they near this place?
+Это необходимо сделать? - Is it necessary to do it?
+Это рядом с тем местом? - Is it near that place?
+Ты действительно устал? - Are you really tired?
+Ты устал? - Are you tired?
+Он действительно устал? - Is he really tired?
+Это слева? - Is it on the left?
+Это справа? - Is it on the right?
+Это с левой стороны стола? - Is it on the left side of the table?
+Они заинтересованы в этом проекте? - Are they interested in this project?
+Он заинтересован в этом проекте? - Is he interested in this project?
+Ты заинтересован в этой работе? - Are you interested in this job? / Are you interested in this work?
+Это неверно? - Is it wrong? / Is it incorrect?
+Этот ответ неверный? - Is this answer incorrect? / Is this answer wrong?
+Это действительно верно? - Is it really correct? / Is it really right?
+Он носитель английского языка? - Is he a native speaker of English? / Is he an English native speaker?
+Они носители английского языка? - Are they native speakers of English? / Are they English native speakers?
+Ты носитель английского языка? - Are you a native speaker of English? / Are you an English native speaker?
+Это верно или нет? - Is it right or not? / Is it correct or not?
+Это верно? - Is it right? / Is it correct?
+Он очень осторожный водитель? - Is he a very careful driver?
+Ты осторожный водитель? - Are you a careful driver?
+Они очень осторожные водители? - Are they careful drivers?
+Это полезная вещь? - Is it a useful thing?
+Это хорошая вещь? - Is it a good thing?
+Он гордится этим успехом? - Is he proud of this success?
+Ты гордишься своим успехом? - Are you proud of your success?
+Ты гордишься своей матерью? - Are you proud of your mother?
+Ты также заинтересован в этом? - Are you also interested in it?
+Они также заинтересованы в этом? - Are they also interested in it?
+Она также заинтересована в этом? - Is she also interested in it?
+Он женат на ней? - Is he married to her?
+Она интересуется музыкой? - Is she interested in music? / Music interests her? / Is music interesting for her?
+Ты действительно удивлён слышать это? - Are you really surprised to hear it?
+Она замужем за ним? - Is she married to him?
+Это очень дорогая вещь? - Is it a very expensive thing?
+Она носитель английского языка? - Is she a native speaker of English? / Is she an English native speaker?
+Это необходимый шаг? - Is it a necessary step?
+Ты гордишься своими результатами? - Are you proud of your results?
+Она действительно устала от этой рутины? - Is she really tired of this routine?
+Это важное правило или нет? - Is it an important rule or not?
+Он гордится своими достижениями? - Is he proud of his achievements?
+Это недорогая вещь? - Is it an inexpensive thing?
+Это действительно необходимо? - Is it really necessary?
+Это полезное устройство? - Is it a useful device?
