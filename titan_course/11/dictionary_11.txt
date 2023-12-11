@@ -2,7 +2,7 @@ application - приложение
 breakfast - завтрак
 clothes - одежда (мн.ч.)
 come - приходить
-cook - готовить (еду)
+cook (for) - готовить (еду)
 cooking - готовка (еды)
 early - рано
 enough - достаточно
