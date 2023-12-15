@@ -5,7 +5,8 @@ noise - шум
 noisy - шумный
 offline - офлайн
 (to be) proud (of) - гордый; гордиться
-quite - довольно
+quite - довольно (позитив.)
+rather - скорее; довольно (негатив.)
 routine - рутина
 step - шаг
 tongue - язык (часть тела)
