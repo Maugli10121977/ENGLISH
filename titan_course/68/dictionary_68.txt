@@ -1,0 +1,13 @@
+age - возраст
+channel - канал
+eighty - восемьдесят
+elementary - элементарный
+grandparents - дедушка и бабушка
+grandfather - дедушка
+grandmother - бабушка
+granny - бабушка (ласково)
+mountain - гора
+outstanding - выдающийся
+pregnant - беременная
+smell - пахнуть; запах
+stressful - стрессовый
