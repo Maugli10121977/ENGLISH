@@ -2,6 +2,7 @@ age - возраст
 channel - канал
 eighty - восемьдесят
 elementary - элементарный
+fit - подходить (по размеру)
 grandparents - дедушка и бабушка
 grandfather - дедушка
 grandmother - бабушка

@@ -5,7 +5,7 @@ homemade - домашний
 hot - горячий
 hour - час
 meeting - встреча
-over - через
+over - через; свыше
 rope - верёвка
 sooner - скорее
 sooner or later - рано или поздно

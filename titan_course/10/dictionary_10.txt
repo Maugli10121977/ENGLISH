@@ -1,6 +1,6 @@
 actor - актёр
 actress - актриса
-change - менять
+change - менять; изменение
 cheap - дешёвый
 discuss - обсуждать
 expensive - дорогой

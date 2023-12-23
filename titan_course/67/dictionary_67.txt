@@ -1,10 +1,12 @@
 crowd - толпа, народ; давка
-dictrict - район
+district - район
 easy-going, easygoing, easy going - лёгкий в общении
 expect - ожидать, надеяться
 expected - ожидаемый
 grade - оценка (абстрактно)
 inside - внутри
+living - проживание
+lower - ниже
 mark - оценка (конкректно)
 melodic - мелодичный
 member - член, участник
