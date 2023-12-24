@@ -38,7 +38,7 @@
 Мои родители не живут здесь. - My parents do not live here.
 Это платье не подходит ей. - This dress does not suit her.
 Магазин не работает каждый день. - The shop does not work every day. / The store does not work every day.
-Эти джинсы не подходят ему. - These jeans do not suit him.
+Эти джинсы не подходят ему. - These jeans do not suit him. / These jeans do not fit him.
 Пациент не чувствует себя хуже. - The patient does not feel worse.
 Мой друг не хочет работать в этих условиях. - My friend does not want to work in these conditions.
 Только деньги интересуют его. - Only money interests him.
@@ -98,4 +98,4 @@
 У этого человека нет акцента. - This person does not have an accent.
 У этого сотрудника недостаточно знаний. - This employee does not have enough knowledge.
 Мальчик не понимает, почему это происходит. - The boy does not understand why it happens.
-Мои коллеги не жалуются на это. - My colleagues do not complain abouit it.
+Мои коллеги не жалуются на это. - My colleagues do not complain about it.
