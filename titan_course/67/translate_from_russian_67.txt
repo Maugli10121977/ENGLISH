@@ -1,98 +1,98 @@
-Твоя сестра школьница? - 
-Дети дома? - 
-Эта вещь действительно важна для тебя? - 
-Эти два мальчика в одной и той же группе? - 
-Билеты слишком дорогие? - 
-Этой информации более чем достаточно? - 
-История -- твой любимый предмет? - 
-Твой брат школьник? - 
-Твои родственники очень далеко? - 
-Фильм очень скучный? - 
-Цена очень низкая? - 
-Тот проект успешный? - 
-Эта помощь важна для тебя? - 
-Курс действительно эффективный? - 
-Проблема очень серьёзная? - 
-Это хороший знак для нас? - 
-Тот мужчина болен? - 
-Твоя сестра школьница? - 
-Этот ребёнок очень талантливый? - 
-Это путь довольно короткий? - 
-Та песня очень красивая? - 
-Это дорожный знак? - 
-Это место очень далеко? - 
-Твой компьютер новый? - 
-История очень интересная? - 
-Книга интересная? - 
-Твой начальник против этого решения? - 
-Этот уровень действительно высокий? - 
-Компьютер старый? - 
-Уроки бесплатные? - 
-Твои родители счастливы? - 
-Учитель прав? - 
-Здание очень высокое? - 
-Эта вещь действительно неважная? - 
-Школа хорошая? - 
-Отель слишком дорогой? - 
-Цена очень высокая? - 
-Урок бесплатный? - 
-Эта машина надёжная? - 
-Мальчики в этой группе очень ленивые? - 
-Этот метод действительно эеефективный? - 
-Дверь открыта? - 
-Эти изменения очень неожиданные для них? - 
-Дом просторный для твоей семьи? - 
-Образование бесплатное в твоей стране? - 
-Этих денег действительно достаточно? - 
-Эти оценки очень хороши для вас? - 
-Те люди также заинтересованы в этом? - 
-Эти новости очень удивительны для тебя? - 
-Та область переполнена туристами? - 
-Этого опыта достаточно? - 
-Второй урок тоже бесплатный? - 
-Эта оценка довольно высокая для тебя? - 
-Полицейский в этом районе? - 
-Эти оценки очень выскоие для него? - 
-Эта машина достаточно надёжная? - 
-Его голос очень мелодичный? - 
-Его родители в отъезде сейчас? - 
-Твои родители дома сейчас? - 
-Твои родители в отъезде? - 
-Этот город переполнен туристами? - 
-Эта область переполнена туристами? - 
-Это здание переполнено людьми? - 
-Это место часто переполнено? - 
-Это место обычно переполнено? - 
-То место часто переполнено? - 
-Полицейский в этом районе? - 
-Полицейские в том районе? - 
-Это членство бесплатное? - 
-Членство очень дорогое? - 
-То членство дорогое? - 
-Эти парни очень лёгкие в общении? - 
-Этот парень очень лёгкий в общении? - 
-Эти мужчины очень лёгкие в общении? - 
-Первый урок бесплатный? - 
-Этот урок бесплатный? - 
-Второй урок интересный? - 
-Стоимость жизни выше сейчас? - 
-Стоимость жизни выше в наши дни? - 
-Стоимость жизни ниже сейчас? - 
-Полиция рядом? - 
-Полиция там? - 
-Еда испорчена? - 
-Твоя еда испорчена? - 
-Та еда испорчена? - 
-Те новости такие неожиданные для тебя? - 
-Дети внутри? - 
-Твой отец отсутствует? - 
-Дом достаточно просторный? - 
-Полиция в том месте? - 
-Стоимость жизни в наши дни намного выше? - 
-Цена слишком высокая? - 
-Дети снаружи? - 
-Этих навыков достаточно для той работы? - 
-Эта оценка очень низкая? - 
-Это членство совершенно бесплатно? - 
-Этот человек также заинтересован в этом? - 
-Квартира достаточно просторная для тебя? - 
+Твоя сестра школьница? - Is your sister a schoolgirl?
+Дети дома? - Are the children at home? / Are the kids at home?
+Эта вещь действительно важна для тебя? - Is this thing really important for you?
+Эти два мальчика в одной и той же группе? - Are these two boys in the same group?
+Билеты слишком дорогие? - Are the tickets too expensive?
+Этой информации более чем достаточно? - Is this information more than enough?
+История -- твой любимый предмет? - Is history your favourite subject?
+Твой брат школьник? - Is your brother a shcoolboy?
+Твои родственники очень далеко? - Are your relatives very far?
+Фильм очень скучный? - Is the movie very boring?
+Цена очень низкая? - Is the price very low?
+Тот проект успешный? - Is that project successful?
+Эта помощь важна для тебя? - Is this help important for you?
+Курс действительно эффективный? - Is the course really effective?
+Проблема очень серьёзная? - Is the problem very serious?
+Это хороший знак для нас? - Is it a good sign for us?
+Тот мужчина болен? - Is that man ill? / Is that man sick?
+Твоя сестра школьница? - Is your sister a schoolgirl?
+Этот ребёнок очень талантливый? - Is this child very talented? / Is this kid very talented?
+Этот путь довольно короткий? - Is this way quite short?
+Та песня очень красивая? - Is that song very beautiful?
+Это дорожный знак? - Is it a road sign?
+Это место очень далеко? - Is this place very far?
+Твой компьютер новый? - Is your computer new?
+История очень интересная? - Is the story very interesting?
+Книга интересная? - Is the book interesting?
+Твой начальник против этого решения? - Is your boss against this decision?
+Этот уровень действительно высокий? - Is this level really high?
+Компьютер старый? - Is the computer old?
+Уроки бесплатные? - Are the lessons free?
+Твои родители счастливы? - Are your parents happy?
+Учитель прав? - Is the teacher right?
+Здание очень высокое? - Is the building very high?
+Эта вещь действительно неважная? - Is this thing really unimportant?
+Школа хорошая? - Is the school good?
+Отель слишком дорогой? - Is the hotel too expensive?
+Цена очень высокая? - Is the price very high?
+Урок бесплатный? - Is the lesson free?
+Эта машина надёжная? - Is this car reliable?
+Мальчики в этой группе очень ленивые? - Are the boys in this group very lazy?
+Этот метод действительно эффективный? - Is this method really effective?
+Дверь открыта? - Is the door open?
+Эти изменения очень неожиданные для них? - Are these changes very unexpected for them?
+Дом просторный для твоей семьи? - Is the house spacious for your family?
+Образование бесплатное в твоей стране? - Is education free in your country?
+Этих денег действительно достаточно? - Is this money really enough?
+Эти оценки очень хороши для вас? - Are these marks very good for you? / Are these grades very good for you?
+Те люди также заинтересованы в этом? - Are those people also interested in it?
+Эти новости очень удивительны для тебя? - Is this news very surprising for you?
+Та область переполнена туристами? - Is that area overcrowded with tourists?
+Этого опыта достаточно? - Is this experience enough?
+Второй урок тоже бесплатный? - Is the second lesson also free? / Is the second lesson free, too?
+Эта оценка довольно высокая для тебя? - Is this mark quite high for you? / Is this grade quite high for you?
+Полицейский в этом районе? - Is the policeman in this district?
+Эти оценки очень высокие для него? - Are these marks very hig for him? / Are these grades very high for him?
+Эта машина достаточно надёжная? - Is this car reliable enough? / Is this car quite reliable?
+Его голос очень мелодичный? - Is his voice very melodic?
+Его родители в отъезде сейчас? - Are his parents away now?
+Твои родители дома сейчас? - Are your parents at home now?
+Твои родители в отъезде? - Are your parents away?
+Этот город переполнен туристами? - Is this city overcrowded with tourists?
+Эта область переполнена туристами? - Is thia area overcrowded with tourists?
+Это здание переполнено людьми? - Is this building overcrowded with people?
+Это место часто переполнено? - Is this place often overcrowded?
+Это место обычно переполнено? - Is this place usually overcrowded?
+То место часто переполнено? - Is that place often overcrowded?
+Полицейский в этом районе? - Is the policeman in this district?
+Полицейские в том районе? - Are the policeman in that dictrict?
+Это членство бесплатное? - Is this membership free?
+Членство очень дорогое? - Is the membership very expensive?
+То членство дорогое? - Is that membership expensive?
+Эти парни очень лёгкие в общении? - Are these guys very easy-going? / Are these guys very easygoing?
+Этот парень очень лёгкий в общении? - Is this guy very easy-going? / Is this guy very easygoing?
+Эти мужчины очень лёгкие в общении? - Are these men very easy-going? / Are these men very easygoing?
+Первый урок бесплатный? - Is the first lesson free?
+Этот урок бесплатный? - Is this lesson free?
+Второй урок интересный? - Is the second lesson interesting?
+Стоимость жизни выше сейчас? - Is the cost of living higher now?
+Стоимость жизни выше в наши дни? - Is the cost of living higher nowadays?
+Стоимость жизни ниже сейчас? - Is the cost of living lower now?
+Полиция рядом? - Are the police near?
+Полиция там? - Are the police there?
+Еда испорчена? - Is the food spoilt? / Is the food spoiled?
+Твоя еда испорчена? - Is your food spoilt? / Is your food spoiled?
+Та еда испорчена? - Is that food spoilt? / Is that food spoiled?
+Те новости такие неожиданные для тебя? - Is that news so unexpected for you?
+Дети внутри? - Are the children inside? / Are the kids inside?
+Твой отец отсутствует? - Is your father out? / Is your father absent?
+Дом достаточно просторный? - Is the house spacious enough? / Is the house quite spacious?
+Полиция в том месте? - Are the police in that place?
+Стоимость жизни в наши дни намного выше? - Is the cost of living much higher nowadays?
+Цена слишком высокая? - Is the price too high?
+Дети снаружи? - Are the children outside? / Are the kids outside?
+Этих навыков достаточно для той работы? - Are these skills enough for that job? / Are these skills enough for that work?
+Эта оценка очень низкая? - Is this mark very low? / Is this grade very low?
+Это членство совершенно бесплатно? - Is this membership absolutely free?
+Этот человек также заинтересован в этом? - Is this person also interested in it?
+Квартира достаточно просторная для тебя? - Is the apartment spacious enough for you? / Is the flat spacious enough for you?
