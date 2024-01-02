@@ -3,7 +3,7 @@ attention - внимание
 attract - привлекать
 attractive - привлекательный
 description - описание
-frighten - бояться
-frightened - боящийся
+frighten - пугать
+frightened - напуганный
 shocking - шокирующий
 stylish - стильный
