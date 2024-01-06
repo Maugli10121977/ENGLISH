@@ -1,100 +1,100 @@
-Сколько у тебя вопросов? - 
-Почему он учит английский? - 
-Почему эти студенты такие счастливые? - 
-Какой твой адрес? - 
-Мой английский звучит намного лучше, чем раньше? - 
-Сколько вопросов ты обычно задаёшь? - 
-Как часто ты ходишь на пляж? - 
-Почему эта тема интересна тебе? - 
-Сколько лет твоим родителям? - 
-Что означает это слово? - 
-Сколько у тебя вопросов? - 
-Почему эта работа такая стрессовая для тебя? - 
-В чём проблема? - 
-Почему эта вещь кажется такой важной? - 
-Почему это неправильно? - 
-Почему ты так много думаешь об этом? - 
-Где работают твои родители? - 
-Где работает твоя мама? - 
-Что означают эти слова? - 
-Что дальше? - 
-Насколько это рискованно? - 
-Кто следующий? - 
-Какой твой адрес? - 
-Какая у твоего отца работа? - 
-Какой его совет? - 
-Как часто он путешествует? - 
-Аэропорт рядом? - 
-Какой у неё адрес? - 
-Какие их рекомендации? - 
-Сколько лет твоей маме? - 
-Какая у твоей мамы работа? - 
-Насколько глубокое озеро? - 
-Почему тебе нравится этот отель? - 
-Что в посылке? - 
-Этот отель рядом с этим местом? - 
-Насколько опасно это? - 
-Насколько красивый этот город? - 
-Насколько это важно для тебя? - 
-Что означает это выражение? - 
-Почему это тебе так интересно? - 
-Сколько лет твоему отцу? - 
-Где работает твой отец? - 
-Мой английский намного лучше, чем раньше? - 
-Что означает эта фраза? - 
-Как зовут мальчика? - 
-Почему тебе нужно гораздо больше времени, чтобы полностью закончить? - 
-Почему тебе нужно сделать это как можно скорее? - 
-Как ты следишь за своим здоровьем? - 
-Как долго он добирается до школы? - 
-Почему он так заинтересован в этом проекте? - 
-Почему ты предпочитаешь изучать английский сам? - 
-Сколько раз в неделю ты ходишь в бассейн? - 
-Почему он предпочитает изучать английский сам? - 
-Как долго она добирается домой? - 
-Какие у девочки интересы? - 
-Какой у тебя уровень английского? - 
-Как часто ты читаешь этот журнал? - 
-Что в коробке? - 
-Как зовут твоего друга? - 
-Как долго идёт урок? - 
-Как долго идёт фильм? - 
-Как долго идут эти уроки? - 
-Как зовут девочек? - 
-Как зовут девочку? - 
-Как зовут женщину? - 
-Какие у мальчика хобби? - 
-Какое у мальчика хобби? - 
-Какие у того мальчика хобби? - 
-Как он обычно туда добирается? - 
-Как она обычно туда добирается? - 
-Когда ты обычно туда добираешься? - 
-Как долго идут уроки? - 
-Как долго идёт этот урок? - 
-Какой у него уровень английского? - 
-Какой у неё уровень английского? - 
-Как зовут эту девочку? - 
-Как ты добираешься до работы? - 
-Как он добирается до работы? - 
-Как ты добираешься до школы? - 
-Как долго идут курсы? - 
-Как долго идут эти курсы? - 
-Как долго идёт этот курс? - 
-Как долго ты добираешься домой после работы? - 
-Как она добирается домой после работы? - 
-Как ты возвращаешься домой? - 
-Сколько раз в неделю он ходит на работу? - 
-Что в сумке? - 
-Какие у них потребности? - 
-Как долго ты добираешься до работы? - 
-Почему он изучает английский самостоятельно? - 
-Сколько раз в неделю ты ходишь в спортзал? - 
-Как долго ты добираешься в университет? - 
-Как часто ты бегаешь? - 
-Почему ты предпочитаешь делать это самостоятельно? - 
-Насколько дорогие эти часы? - 
-Какой у тебя уровень? - 
-Какие у мальчиков хобби? - 
-Насколько это полезно? - 
-Насколько это эффективно? - 
-Как зовут мальчиков? - 
+Сколько у тебя вопросов? - How many questions do you have?
+Почему он учит английский? - Why does he learn English?
+Почему эти студенты такие счастливые? - Why are these students so happy?
+Какой твой адрес? - What is your address?
+Мой английский звучит намного лучше, чем раньше? - Does my English sound much better than before?
+Сколько вопросов ты обычно задаёшь? - How many questions do you usually ask? / How many questions do you usually make?
+Как часто ты ходишь на пляж? - How often do you go to the beach?
+Почему эта тема интересна тебе? - Why is this topic interesting for you?
+Сколько лет твоим родителям? - How old are your parents?
+Что означает это слово? - What does this word mean?
+Сколько у тебя вопросов? - How many questions do you have?
+Почему эта работа такая стрессовая для тебя? - Why is this job so stressful for you?
+В чём проблема? - What is the problem?
+Почему эта вещь кажется такой важной? - Why does this thing seem so important?
+Почему это неправильно? - Why is it wrong? / Why is it incorrect?
+Почему ты так много думаешь об этом? - Why do you think about it so much?
+Где работают твои родители? - Where do your parents work?
+Где работает твоя мама? - Where does your mother work? / What is your mother's job?
+Что означают эти слова? - What do these words mean?
+Что дальше? - What is next?
+Насколько это рискованно? - How risky is it?
+Кто следующий? - Who is next?
+Какой твой адрес? - What is your address?
+Какая у твоего отца работа? - What is your father's job? / Where does your father work?
+Какой его совет? - What is his advice?
+Как часто он путешествует? - How often does he travel?
+Аэропорт рядом? - Is the airport near?
+Какой у неё адрес? - What is her address?
+Какие их рекомендации? - What are their recommendations?
+Сколько лет твоей маме? - How old is your mother?
+Какая у твоей мамы работа? - What is your mother's job? / Where does your mother work?
+Насколько глубокое озеро? - How deep is the lake?
+Почему тебе нравится этот отель? - Why do you like this hotel?
+Что в посылке? - What is in the parcel?
+Этот отель рядом с этим местом? - Is this hotel near this place?
+Насколько опасно это? - How dangerous is it?
+Насколько красивый этот город? - How beautiful is this city?
+Насколько это важно для тебя? - How important is it for you?
+Что означает это выражение? - What does this expression mean?
+Почему это тебе так интересно? - Why is it so interesting for you? / Why does it so interest you?
+Сколько лет твоему отцу? - How old is your father?
+Где работает твой отец? - Where does your father work? / What is your father's job?
+Мой английский намного лучше, чем раньше? - Is my English much better than before?
+Что означает эта фраза? - What does this phrase mean?
+Как зовут мальчика? - What is the boy's name?
+Почему тебе нужно гораздо больше времени, чтобы полностью закончить? - Why do you need much more time to finish it completely?
+Почему тебе нужно сделать это как можно скорее? - Why do you need to do it as soon as possible?
+Как ты следишь за своим здоровьем? - How do you look after your health?
+Как долго он добирается до школы? - How long does he get to school?
+Почему он так заинтересован в этом проекте? - Why is he so interested in this project?
+Почему ты предпочитаешь изучать английский сам? - Why do you prefer to learn English by yourself? / Why do you prefer to learn English on your own?
+Сколько раз в неделю ты ходишь в бассейн? - How many times a week do you go to the swimming pool?
+Почему он предпочитает изучать английский сам? - Why does he prefer to learn English by himself? / Why does he prefer to learn English on his own?
+Как долго она добирается домой? - How long does she get home?
+Какие у девочки интересы? - What are the girl's interests? / What interests does the girl have?
+Какой у тебя уровень английского? - What is your English level? / What English level do you have?
+Как часто ты читаешь этот журнал? - How often do you read this magazine?
+Что в коробке? - What is in the box?
+Как зовут твоего друга? - What is your friend's name?
+Как долго идёт урок? - How long is the lesson? / How long does the lesson last?
+Как долго идёт фильм? - How long is the movie? / How long does the movie last?
+Как долго идут эти уроки? - How long are these lessons? / How long do these lessons last?
+Как зовут девочек? - What are the girls' names?
+Как зовут девочку? - What is the girl's name?
+Как зовут женщину? - What is the woman's name?
+Какие у мальчика хобби? - What are the boy's hobbies? / What hobbies does the boy have?
+Какое у мальчика хобби? - What is the boy's hobby? / What hobby does the boy have?
+Какие у того мальчика хобби? - What are that boy's hobbies? / What hobbies does that boy have?
+Как он обычно туда добирается? - How does he usually get there?
+Как она обычно туда добирается? - How does she usually get there?
+Когда ты обычно туда добираешься? - When do you usually get there?
+Как долго идут уроки? - How long are the lessons? / How long do the lessons last?
+Как долго идёт этот урок? - How long is this lesson? / How long does this lesson last?
+Какой у него уровень английского? - What is his English level? / What English level does he have?
+Какой у неё уровень английского? - What is she English level? / What English level does she have?
+Как зовут эту девочку? - What is this girl's name?
+Как ты добираешься до работы? - How do you get to work?
+Как он добирается до работы? - How does he get to work?
+Как ты добираешься до школы? - How do you get to school?
+Как долго идут курсы? - How long are the courses? / How long do the courses last?
+Как долго идут эти курсы? - How long are these courses? / How long do these courses last?
+Как долго идёт этот курс? - How long is this course? / How long does this course last?
+Как ты добираешься домой после работы? - How do you get home after work?
+Как она добирается домой после работы? - How does she get home after work?
+Как ты возвращаешься домой? - How do you get back home? / How do you come back home? / How do you return home?
+Сколько раз в неделю он ходит на работу? - How many times a week does he go to work?
+Что в сумке? - What is in the bag?
+Какие у них потребности? - What are their needs? / What needs do they have?
+Как долго ты добираешься до работы? - How long do you get to work?
+Почему он изучает английский самостоятельно? - Why does he learn English by himself? / Why does he learn English on his own?
+Сколько раз в неделю ты ходишь в спортзал? - How many times a week do you go to the gym?
+Как долго ты добираешься в университет? - How long do you get to university?
+Как часто ты бегаешь? - How often do you go jogging?
+Почему ты предпочитаешь делать это самостоятельно? - Why do you prefer to do it by yourself? / Why do you prefer to do it on your own?
+Насколько дорогие эти часы? - How expensive is this watch? / How expensive is this clock?
+Какой у тебя уровень? - What is your level? / What level do you have?
+Какие у мальчиков хобби? - What are the boys' hobbies? / What hobbies do the boys have?
+Насколько это полезно? - How useful is it?
+Насколько это эффективно? - How effective is it?
+Как зовут мальчиков? - What are the boys' names?
