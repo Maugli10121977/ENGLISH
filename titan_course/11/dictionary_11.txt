@@ -14,7 +14,7 @@ miracle - чудо
 order - заказывать, заказ
 pet - домашнее животное
 profession - профессия
-recommend - рекомендовать
+recommend (... to) - рекомендовать
 shop - магазин
 store - магазин (амер.)
 toy - игрушка

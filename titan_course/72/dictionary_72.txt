@@ -5,8 +5,10 @@ factory - фабрика
 feed - кормить
 knife - нож
 never - никогда
+New Year - Новый Год (праздник)
+on foot - пешком
 prestigious - престижный
 repeat - повторять
 resort - курорт
 scissors - ножницы (мн.ч.)
-throw - бросать
+throw (... away) - бросать
