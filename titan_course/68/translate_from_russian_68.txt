@@ -9,7 +9,7 @@
 Твоя бабушка помогает тебе? - Does your grandmother help you? / Does your granny help you?
 Этот уровень слишком сложный для них? - Is this level too difficult for them?
 Пациент чувствует себя лучше? - Does the patient feel better?
-Этот текст кажется очень сложным? - Does this text seems very difficult?
+Этот текст кажется очень сложным? - Does this text seem very difficult?
 Этот путь намного короче? - Is this way much shorter?
 Та вещь интересует тебя? - Does that thing interest you? / Is that thing interesting for you?
 Дети дома? - Are the children at home? / Are the kids at home?
@@ -38,7 +38,7 @@
 Тот уровень средний? - Is that level intermediate?
 Этот путь кажется гораздо короче? - Does this way seem much shorter?
 Это элементарный уровень? - Is it an elementary level?
-Еда очень вкусная? - It the food very tasty? / Is the food delicious?
+Еда очень вкусная? - Is the food very tasty? / Is the food delicious?
 Билет стоит больше? - Does the ticket cost more?
 Эти мальчики кажутся очень талантливыми? - Do these boys seem very talented?
 Тебе подходит время нашей встречи? - Does the time of our meeting suit you?
