@@ -59,7 +59,7 @@
 Твои родители дома сейчас? - Are your parents at home now?
 Твои родители в отъезде? - Are your parents away?
 Этот город переполнен туристами? - Is this city overcrowded with tourists?
-Эта область переполнена туристами? - Is thia area overcrowded with tourists?
+Эта область переполнена туристами? - Is this area overcrowded with tourists?
 Это здание переполнено людьми? - Is this building overcrowded with people?
 Это место часто переполнено? - Is this place often overcrowded?
 Это место обычно переполнено? - Is this place usually overcrowded?
