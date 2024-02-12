@@ -7,7 +7,7 @@ difficulty - сложность, трудность
 economist - экономист
 explanation - объяснение
 firm - фирма
-grow - расти
+grow - расти; выращивать
 happier - счастливее
 immigrant - иммигрант
 point ([at|out]) - указывать
