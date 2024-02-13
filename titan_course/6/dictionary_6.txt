@@ -8,7 +8,8 @@ for - для; (платить) за
 future - будущее
 not - не
 our - наш
-pay (for) - платить (за); обращать [внимание]
+pay (for) - платить (за)
+pay ([attention] to ...) - обращать ([внимание] на ...)
 politics - политика
 situation - ситуация
 spend ([on|for])- тратить
