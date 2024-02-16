@@ -1,6 +1,7 @@
 add - добавлять
 belt - ремень
 clearly - чётко, ясно
+(the) costs - расходы
 daily - ежедневно
 deliver - доставлять, доставить
 dishes - посуда (мн.ч.); тарелки, блюда
@@ -12,8 +13,11 @@ half - половина
 half an hour - полчаса
 one hour and a half - полтора часа
 heart - сердце
+inform - информировать
 let - позволять, разрешать
 miss - скучать; пропускать
 reduce - сократить, уменьшить
 star - звезда
+successfully - успешно
 urgent - срочный
+unsuccessfully - безуспешно

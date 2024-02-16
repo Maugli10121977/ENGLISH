@@ -1,7 +1,7 @@
 armchair - кресло
 article - статья; артикль
 beautifully - красиво
-break (down) - ломать(ся)
+break - нарушать; (down) - ломать(ся)
 camel - верблюд
 chair - стул
 cut - резать
