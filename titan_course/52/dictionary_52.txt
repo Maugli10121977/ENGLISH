@@ -22,7 +22,7 @@ profit - прибыль, доход
 profitable - прибыльный
 short - короткий
 small - маленький
-strong - сильный
+strong - сильный, крепкий
 vegetable - овощ; овощной, растительный
 voice - голос
 warm - тёплый

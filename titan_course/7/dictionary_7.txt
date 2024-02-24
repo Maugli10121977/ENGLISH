@@ -9,6 +9,7 @@ Internet - интернет
 mathematics, maths - математика
 motivate - мотивировать
 only - только; лишь
+(the) only - единственно; единственный
 plan - план
 sell - продавать
 service - сервис; услуга
