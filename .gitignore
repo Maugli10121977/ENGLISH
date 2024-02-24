@@ -4,4 +4,5 @@ titan_course/*/*.wav
 titan_course/docs/*
 scripts/test.py
 scripts/test.sh
+scripts/search_duplicate_in_dictionaries.py
 Robinson_Crusoe/
