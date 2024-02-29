@@ -1,4 +1,4 @@
-accept - принимать
+accept - принимать (формал.)
 alarm clock - будильник
 certainly - конечно
 club - клуб
@@ -6,11 +6,12 @@ divide (into) - делить (на)
 entrepreneur - предприниматель
 importance - важность
 into - в (предлог)
+keep in touch (with ...) - поддерживать связь (с кем-либо)
 loser - неудачник
 memory - память
 pain - боль
 part - часть
 polite - вежливый
-promising - многообещающий
+(very) promising - (много)обещающий
 talent - талант
 usual - обычный
