@@ -83,7 +83,7 @@
 Чья песня популярнее? - Whose song is more popular?
 Какая песня самая популярная? - Which song is the most popular?
 Кому ты обычно звонишь после работы? - Who do you usually call after work?
-Кому он обычно звонит после работы? - Who does he usually call after work?
+Кому он обычно звонит после работы? - Who does he usually call after work? / Who does he usually ring after work?
 Кому ты обычно звонишь перед работой? - Who do you usually call before work?
 Какое твоё окончательное решение? - What is your final decision?
 Какое наше окончательное решение? - What is our final decision?
