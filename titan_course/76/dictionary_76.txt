@@ -7,7 +7,8 @@ divide (into) - делить (на)
 entrepreneur - предприниматель
 importance - важность
 into - в (предлог)
-keep in touch (with ...) - поддерживать связь (с кем-либо)
+keep in touch (with ...), stay in touch (with ...) - поддерживать связь (с кем-либо)
+(to) lose touch (with ...) - терять связь (с кем-либо)
 loser - неудачник
 memory - память
 pain - боль
