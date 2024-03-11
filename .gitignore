@@ -1,7 +1,9 @@
+.gitignore
 *.swp
 titan_course/*/*.mp4
 titan_course/*/*.wav
 titan_course/docs/*
+scripts/choice_random_sentence_from_translate_COMP.py
 scripts/test.py
 scripts/test.sh
 scripts/search_duplicate_in_dictionaries.py
