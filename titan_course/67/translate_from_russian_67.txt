@@ -65,7 +65,7 @@
 Это место обычно переполнено? - Is this place usually overcrowded?
 То место часто переполнено? - Is that place often overcrowded?
 Полицейский в этом районе? - Is the policeman in this district?
-Полицейские в том районе? - Are the policeman in that dictrict?
+Полицейские в том районе? - Are the policemen in that dictrict?
 Это членство бесплатное? - Is this membership free?
 Членство очень дорогое? - Is the membership very expensive?
 То членство дорогое? - Is that membership expensive?
