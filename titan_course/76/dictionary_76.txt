@@ -12,7 +12,8 @@ keep in touch (with ...), stay in touch (with ...) - поддерживать с
 loser - неудачник
 memory - память
 pain - боль
-part - часть
+part - часть; участие (в каком-либо действии)
+take part - принимать участие
 polite - вежливый
 (very) promising - (много)обещающий
 talent - талант
