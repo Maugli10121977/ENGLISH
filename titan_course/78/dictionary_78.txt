@@ -1,9 +1,10 @@
 conference - конференция
 conflict - конфликт
+contest - конкурс
 glad - радостный, довольный
 guarantee (... to) - гарантировать (что-либо кому-либо)
 initiative - инициатива
-participate - участвовать
+participate (in) - участвовать (формал.)
 perhaps - возможно
 react (to) - реагировать (на)
 resolve - разрешить (конфликт, спор)
