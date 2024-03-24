@@ -1,0 +1,6 @@
+case - случай
+confirm - подтверждать
+date - дата
+divorced - разведённый
+increase - увеличить; увеличение
+uncomfortable - неудобный, некомфортный
