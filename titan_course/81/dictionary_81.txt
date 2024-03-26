@@ -1,0 +1,18 @@
+brown - коричневый
+citizen - гражданин
+coin - монета
+collect - собирать; коллекционировать
+cottage - коттедж
+foreigner - иностранец
+fully - полностью
+impress - впечатлять
+lucky - удачливый
+manage - управлять; суметь
+measure - измерять, мера
+protest - протестовать, протест
+require - требовать
+rest - отдых
+satisfied - удовлетворённый
+true - верный, истинный
+unpleasant - неприятный
+wise - мудрый
