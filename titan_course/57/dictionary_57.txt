@@ -11,7 +11,7 @@ full - полный
 informative - информативный
 joke - шутка
 narrow - узкий
-obvious - очевидный
+obvious (to) - очевидный, очевидно (для) (прил.)
 the police - полиция (всегда мн. число)
 rain - дождь
 rainy - дождливый

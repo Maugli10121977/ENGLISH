@@ -3,7 +3,7 @@ again - опять, снова
 another - другой
 bad - плохой
 because - потому что
-communicate - общаться
+communicate (with ...) - общаться (с кем-либо)
 fast - быстро; быстрый
 get - получать; добираться
 good - хороший
