@@ -69,7 +69,7 @@
 Он работает тренером? - Does he work as a trainer?
 Это зависит от тебя? - Does it depend on you?
 Это зависит от меня? - Does it depend on me?
-Ты зависишь от него? - Do you depend on me?
+Ты зависишь от него? - Do you depend on him?
 Ты делаешь это самостоятельно? - Do you do it by yourself? / Do you do it on your own?
 Она делает это самостоятельно? - Does she do it on her own? / Does she do it by herself?
 Он делает это самостоятельно? - Does he do it on his own? / Does he do it by himself?

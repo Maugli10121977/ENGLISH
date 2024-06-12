@@ -60,7 +60,7 @@
 Малыш в кровати. - The baby is in bed.
 Малыш лежит в кровати. - The baby lies in bed.
 Этот малыш в кровати. - This baby is in bed.
-Стакан пустой. - The glass in empty.
+Стакан пустой. - The glass is empty.
 Мой стакан пустой. - My glass is empty.
 Этот стакан пустой. - This glass is empty.
 Я вижу, что ты очень опытный. - I see that you are very experienced.
@@ -68,7 +68,7 @@
 Я знаю, что она очень опытная. - I know that she is very experienced.
 Это неинформативное видео. - It is not an informative video. / It is an uninformative video.
 Это информативное видео. - It is an informative video.
-Это неинформативный урок. - It is not an informative lesson. / It is an unformative lesson.
+Это неинформативный урок. - It is not an informative lesson. / It is an uniformative lesson.
 Это пустая бутылка. - It is an empty bottle.
 Это пустой стакан. - It is an empty glass.
 Это полная бутылка. - It is a full bottle.
