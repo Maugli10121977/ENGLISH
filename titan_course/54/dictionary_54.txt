@@ -12,6 +12,7 @@ official - официальный
 roof - крыша
 shock - шок; шокировать
 solution (to) - решение (проблемы, задачи)
+state - утверждать
 statement - утверждение
 task - задача
 typical - типичный
