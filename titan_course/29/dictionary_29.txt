@@ -1,5 +1,5 @@
 invite (to) - приглашать
-lend - одалживать
+lend - одалживать, одолжить
 one more time - ещё раз
 on time - вовремя
 opportunity - возможность
