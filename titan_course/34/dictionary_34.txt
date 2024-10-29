@@ -2,4 +2,5 @@ happily - счастливо
 include - включать
 interview - интервью
 left - налево; левый
+on the left - слева
 turn (at) - поворачивать (на)
