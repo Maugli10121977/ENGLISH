@@ -57,8 +57,8 @@
 Как часто ты читаешь этот журнал? - How often do you read this magazine?
 Что в коробке? - What is in the box?
 Как зовут твоего друга? - What is your friend's name?
-Как долго идёт урок? - How long is the lesson? / How long does the lesson last?
-Как долго идёт фильм? - How long is the movie? / How long does the movie last?
+Как долго идёт урок? - How long is the lesson? / How long does the lesson last? / How long is the class? / How long does the class last?
+Как долго идёт фильм? - How long is the movie? / How long does the movie last? / How long is the film? / How long does the film last?
 Как долго идут эти уроки? - How long are these lessons? / How long do these lessons last? / How long are these classes? / How long do these classes last?
 Как зовут девочек? - What are the girls' names?
 Как зовут девочку? - What is the girl's name?
