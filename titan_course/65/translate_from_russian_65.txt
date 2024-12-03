@@ -73,7 +73,7 @@
 Это самый дешёвый отель? - Is it the cheapest hotel?
 У него хуже результат? - Does he have a worse result?
 У тебя хуже результат? - Do you have a worse result?
-У неё худший результат? - Does she have the worst result?
+У неё худший результат? - Does she have the worst result? / Does she have a worse result?
 Ты вегетарианец? - Are you a vegetarian?
 Они вегетарианцы? - Are they vegetarians?
 Она вегетарианка? - Is she a vegetarian?

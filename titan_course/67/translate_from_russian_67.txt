@@ -7,7 +7,7 @@
 История -- твой любимый предмет? - Is history your favourite subject?
 Твой брат школьник? - Is your brother a schoolboy?
 Твои родственники очень далеко? - Are your relatives very far?
-Фильм очень скучный? - Is the movie very boring?
+Фильм очень скучный? - Is the movie very boring? / Is the film very boring?
 Цена очень низкая? - Is the price very low?
 Тот проект успешный? - Is that project successful?
 Эта помощь важна для тебя? - Is this help important for you?
@@ -27,7 +27,7 @@
 Твой начальник против этого решения? - Is your boss against this decision?
 Этот уровень действительно высокий? - Is this level really high?
 Компьютер старый? - Is the computer old?
-Уроки бесплатные? - Are the lessons free?
+Уроки бесплатные? - Are the lessons free? / Are the classes free?
 Твои родители счастливы? - Are your parents happy?
 Учитель прав? - Is the teacher right?
 Здание очень высокое? - Is the building very high?
@@ -71,7 +71,7 @@
 То членство дорогое? - Is that membership expensive?
 Эти парни очень лёгкие в общении? - Are these guys very easy-going? / Are these guys very easygoing?
 Этот парень очень лёгкий в общении? - Is this guy very easy-going? / Is this guy very easygoing?
-Эти мужчины очень лёгкие в общении? - Are these men very easy-going? / Are these men very easygoing?
+Эти мужчины очень лёгкие в общении? - Are these men very easy-going? / Are these men very easygoing? / Are these men very easy going?
 Первый урок бесплатный? - Is the first lesson free?
 Этот урок бесплатный? - Is this lesson free?
 Второй урок интересный? - Is the second lesson interesting?

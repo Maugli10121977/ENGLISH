@@ -12,13 +12,13 @@
 Я ненавижу ничего не делать, потому что это настоящая пустая трата времени, и мы не можем вернуть его назад. - I hate doing nothing because it is a real waste of time and we cannot turn it back.
 Моему дедушке нравится читать газеты и журналы. - My grandfather likes reading newspapers and magazines.
 Моя бабушка обожает садоводство. - My grandmother enjoys gardening. / My granny enjoys gardening.
-Я обожаю заниматься этим в своё свободное время. - I enjoy doing it in my free time. / I enjoy doing it in my spare time.
+Я обожаю заниматься этим в своё свободное время. - I enjoy doing it in my free time. / I enjoy doing it in my spare time. / I am fond of doing it in my free time. / I am fond of doing it in my spare time.
 Мне нравится читать книги на английском. - I like reading books in English.
 Я обожаю говорить по-английски. - I enjoy speaking English.
 Ей нравится ходить по магазинам. - She likes going shopping.
 Ему нравится читать о бизнесе. - He likes reading about business.
 Мне нравится играть в настольный теннис. - I like playing table tennis.
-Она действительно обожает готовить. - She really enjoys cooking.
+Она действительно обожает готовить. - She really enjoys cooking. / She is really fond of cooking.
 Он обожает музыку. - He enjoys music. / He is fond of music.
 Ему нравится заниматься дзюдо. - He likes doing judo.
 Ему нравится играть в футбол. - He likes playing football. / He likes playing soccer.
@@ -29,12 +29,12 @@
 Ему нравится заниматься каратэ. - He likes doing karate.
 Мне нравится гулять в парке. - I like walking in the park.
 Ей нравится читать в постели. - She likes reading in bed.
-Он обожает делать такого рода вещи. - He enjoys doing this kind of things.
-Он действительно обожает английский. - He really enjoys English.
-Я действительно обожаю делать это. - I really enjoy doing it.
+Он обожает делать такого рода вещи. - He enjoys doing this kind of things. / He is fond of doing this kind of things.
+Он действительно обожает английский. - He really enjoys English. / He is really fond of English.
+Я действительно обожаю делать это. - I really enjoy doing it. / I am really fond of doing it.
 Мне нравится кататься на велосипеде. - I like riding a bike. / I like cycling.
 Моей маме действительно нравится садоводство. - My mother really likes gardening.
-Я обожаю изучать английский. - I enjoy learning English.
+Я обожаю изучать английский. - I enjoy learning English. / I am fond of learning English.
 Ему нравится играть в гольф. - He likes playing golf.
 Мне нравится заниматься спортом. - I like doing sport.
 Ей нравится играть на пианино. - She likes playing the piano.
@@ -47,12 +47,12 @@
 Я действительно обожаю слушать этот подкаст. - I really enjoy listening to this podcast.
 Я увлекаюсь чтением. - I am keen on reading.
 Я действительно обожаю говорить с тобой. - I really enjoy talking with you. / I really enjoy speaking with you. / I really enjoy talking to you. / I really enjoy speaking to you.
-Я действительно обожаю ходить плавать. - I really enjoy going swimming.
+Я действительно обожаю ходить плавать. - I really enjoy going swimming. / I am really fond of going swimming.
 Я особенно увлекаюсь изучением иностранных языков. - I am particularly keen on learning foreign languages.
 Ему действительно не нравится обсуждать такие вещи. - He does not really like discussing such things. / He does not really like to discuss such things.
 Я обожаю заниматься спортом, потому что это очень хорошо для моего здоровья. - I enjoy doing sport because it is very good for my health.
 Я люблю делать те физические упражнения, потому что они очень хороши для моего тела. - I love doing those physical exercises because they are very good for my body. / I am fond of doing those physical exercises besause they are very good for my body. / I like doing those physical exercises because they are very good for my body.
-Я обожаю ходить кататься на велосипеде, потому что я могу потерять несколько калорий и дышать свежим воздухом в то же самое время. - I enjoy going cycling because I can lose some calories and breathe fresh air at the same time.
+Я обожаю ходить кататься на велосипеде, потому что я могу потерять несколько калорий и дышать свежим воздухом в то же самое время. - I enjoy going cycling because I can lose some calories and breathe fresh air at the same time. / I enjoy going cycling because I can lose a few calories and breathe fresh air at the same time. / I enjoy going cycling because I can lose several calories and breathe fresh air at the same time. / I am fond of going cycling because I can lose some calories and breathe fresh air at the same time. / I am fond of going cycling because I can lose several calories and breathe fresh air at the same time. / I am fond of going cycling because I can lose a few calories and breathe fresh air at the same time.
 Я люблю делать эти упражнения, потому что это делает меня сильнее. - I love doing these exercises because it makes me stronger. / I am fond of doing these exercises because it makes me stronger. / I like doing these exercises because it makes me stronger.
 Ей нравится помогать другим. - She likes helping others.
 Я люблю спорт. - I love sport. / I am fond of sport.
@@ -66,35 +66,35 @@
 Мне действительно нравится этот подкаст. - I really like this podcast.
 Я действительно обожаю эти подкасты. - I really enjoy these podcasts.
 Она любит рисовать. - She loves drawing. / She is fond of drawing.
-Она любит читать. - She loves reading. / She is fond of reading.
+Она любит читать. - She loves reading. / She likes reading.
 Ей нравится рисовать. - She likes drawing.
-Я действительно обожаю работать с тобой. - I really enjoy working with you.
+Я действительно обожаю работать с тобой. - I really enjoy working with you. / I am really fond of working with you.
 Он действительно обожает работать с тобой. - He really enjoys working with you.
-Она действительно обожает жить с ними. - She really enjoys living with them.
+Она действительно обожает жить с ними. - She really enjoys living with them. / She is really fond of living with them.
 Я особенно увлекаюсь этим. - I am particularly keen on it.
 Она особенно увлекается этим. - She is particularly keen on it.
 Она особенно увлекается музыкой. - She is particularly keen on music.
-Я действительно обожаю эти видеокурсы. - I really enjoy these video courses.
-Они действительно обожают эти видеокурсы. - They really enjoy these video courses.
+Я действительно обожаю эти видеокурсы. - I really enjoy these video courses. / I am really fond of these video courses.
+Они действительно обожают эти видеокурсы. - They really enjoy these video courses. / They are really fond of these video courses.
 Я действительно обожаю тот видеокурс. - I really enjoy that video course. / I am really fond of that video course.
 Ей действительно нравится заниматься благотворительностью. - She really likes doing charity.
 Мне нравится заниматься благотворительностью. - I like doing charity.
 Она действительно ненавидит заниматься благотворительностью. - She really hates doing charity.
 Мне не очень нравится это делать. - I do not really like doing it. / I do not really like to do it.
 Ей не очень нравится это делать. - She does not really like doing it.
-Мне совсем не нравится это делать. - I do not like doing it at all.
+Мне совсем не нравится это делать. - I do not like doing it at all. / I do not like to do it at all.
 Я обожаю читать, потому что это развивает мой ум. - I enjoy reading because it develops my mind.
-Я обожаю читать по-английски, потому что это развивает мой ум. - I enjoy reading in English because it develops my mind.
-Она действительно обожает читать, потому что это развивает её ум. - She really enjoys reading because it develops her mind.
+Я обожаю читать по-английски, потому что это развивает мой ум. - I enjoy reading in English because it develops my mind. / I am fond of reading in English because it develops my mind.
+Она действительно обожает читать, потому что это развивает её ум. - She really enjoys reading because it develops her mind. / She is really fond of reading because it develops her mind.
 Он ненавидит обсуждать это. - He hates discussing it.
 Я ненавижу обсуждать это. - I hate discussing it.
 Она ненавидит обсуждать это. - She hates discussing it.
 Я увлекаюсь изучением английского. - I am keen on learning English.
 Мне действительно не нравится говорить о таких вещах. - I do not really like talking about such things. / I do not really like to talk about such things.
 Он действительно обожает помогать другим людям. - He really enjoys helping other people.
-Я действительно обожаю плавать. - I really enjoy swimming.
+Я действительно обожаю плавать. - I really enjoy swimming. / I am really fond of swimming.
 Я особенно увлекаюсь путешествиями. - I am particularly keen on travelling.
-Я обожаю изучать английский, потому что это так интересно. - I enjoy learning English because it is so interesting.
+Я обожаю изучать английский, потому что это так интересно. - I enjoy learning English because it is so interesting. / I am fond of learning English because it is so interesting.
 Я действительно люблю делать это. - I really love doing it. / I am really fond of doing it.
 Мне не нравится задавать слишком много вопросов. - I do not like asking too many questions. / I do not like to ask too many questions.
 Ей нравится слушать музыку. - She likes listening to music.
@@ -103,4 +103,4 @@
 Я ненавижу делать это. - I hate doing it.
 Я действительно обожаю кататься на велосипеде. - I really enjoy cycling. / I really enjoy riding a bike. / I really enjoy riding a bicycle.
 Я люблю делать это. - I love doing it. / I am fond of doing it.
-Я обожаю делать эти упражнения, потому что они чрезвычайно полезны. - I enjoy doing these exercises because they are extremely useful.
+Я обожаю делать эти упражнения, потому что они чрезвычайно полезны. - I enjoy doing these exercises because they are extremely useful. / I am fond of doing these exercises because they are extremely useful.
