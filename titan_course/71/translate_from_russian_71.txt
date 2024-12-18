@@ -11,7 +11,7 @@
 Моему другу не нравится делать покупки. - My friend does not like doing the shopping.
 Я ненавижу ничего не делать, потому что это настоящая пустая трата времени, и мы не можем вернуть его назад. - I hate doing nothing because it is a real waste of time and we cannot turn it back.
 Моему дедушке нравится читать газеты и журналы. - My grandfather likes reading newspapers and magazines.
-Моя бабушка обожает садоводство. - My grandmother enjoys gardening. / My granny enjoys gardening.
+Моя бабушка обожает садоводство. - My grandmother enjoys gardening. / My granny enjoys gardening. / My grandmother is fond of gardening. / My granny is fond 0f gardening.
 Я обожаю заниматься этим в своё свободное время. - I enjoy doing it in my free time. / I enjoy doing it in my spare time. / I am fond of doing it in my free time. / I am fond of doing it in my spare time.
 Мне нравится читать книги на английском. - I like reading books in English.
 Я обожаю говорить по-английски. - I enjoy speaking English.
@@ -69,7 +69,7 @@
 Она любит читать. - She loves reading. / She likes reading.
 Ей нравится рисовать. - She likes drawing.
 Я действительно обожаю работать с тобой. - I really enjoy working with you. / I am really fond of working with you.
-Он действительно обожает работать с тобой. - He really enjoys working with you.
+Он действительно обожает работать с тобой. - He really enjoys working with you. / He is really fond of working with you.
 Она действительно обожает жить с ними. - She really enjoys living with them. / She is really fond of living with them.
 Я особенно увлекаюсь этим. - I am particularly keen on it.
 Она особенно увлекается этим. - She is particularly keen on it.
