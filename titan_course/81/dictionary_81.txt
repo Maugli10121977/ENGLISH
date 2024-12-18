@@ -15,5 +15,6 @@ require - требовать
 rest - отдых
 satisfied (with) - удовлетворённый (чем-либо)
 true - верный, истинный
+truth - правда
 unpleasant - неприятный
 wise - мудрый
