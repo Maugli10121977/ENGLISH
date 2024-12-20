@@ -1,4 +1,4 @@
-.gitignore
+#.gitignore
 *.swp
 titan_course/*/*.mp4
 titan_course/*/*.wav
@@ -7,3 +7,9 @@ scripts/test.py
 scripts/test.sh
 scripts/search_duplicate_in_dictionaries.py
 Robinson_Crusoe/
+#
+elementary/
+pre_intermediate/
+intermediate/
+upper_intermediate/
+advanced/
