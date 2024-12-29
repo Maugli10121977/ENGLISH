@@ -1,0 +1,4 @@
+disappear - исчезать
+enter - войти; поступить
+operation - операция
+vacation - отпуск
