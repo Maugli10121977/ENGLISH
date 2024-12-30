@@ -4,4 +4,3 @@ https://www.youtube.com/watch?v=lRQbLXODQFU&list=PLD6SPjEPomasNzHuJpcS1Fxa2PYf1B
 # Description
 Future Simple.
 Специальные вопросы.
-
