@@ -1,105 +1,105 @@
-Он не ел рис. - 
-Мой брат не помог мне. - 
-Я не был дома вчера. - 
-Они были со мной в тот момент. - 
-Этих денег было недостаточно. - 
-Мальки не были уставшими. - 
-Посылка не была тяжёлой. - 
-Она не могла ответить на мой звонок. - 
-Он не окончил университет. - 
-Я не был на работе вчера. - 
-Квартира была недостаточно светлой. - 
-Этих денег было недостаточно. - 
-Она не хотела стать учителем. - 
-Мы не тратили впустую время. - 
-Они не пошли на пляж. - 
-Эта компания не принадлежала ему. - 
-Они не хотели переезжать в другую страну. - 
-Это было совсем недорого. - 
-Он не жил в Сединённых Штатах. - 
-Её не было в университете. - 
-Мы не ходили на море вчера. - 
-Поездка была совсем не утомительной. - 
-Я не хотел платить за всё. - 
-Того времени казалось недостаточно. - 
-Этой практики мне не было достаточно. - 
-Он не ел рис. - 
-Это не имело значения. - 
-Рис не был свежим. - 
-Стиль не был современным. - 
-Билеты не были дешёвыми. - 
-Эта вещь не имела значения. - 
-Музыкант не был богатым. - 
-Ему не нужна была какая-либо помощь. - 
-Вирус не был опасным. - 
-Сумка не была пустой. - 
-Он не был на той вечеринке. - 
-Я не пошёл на работу вчера. - 
-Ребёнок не закончил свою домашнюю работу. - 
-Они не были на пляже. - 
-У меня совсем не было времени. - 
-Он не пришёл на ту вечеринку. - 
-Это не было важно для  меня. - 
-Я не платил за своё образование. - 
-Он не нашёл новую работу. - 
-Я не был в Соединённых Штатах в прошлом году. - 
-Машина не была достаточно надёжной. - 
-Это не было так неожиданно для меня. - 
-Мужчина не выглядел уставшим. - 
-Качество было недостаточно хорошим. - 
-Учитель не объяснил все правила. - 
-Это не привлекло внимания людей в начале. - 
-Компания не была удовлетворена качеством этих продуктов. - 
-К сожалению, тех денег было недостаточно, чтобы купить квартиру. - 
-Он не перевёл весь текст. - 
-Тех знаний было недостаточно для того, чтобы сдать экзамен. - 
-Урок не казался таким утомительным. - 
-Презентация не была достаточно красочной. - 
-Эта сумма денег не была достаточно большой. - 
-Их ответ не был предсказуемым. - 
-Это не был неожиданный результат. - 
-Я не чувствовал себя уставшим. - 
-Полиция не была на станции. - 
-Полиция не была на этой станции. - 
-Полиции не было там. - 
-Я не прочёл книгу. - 
-Он не читал все эти книги. - 
-Я не читал тот журнал. - 
-Полиция не прибыла туда. - 
-Полиция не прибыла туда вовремя. - 
-Полиция не прибыла туда вчера. - 
-Мальчик вовсе не был уставшим. - 
-Мальчики совсем не были уставшими. - 
-Тот мальчик не был уставшим. - 
-Иллюстрации не были достаточно красочными. - 
-Эти иллюстрации были достаточно красочными. - 
-Иллюстрация не была достаточно красочной. - 
-Урок не был достаточно интересным. - 
-Его уроки не были интересными. - 
-Уроки не были достаточно полезными. - 
-Было не сложно пройти этот тест. - 
-Было не легко сдать этот тест. - 
-Было не так сложно сдать этот экзамен. - 
-Та новость вовсе не удивила меня. - 
-Та новость не удивила меня. - 
-Та новость вовсе не шокировала их. - 
-Результат не был таким неожиданным для нас. - 
-Результаты не были такими неожиданными для меня. - 
-Для него это не было так неожиданно. - 
-Было не так легко сдать экзамен. - 
-Ему было не так легко сдать этот экзамен. - 
-Было не так легко сдать эти экзамены. - 
-Результаты совсем не были предсказуемыми. - 
-Описание не было достаточно точным. - 
-Этот результат не был таким предсказуемым. - 
-Полиция не прибыла немедленно на станцию. - 
-Перевод не был достаточно точным. - 
-Я думаю, это не было пустой тратой времени. - 
-У меня не было этой возможности, когда я был ребёнком. - 
-Объяснения не были достаточно ясными. - 
-Объяснение не казалось таким простым. - 
-Я не хотел смотреть весь фильм. - 
-Эта новость не была столь удивительной. - 
-Мальчики не были уставшими. - 
-Тренировка была совсем не утомительной. - 
-Я не хотел тратить время впустую. - 
+Он не ел рис. - He did not eat rice.
+Мой брат не помог мне. - My brother did not help me.
+Я не был дома вчера. - I was not at home yesterday.
+Они не были со мной в тот момент. - They were not with me at that moment.
+Этих денег было недостаточно. - This money was not enough.
+Мальчики не были уставшими. - The boys were not tired.
+Посылка не была тяжёлой. - The parcel was not heavy.
+Она не могла ответить на мой звонок. - She could not answer my call.
+Он не окончил университет. - He did not graduate from university.
+Я не был на работе вчера. - I was not at work yeasterday.
+Квартира была недостаточно светлой. - The apartment was not light enough. / The flat was not light enough.
+Этих денег было недостаточно. - This money was not enough.
+Она не хотела стать учителем. - She did not want to become a teacher.
+Мы не тратили впустую время. - We did not waste time.
+Они не пошли на пляж. - They did not go to the beach.
+Эта компания не принадлежала ему. - This company did not belong to him.
+Они не хотели переезжать в другую страну. - They did not want to move to another country.
+Это было совсем недорого. - It was not expensive at all. / It was inexpensive at all.
+Он не жил в Сединённых Штатах. - He did not live in the United States. / He did not live in the U.S. / He did not live in the USA.
+Её не было в университете. - She was not at university.
+Мы не ходили на море вчера. - We did not go to the sea yesterdaay.
+Поездка была совсем не утомительной. - The trip was not tiring at all.
+Я не хотел платить за всё. - I did not want to pay for everything.
+Того времени казалось недостаточно. - That time did not seem enough.
+Этой практики мне не было достаточно. - Thit practice was not enough for me. / This practise was not enough for me.
+Он не ел рис. - He did not eat rice.
+Это не имело значения. - It did not matter.
+Рис не был свежим. - The rice was not fresh.
+Стиль не был современным. - The style was not modern.
+Билеты не были дешёвыми. - The tickets were not cheap.
+Эта вещь не имела значения. - This thing did not matter.
+Музыкант не был богатым. - The musician was not rich.
+Ему не нужна была какая-либо помощь. - He  did not need any help.
+Вирус не был опасным. - The virus was not dangerous.
+Сумка не была пустой. - The bag was not empty.
+Он не был на той вечеринке. - He was not at that party.
+Я не пошёл на работу вчера. - I did not go to work yesterday.
+Ребёнок не закончил свою домашнюю работу. - The child did not finish his homework. / The kid did not finish his homework.
+Они не были на пляже. - They were not at the beach.
+У меня совсем не было времени. - I did not have time at all.
+Он не пришёл на ту вечеринку. - He did not come to that party.
+Это не было важно для меня. - I was not important for me.
+Я не платил за своё образование. - I did not pay for my education.
+Он не нашёл новую работу. - He did not find a new job.
+Я не был в Соединённых Штатах в прошлом году. - I was not in the United States last year.
+Машина не была достаточно надёжной. - The car was not reliable enough.
+Это не было так неожиданно для меня. - It was not so unexpected for me.
+Мужчина не выглядел уставшим. - The man did not look tired.
+Качество было недостаточно хорошим. - The quality was not good enough.
+Учитель не объяснил все правила. - The teacher did not explain all the rules.
+Это не привлекло внимания людей в начале. - It did not attract people's attention in the beginning.
+Компания не была удовлетворена качеством этих продуктов. - The company was not satisfied with the quality of these products.
+К сожалению, тех денег было недостаточно, чтобы купить квартиру. - Unfortunately, that money was not enough to buy a flat. / Unfortunately, that money was not enough to buy an apartment.
+Он не перевёл весь текст. - He did not translate all the text.
+Тех знаний было недостаточно для того, чтобы сдать экзамен. - That knowledge was not enough to pass the exam.
+Урок не казался таким утомительным. - The lesson did not seem so tiring.
+Презентация не была достаточно красочной. - The presentation was not colourful enough.
+Эта сумма денег не была достаточно большой. - This sum of money was not big enough.
+Их ответ не был предсказуемым. - Their answer was not predictable.
+Это не был неожиданный результат. - It was not an unexpected result.
+Я не чувствовал себя уставшим. - I did not feel tired.
+Полиция не была на станции. - The police were not at the station.
+Полиция не была на этой станции. - The police were not at this station.
+Полиции не было там. - The pollce were not there.
+Я не прочёл книгу. - I did not read the book.
+Он не читал все эти книги. - He did not read all these books.
+Я не читал тот журнал. - I did not read that magazine.
+Полиция не прибыла туда. - The police did not arrive there.
+Полиция не прибыла туда вовремя. - The police did not arrive there on time.
+Полиция не прибыла туда вчера. - The police did not arrive there yesterday.
+Мальчик вовсе не был уставшим. - The boy was not tired at all.
+Мальчики совсем не были уставшими. - The boys were not tired at all.
+Тот мальчик не был уставшим. - That boy was not tired.
+Иллюстрации не были достаточно красочными. - The illustrations were not colourful enough.
+Эти иллюстрации были достаточно красочными. - These illustrations were colourful enough.
+Иллюстрация не была красочной. - The illustration was not colourful.
+Урок не был достаточно интересным. - The lesson was not interesting enough.
+Его уроки не были интересными. - His lessons were not interesting.
+Уроки не были достаточно полезными. - The lessons were not useful enough.
+Было не сложно пройти этот тест. - It was not difficult to pass this test.
+Было не легко сдать этот тест. - It was not easy to pass this test.
+Было не так сложно сдать этот экзамен. - It was not so difficult to pass this exam.
+Та новость вовсе не удивила меня. - That news did not surprise me at all.
+Та новость не удивила меня. - That news did not surprise me.
+Та новость вовсе не шокировала их. - That news did not shock them at all.
+Результат не был таким неожиданным для нас. - The result was not so unexpected for us.
+Результаты не были такими неожиданными для меня. - The results were not so unexpected for me.
+Для него это не было так неожиданно. - It was not so unexpected for him.
+Было не так легко сдать экзамен. - It was not so easy to pass the exam.
+Ему было не так легко сдать этот экзамен. - It was not so easy for him to pass this exam.
+Было не так легко сдать эти экзамены. - It was not so easy to pass these exams.
+Результаты совсем не были предсказуемыми. - The results were not predictable at all.
+Описание не было достаточно точным. - The description was not accurate enough.
+Этот результат не был таким предсказуемым. - This result was not so predictable.
+Полиция не прибыла немедленно на станцию. - The police did not arrive at the station immediately.
+Перевод не был достаточно точным. - The translation was not accurate enough.
+Я думаю, это не было пустой тратой времени. - I think it was not a waste of time.
+У меня не было этой возможности, когда я был ребёнком. - I did not have this opportunity when I was a child. / I did not have this opportunity when I was a kid.
+Объяснения не были достаточно ясными. - The explanations were not clear enough.
+Объяснение не казалось таким простым. - The explanation did not seem so simple.
+Я не хотел смотреть весь фильм. - I did not want to watch all the movie. / I did not want to watch all the film.
+Эта новость не была столь удивительной. - This news was not so surprising. / This news was not so amazing.
+Мальчики не были уставшими. - The boys were not tired.
+Тренировка была совсем не утомительной. - The training was not tiring at all.
+Я не хотел тратить время впустую. - I did not want to waste time.
