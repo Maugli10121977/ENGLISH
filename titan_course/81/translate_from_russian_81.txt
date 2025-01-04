@@ -18,8 +18,8 @@
 Она действительно боялась этого. - She was really afraid of it.
 Я отдыхал вечером. - I had a rest in the evening. / I relaxed in the evening.
 Еда была очень вкусной. - The food was very tasty.
-Я написал короткое эссе. - I wrote a short essay.
-Он написал сочинение. - He wrote a composition. / He wrote an essay.
+Я написал короткое эссе. - I wrote a short essay. / I wrote the short essay.
+Он написал сочинение. - He wrote a composition. / He wrote an essay. / He wrote the composition. / He wrote the essay.
 Тренировка была очень интенсивной. - The training was very intensive.
 Это была долгая история. - It was a long story.
 Забор был коричневый. - The fence was brown.
@@ -104,5 +104,5 @@
 Я часто опаздывал. - I was often late.
 Я верил, что это была правда. - I believed that it was true. / I believed that it was the truth.
 Это было необходимо сделать. - It was necessary to do. / It was necessary to do it.
-Он стал американским гражданином. - He bacame an American citizen.
+Он стал американским гражданином. - He became an American citizen.
 Вам действительно повезло. - You were really lucky.
