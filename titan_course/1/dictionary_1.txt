@@ -64,7 +64,7 @@ book - книга; бронировать
 more - больше
 much - много (для неисчисляемых; в отрицании или вопросе); сильно
 less - меньше
-practice, practise - практика
+practice, practise - практиковать; практика
 these - эти
 those - те
 usually - обычно
