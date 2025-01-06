@@ -54,12 +54,12 @@ try:
     else:
         all_ru_sentences = list(dict_all_sentences.keys())
         shuffle(all_ru_sentences)
-        print(f'Найдено {len(all_ru_sentences)} предложений.')
+        print(f'Найдено {len(all_ru_sentences)} предложений (уроки с {start_lesson} по {stop_lesson}).')
         print(f'Переведёшь {count} из них? =)')
         print('')
         date_time = datetime.now()
         training_history.writelines('*' * 40 + '\n')
-        training_history.writelines(date_time.strftime("%Y-%m-%d %H:%M:%S\n\n"))
+        training_history.writelines(f'{date_time.strftime("%Y-%m-%d %H:%M:%S")} (уроки с {start_lesson} по {stop_lesson}\n\n')
         training_history.flush()
         for ru_sentence in all_ru_sentences:
             if counter <= count:

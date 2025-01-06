@@ -12,9 +12,10 @@ def h():
     print('\t--start Первый урок для включения предложений в список.')
     print('\t--stop Последний урок для включения предложений в список.')
 
+root_directory = '/home/ieroglif/ENGLISH/titan_course'
 dict_all_sentences = dict()
 start_lesson = 1
-stop_lesson = len(os.listdir())-2 # все уроки
+stop_lesson = len(os.listdir(f'{root_directory}'))-2 # все уроки
 if '--start' in sys.argv:
     start_lesson = int(sys.argv[sys.argv.index('--start')+1])
 if '--stop' in sys.argv:
@@ -27,7 +28,6 @@ counter_wrong_answers = 0
 number_lesson = int(start_lesson)
 history_mistakes = {}
 
-root_directory = '/home/ieroglif/ENGLISH/titan_course'
 if f'training_history.txt' not in os.listdir(f'{root_directory}/docs/'):
     training_history = open(f'{root_directory}/docs/training_history.txt','w')
     training_history.close(); del training_history
@@ -54,12 +54,12 @@ try:
     else:
         all_ru_sentences = list(dict_all_sentences.keys())
         shuffle(all_ru_sentences)
-        print(f'Найдено {len(all_ru_sentences)} предложений.')
+        print(f'Найдено {len(all_ru_sentences)} предложений (уроки с {start_lesson} по {stop_lesson}).')
         print(f'Переведёшь {count} из них? =)')
         print('')
         date_time = datetime.now()
         training_history.writelines('*' * 40 + '\n')
-        training_history.writelines(date_time.strftime("%Y-%m-%d %H:%M:%S\n\n"))
+        training_history.writelines(f'{date_time.strftime("%Y-%m-%d %H:%M:%S")} (уроки с {start_lesson} по {stop_lesson})\n\n')
         training_history.flush()
         for ru_sentence in all_ru_sentences:
             if counter <= count:
