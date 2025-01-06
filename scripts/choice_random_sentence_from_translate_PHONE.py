@@ -59,7 +59,7 @@ try:
         print('')
         date_time = datetime.now()
         training_history.writelines('*' * 40 + '\n')
-        training_history.writelines(f'{date_time.strftime("%Y-%m-%d %H:%M:%S")} (уроки с {start_lesson} по {stop_lesson}\n\n')
+        training_history.writelines(f'{date_time.strftime("%Y-%m-%d %H:%M:%S")} (уроки с {start_lesson} по {stop_lesson})\n\n')
         training_history.flush()
         for ru_sentence in all_ru_sentences:
             if counter <= count:

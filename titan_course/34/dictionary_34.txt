@@ -1,5 +1,5 @@
 happily - счастливо
-include - включать
+include (in) - включать (в)
 interview - интервью
 left - налево; левый
 on the left - слева
