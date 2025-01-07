@@ -4,6 +4,7 @@ cheek - щека
 during - во время, в течение
 enemy - враг
 farm - ферма
+finally - наконец
 lip - губа
 map - карта
 mirror - зеркало
@@ -12,3 +13,6 @@ someone - кто-то
 somebody - кто-то
 tour - тур
 thought - мысль
+for free - бесплатно
+at last - наконец
+a long time ago - давно
