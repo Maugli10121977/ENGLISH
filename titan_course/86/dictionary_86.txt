@@ -18,3 +18,4 @@ subtitle - подзаголовок
 subtitles - субтитры
 type - печатать; тип
 war - война
+for about - около (о времени)
