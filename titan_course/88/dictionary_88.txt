@@ -6,7 +6,7 @@ gate - ворота
 highest - высший
 instruction - инструкция
 lid - крышка
-midday - полдень
+([at|before|after]) midday - ([в|до|после]) полдень
 neighbour - сосед
-noon - полдень
+([at|before|after]) noon - ([в|до|после]) полдень
 stone - камень

@@ -5,7 +5,7 @@ although, though - хотя
 analytical - аналитеческий
 chapter - глава
 majority - большинство
-midnight - полночь
+([at|before|after]) midnight - ([в|до|после]) полночь
 paint - (по)красить
 recovery - восстановление; выздоровление
 release - выпускать; выпуск, релиз
