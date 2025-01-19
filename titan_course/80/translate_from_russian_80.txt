@@ -40,7 +40,7 @@
 Какой у него будет новый адрес? - What will his new address be? / What new address will he have?
 Во сколько ты завтра встанешь? - What time will you get up tomorrow?
 Когда он женится на ней? - When will he marry her?
-Сколько будет стоить учиться в Соединённых Штатах? - How much will it cost to study in the United States? / How much will it be to study in the United States?
+Сколько будет стоить учиться в Соединённых Штатах? - How much will it cost to study in the United States? / How much will it be to study in the United States? / How much will it cost to study in the U.S.? / How much will it be to study in the U.S.?
 Почему это будет лучшим решением этой проблемы? - Why will it be the best solution to this problem?
 Сколько будет стоить арендовать такого рода машину? - How much will be cost to rent this kind of car? / How much will it be to rent this kind of car?
 Какие упражннения ты будешь делать, чтобы увеличить свой словарный запас? - What exercises will you do to increase your vocabulary?
@@ -85,7 +85,7 @@
 Когда закончатся занятия? - When will the classes finish? / When will the classes end?
 Во сколько начнётся урок? - What time will the lesson start? / What time will the lesson begin?
 Когда ты окончишь этот университет? - When will you graduate from this university?
-Сколько будет стоить жить в Соединённом Королевстве? - How much will it cost to live in the United Kingdom? / How much will it be to live in the United Kingdom? / How much will it cost to live in the U.K.? / How much will it be to cost to live in the U.K.?
+Сколько будет стоить жить в Соединённом Королевстве? - How much will it cost to live in the United Kingdom? / How much will it be to live in the United Kingdom? / How much will it cost to live in the U.K.? / How much will it be to live in the U.K.?
 Кто сможет сделать это? - Who will be able to do it?
 Сколько денег мне нужно будет потратить на это? - How much money will I need to spend on it?
 Сколько гостей придут на вечеринку? - How many guests will come to the party?
