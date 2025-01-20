@@ -1,5 +1,5 @@
 ball - мяч
-blow - дуть
+blow - дуть, подуть
 catch - поймать, ловить
 cave - пещера
 grow up - вырасти
@@ -14,3 +14,5 @@ steal - , воровать, красть, украсть
 sudden - внезапный
 treasure - сокровище
 withdraw - снимать (деньги со счёта)
+as fast as possible - как можно быстрее (в движении)
+all of a sudden - внезапно
