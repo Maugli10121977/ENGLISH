@@ -3,4 +3,4 @@ https://www.youtube.com/watch?v=oymwzJ0J-SY&list=PLD6SPjEPomasNzHuJpcS1Fxa2PYf1B
 
 # Description
 Past Simple.
-85 неправильных глаголов. Вопросы, утверждение, отрицание.
+85 неправильных глаголов (часть 1). Вопросы, утверждение, отрицание.
