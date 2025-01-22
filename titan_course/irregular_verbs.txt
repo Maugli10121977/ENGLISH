@@ -2,7 +2,7 @@ be - was / were - been : быть
 become - became - become : становиться
 begin - began - begun : начинать(ся)
 blow - blew - blown : (по)дуть
-break - broke - broken : ломать
+break (down) - broke (down) - broken (down) : ломать(ся); разбивать(ся)
 bring - brought - brought : приносить
 build - built - built : строить
 buy - bought - bought : купить, покупать
@@ -12,15 +12,20 @@ choose - chose - chosen : выбирать
 come - came - come : приходить
 cost - cost - cost : стоить (о цене)
 cut - cut - cut : резать
+deal - dealt - dealt : иметь дела
 do - did - done : делать (дела)
+draw - drew - drawn : рисовать
 drive - drove - driven : водить (авто)
-drink - drank - drunk : пить
+drink - drank - drunk : пить, выпить
 eat - ate - eaten : есть, кушать
 fall - fell - fallen : падать, упасть
+feed - fed - fed: кормить
 feel - felt - felt : чувствовать (себя)
 find - found - found : находить
+fight - fought - fought : бороться, драться, сражаться
 fly - flew - flown : летать
 forget - forgot - forgotten : забывать (о чём-либо)
+forgive - forgave - forgiven : простить, прощать
 get - got - got : получать, получить
 get up - got up - got up : вставать (проснувшись)
 give - gave - given : давать, дать
@@ -31,11 +36,13 @@ hang - hung - hung : вешать, висеть
 hear - heard - heard : слышать
 hide - hid -hid : прятать
 hit - hit -hit : ударить (рукой)
+hurt -hurt - hurt : ушибить(ся), поранить(ся)
 keep - kept - kept : хранить, сохранять; держать, сдерживать
 know - knew - known : знать
 lead - led -led : приводить, привести; лидировать
 learn - learnt - learnt : изучать
 leave - left - left : уезжать, покидать; забывать, оставлять (что-либо где-либо)
+let -let - let : позволять, разрешать (делать [кому-либо] [что-либо])
 lose - lost - lost : терять; проигрывать
 make - made - made : делать (ошибки)
 mean - meant - meant : означать; иметь ввиду
@@ -63,8 +70,9 @@ take - took - taken : брать, взять; принимать
 teach - taught - taught : преподавать, обучать
 tell - told - told : сказать, рассказать, рассказывать (кому-либо)
 think - thought - thought : думать
+throw (away) - threw (away) - thrown (away) : бросать; выбрасывать
 understand - understood - understood : понимать
-wake up - woke up - woken up : просыпаться
+wake (up) - woke (up) - woken (up) : будить; просыпаться
 withdraw - withdrew - withdrawn : снимать (деньги со счёта)
 win - won - won : выигрывать; побеждать
 write - wrote - written : писАть
