@@ -1,4 +1,4 @@
-accident - авария
+accident - авария; несчастный случай
 alcohol - алкоголь
 bill - счёт
 cafe - кафе
