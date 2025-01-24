@@ -1,7 +1,8 @@
 be - was / were - been : быть
 become - became - become : становиться
 begin - began - begun : начинать(ся)
-blow - blew - blown : (по)дуть
+beat - beat - beaten : бить, побить
+blow - blew - blown : дуть, подуть
 break (down) - broke (down) - broken (down) : ломать(ся); разбивать(ся)
 bring - brought - brought : приносить
 build - built - built : строить
@@ -19,10 +20,11 @@ drive - drove - driven : водить (авто)
 drink - drank - drunk : пить, выпить
 eat - ate - eaten : есть, кушать
 fall - fell - fallen : падать, упасть
-feed - fed - fed: кормить
+feed - fed - fed : кормить
 feel - felt - felt : чувствовать (себя)
 find - found - found : находить
 fight - fought - fought : бороться, драться, сражаться
+fit - fit - fit : подходить (по размеру)
 fly - flew - flown : летать
 forget - forgot - forgotten : забывать (о чём-либо)
 forgive - forgave - forgiven : простить, прощать
@@ -34,15 +36,17 @@ grow (up) - grew (up) - grown (up) : (вы)расти
 have - had - had : иметь
 hang - hung - hung : вешать, висеть
 hear - heard - heard : слышать
-hide - hid -hid : прятать
-hit - hit -hit : ударить (рукой)
+hide - hid - hid : прятать
+hit - hit - hit : ударить (рукой)
 hurt -hurt - hurt : ушибить(ся), поранить(ся)
 keep - kept - kept : хранить, сохранять; держать, сдерживать
 know - knew - known : знать
-lead - led -led : приводить, привести; лидировать
+lead - led - led : приводить, привести; лидировать
 learn - learnt - learnt : изучать
 leave - left - left : уезжать, покидать; забывать, оставлять (что-либо где-либо)
-let -let - let : позволять, разрешать (делать [кому-либо] [что-либо])
+lend - lent - lent : одалживать, одолжить
+let - let - let : позволять, разрешать (делать [кому-либо] [что-либо])
+lie (down) - lay (down) - lain (down) : лечь; прилечь
 lose - lost - lost : терять; проигрывать
 make - made - made : делать (ошибки)
 mean - meant - meant : означать; иметь ввиду
@@ -52,6 +56,7 @@ pay - paid - paid : платить (за что-либо, кого-либо)
 put - put - put : ложить, положить; класть
 read - read - read : читать
 ride - rode - ridden : ездить, кататься (на велосипеде, на лошади)
+ring - rang - rung : звонить, звенеть
 run - ran - run : бежать
 say - said - said : говорить, сказать
 see - saw - seen : видеть
@@ -73,6 +78,7 @@ think - thought - thought : думать
 throw (away) - threw (away) - thrown (away) : бросать; выбрасывать
 understand - understood - understood : понимать
 wake (up) - woke (up) - woken (up) : будить; просыпаться
+wear - wore - worn : носить (одежду, обувь)
 withdraw - withdrew - withdrawn : снимать (деньги со счёта)
 win - won - won : выигрывать; побеждать
 write - wrote - written : писАть
