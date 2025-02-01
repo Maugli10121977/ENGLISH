@@ -13,6 +13,6 @@ sportsman - спортмен
 steal - , воровать, красть, украсть
 sudden - внезапный
 treasure - сокровище
-withdraw - снимать (деньги со счёта)
+withdraw (from) - снимать (деньги со счёта)
 as fast as possible - как можно быстрее (в движении)
 all of a sudden - внезапно
