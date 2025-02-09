@@ -1,0 +1,10 @@
+carton - картон; пакет
+dark - тёмный; темно
+list - список
+login - логин
+may - возможно; мочь, можно
+network - сеть
+password - пароль
+performance - представление
+somehow - как-то
+unexpectedly - неожиданно
