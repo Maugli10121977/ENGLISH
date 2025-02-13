@@ -5,6 +5,6 @@ login - логин
 may - возможно; мочь, можно
 network - сеть
 password - пароль
-performance - представление
+performance - производительность; представление, выступление, спектакль
 somehow - как-то
 unexpectedly - неожиданно
