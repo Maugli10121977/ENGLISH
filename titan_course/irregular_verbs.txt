@@ -71,7 +71,7 @@ speak - spoke - spoken : говорить (как-либо; или на како
 stand (up)  - stood (up) - stood (up) : стоять; вставать
 steal - stole - stolen : красть, воровать
 swim - swam - swum : плавать
-take - took - taken : брать, взять; принимать
+take - took - taken : брать, взять; принимать; занимать (что-либо)
 teach - taught - taught : преподавать, обучать
 tell - told - told : сказать, рассказать, рассказывать (кому-либо)
 think - thought - thought : думать
