@@ -10,3 +10,4 @@ low-quality - низкокачественный
 mention - упоминать
 might - возможно
 recognition - признание
+come true - осуществляться
