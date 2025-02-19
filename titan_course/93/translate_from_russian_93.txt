@@ -1,99 +1,99 @@
-Он выпил бутылку молока. - 
-Мой друг преподаёт английский. - 
-Учитель исправил эти ошибки. - 
-Он неожиданно повредил ногу. - 
-Что тебе нравилось делать в свободное время? - 
-Он не хотел извиняться. - 
-Я действительно обожаю путешествовать. - 
-Тебе понравилось представление? - 
-Он вырос в Америке. - 
-Что ты любишь делать в свободное время? - 
-Я вспомнил свой логин. - 
-Мне так сильно понравилось выступление. - 
-Он открыл мне глаза на это. - 
-Ты поделишься этой ссылкой со своими друзьями? - 
-Её родители позволили ей выйти. - 
-Позволь мне сказать это. - 
-Подожди секунду! - 
-Она кормила детей полчаса назад. - 
-Мне очень понравилась эта игра. - 
-Ты поделишься этим со своими друзьями? - 
-Позволь мне сказать тебе одну вещь! - 
-Подожди минуту! - 
-Где ты вырос? - 
-Я вспомнил свой логин и пароль. - 
-Она преподавала нам математику. - 
-Это могло полностью изменить его жизнь. - 
-Я стоял в том месте. - 
-Они делят одну комнату. - 
-Он выпил пакет молока. - 
-Я стоял недалеко от неё. - 
-Цена включает это. - 
-Это действительно задело её чувства. - 
-Как ты предпочитаешь путешествовать? - 
-Я хотел бы извиниться за это. - 
-Он извинился или нет? - 
-Я не хотел ранить её чувства. - 
-Он будет ждать нас? - 
-Я хотел бы выпить немного чая. - 
-Я люблю путешествовать. - 
-Ты исправишь эти ошибки? - 
-Я использую это устройство для других целей. - 
-Он проводит много времени в социальных сетях. - 
-Я хотел быть более независимым. - 
-Они поженились в конце года. - 
-Я скачал последнюю версию этого приложения. - 
-Я вырос в большом городе. - 
-Я хотел иметь результат гораздо лучше. - 
-Я знаю, что мне следует исправить эти ошибки. - 
-Какие вещи тебя интересовали больше? - 
-Я скачал последнюю версию. - 
-Я использую это для других целей. - 
-Какую одежду ты предпочитаешь носить? - 
-Он вырос в той стране. - 
-Они включили моё имя в список. - 
-Не забудь покормить своего кота! - 
-Мы скачали последнюю версию этой программы. - 
-Они купили последнюю версию этой программы. - 
-Тебе нужно скачать последнюю версию этого приложения. - 
-Я думаю, что он откажется делать это. - 
-Она думает, что они откажутся делать это. - 
-Я знаю, что она сделает это с большим удовольствием. - 
-Мой знакомый вырос в деревне. - 
-Мой лучший друг вырос в маленьком городке. - 
-Он возможно займёт первое место. - 
-К сожалению, я занял последнее место. - 
-Я думаю, что она займёт первое место. - 
-Я часто пользуюсь социальными сетями. - 
-Я использую социальные сети довольно часто. - 
-Они часто используют социальные сети. - 
-Эти вещи возможно скоро произойдут. - 
-Эта вещь случится раго или поздно. - 
-Эта вещь возможно скоро случится. - 
-Мы повернули назад, потому что было очень поздно. - 
-Мы повернули назад на перекрёстке. - 
-Мне нужно повернуть назад, потому что очень поздно. - 
-Я вырос в маленьком городке. - 
-Я родился в маленьком городке. - 
-Он вырос в этом городке. - 
-Я не хотел больше ждать этого. - 
-Я не хочу тебя больше ждать. - 
-Тебе не нужно ждать этого. - 
-Какая вещь тебя больше интересует? - 
-Какая вещь его больше интересует? - 
-Какие вещи её больше интересуют? - 
-Ему нужно сделать это к завтрашнему дню. - 
-Они поженились в начале года. - 
-Они возможно как-то разрешат этот конфликт. - 
-Это полностью разрушило мои планы. - 
-Они забыли включить его имя в список. - 
-Какого рода вещи ты предпочитаешь носить? (об одежде) - 
-Я хотел улучшить свой уровень. - 
-Он обычно носил костюм. - 
-Я повернул назад, потому что стало очень темно. - 
-Ты часто пользуешься социальными сетями? - 
-Он как-то может решить эту проблему. - 
-Они поженились очень неожиданно. - 
-Я решил встать. - 
-Это возможно скоро произойдёт. - 
-Мне действительно нравится гулять. - 
+Он выпил бутылку молока. - He drank a bottle of milk.
+Мой друг преподаёт английский. - My friend teaches English.
+Учитель исправил эти ошибки. - The teacher corrected these mistakes.
+Он неожиданно повредил ногу. - He hurt his foot unexpectedly. / He hurt his leg unexpectedly.
+Что тебе нравилось делать в свободное время? - What did you like doing in your free time? / What did you like doing in your spare time?
+Он не хотел извиняться. - He did not want to apologise. / He did not want to apologize.
+Я действительно обожаю путешествовать. - I really enjoy travelling. / I am really fond of travelling.
+Тебе понравилось представление? - Did you like the performance?
+Он вырос в Америке. - He grew up in America.
+Что ты любишь делать в свободное время? - What do you love doing in your free time? / What do you like doing in your free time? / What do you love doing in your spare time? / What do you like doing in your spare time?
+Я вспомнил свой логин. - I remembered my login.
+Мне так сильно понравилось выступление. - I liked the performance so much.
+Он открыл мне глаза на это. - He opened my eyes on it.
+Ты поделишься этой ссылкой со своими друзьями? - Will you share this link with your friends?
+Её родители позволили ей выйти. - Her parents let her go out.
+Позволь мне сказать это. - Let me say it.
+Подожди секунду! - Wait a second!
+Она кормила детей полчаса назад. - She fed the children half an hour ago. / She fed the kids half an hour ago.
+Мне очень понравилась эта игра. - I really liked this game. / I liked this game very much.
+Ты поделишься этим со своими друзьями? - Will you share it with your friends?
+Позволь мне сказать тебе одну вещь! - Let me tell you one thing!
+Подожди минуту! - Wait a minute!
+Где ты вырос? - Where did you grow up?
+Я вспомнил свой логин и пароль. - I remembered my login and password.
+Она преподавала нам математику. - She taught us maths. / She taught us math. / She taught us mathematics.
+Это могло полностью изменить его жизнь. - It could change his life completely.
+Я стоял в том месте. - I stood in that place.
+Они делят одну комнату. - They share one room.
+Он выпил пакет молока. - He drank a carton of milk.
+Я стоял недалеко от неё. - I stood not far from her.
+Цена включает это. - The price includes it.
+Это действительно задело её чувства. - It really hurt her feelings.
+Как ты предпочитаешь путешествовать? - How do you prefer to travel?
+Я хотел бы извиниться за это. - I would like to apologise for it. / I would like to apologize for it.
+Он извинился или нет? - Did he apologise or not? / Did he apologize or not?
+Я не хотел ранить её чувства. - I did not want to hurt her feelings.
+Он будет ждать нас? - Will he wait for us?
+Я хотел бы выпить немного чая. - I would like to drink some tea. / I would like to drink a little tea. / I would like to drink a bit tea.
+Я люблю путешествовать. - I like travelling. / I love travelling. / I am fond of travelling.
+Ты исправишь эти ошибки? - Will you correct these mistakes?
+Я использую это устройство для других целей. - I use this device for other purposes.
+Он проводит много времени в социальных сетях. - He spends a lot of time in social networks. / He spends lots of time in social networks. / He spends many time in social networks.
+Я хотел быть более независимым. - I wanted to be more independent.
+Они поженились в конце года. - They got married at the end of the year.
+Я скачал последнюю версию этого приложения. - I downloaded the latest version of this application. / I downloaded the latest version of this app.
+Я вырос в большом городе. - I grew up in a big city.
+Я хотел иметь результат гораздо лучше. - I wanted to have a much better result.
+Я знаю, что мне следует исправить эти ошибки. - I know that I should correct these mistakes.
+Какие вещи тебя интересовали больше? - What things interested you more? / Which things interested you more?
+Я скачал последнюю версию. - I downloaded the latest version.
+Я использую это для других целей. - I use it for other purposes.
+Какую одежду ты предпочитаешь носить? - What clothes do you prefer to wear?
+Он вырос в той стране. - He grew up in that country.
+Они включили моё имя в список. - They included my name in the list.
+Не забудь покормить своего кота! - Do not forget to feed your cat!
+Мы скачали последнюю версию этой программы. - We downloaded the latest version of this program.
+Они купили последнюю версию этой программы. - They bought the latest version of this program.
+Тебе нужно скачать последнюю версию этого приложения. - You need to download the latest version of this application. / You need to download the latest version of this app.
+Я думаю, что он откажется делать это. - I think that he will refuse to do it.
+Она думает, что они откажутся делать это. - She thinks that they will refuse to do it.
+Я знаю, что она сделает это с большим удовольствием. - I know that she will do it with great pleasure.
+Мой знакомый вырос в деревне. - My acquaintance grew up in a village. / My acquaintance grew up in a country.
+Мой лучший друг вырос в маленьком городке. - My best friend grew up in a small town.
+Он возможно займёт первое место. - He might take the first place. / He may take the first place. / Perhaps, he will take the first place. / Maybe, he will take the first place.
+К сожалению, я занял последнее место. - Unfortunately, I took the last place. / Unluckily, I took the last place. / Unfortunately, I took the final place. / Unluckily, I took the final place.
+Я думаю, что она займёт первое место. - I think that she will take the first place.
+Я часто пользуюсь социальными сетями. - I often use social networks.
+Я использую социальные сети довольно часто. - I use social networks quite often. / I use social networks pretty often.
+Они часто используют социальные сети. - They often use social networks.
+Эти вещи возможно скоро произойдут. - These things might happen soon. / These things may happen soon. / Perhaps, these things will happen soon. / Maybe, these things will happen soon.
+Эта вещь случится рано или поздно. - This thing will happen sooner or later.
+Эта вещь возможно скоро случится. - This thing might happen soon. / This thing may happen soon. / Perhaps, this thing will happen soon. / Maybe, this thing will happen soon.
+Мы повернули назад, потому что было очень поздно. - We turned back because it was very late.
+Мы повернули назад на перекрёстке. - We turned back at the crossroads.
+Мне нужно повернуть назад, потому что очень поздно. - I need to turn back because it is very late.
+Я вырос в маленьком городке. - I grew up in a small town.
+Я родился в маленьком городке. - I was born in a small town.
+Он вырос в этом городке. - He grew up in this town.
+Я не хотел больше ждать этого. - I did not want to wait for it anymore. / I did not want to wait for it any longer.
+Я не хочу тебя больше ждать. - I do not want to wait for you anymore. / I do not want to wait for you any longer.
+Тебе не нужно ждать этого. - You do not need to wait for it.
+Какая вещь тебя больше интересует? - What thing interests you more? / Which thing interests you more?
+Какая вещь его больше интересует? - What thing interests him more? / Which thing interests him more?
+Какие вещи её больше интересуют? - What things interest her more? / Which things interest her more?
+Ему нужно сделать это к завтрашнему дню. - He needs to do it by tomorrow.
+Они поженились в начале года. - They got married at the beginning of the year.
+Они возможно как-то разрешат этот конфликт. - They might resolve this conflict somehow. / They may resolve this conflict somehow. / Perhaps, they will resolve this conflict somehow. / Maybe, they will resolve this conflict somehow.
+Это полностью разрушило мои планы. - It destroyed my plans completely. / It destroyed my plans fully. / It fully destoryed my plans.
+Они забыли включить его имя в список. - They forgot to include his name in the list.
+Какого рода вещи ты предпочитаешь носить? (об одежде) - What kind of clothes do you prefer to wear? / What kind of things do you prefer to wear?
+Я хотел улучшить свой уровень. - I wanted to improve my level.
+Он обычно носил костюм. - He usually wore a suit.
+Я повернул назад, потому что стало очень темно. - I turned back because it became very dark. / I turned back because it got very dark.
+Ты часто пользуешься социальными сетями? - Do you often use social networks?
+Он как-то может решить эту проблему. - He can solve this problem somehow. / He may solve this problem somehow. / He might solve this problem somehow.
+Они поженились очень неожиданно. - They got married very unexpectedly.
+Я решил встать. - I decided to stand up.
+Это возможно скоро произойдёт. - It might happen soon. / It may happen soon. / Perhaps, it will happen soon. / Maybe, it will happen soon.
+Мне действительно нравится гулять. - I really like walking. / I am really fond of walking.
