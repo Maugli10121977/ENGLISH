@@ -7,4 +7,3 @@ Present Simple.
 Конструкции:
 	<Вопр. слово> + are + we/you/they + ... ?
         <Вопр. слово> + is + he/she/it + ... ?
- 
