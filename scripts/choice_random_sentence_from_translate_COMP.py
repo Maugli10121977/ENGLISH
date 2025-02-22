@@ -106,7 +106,7 @@ try:
                     print('')
             if counter == count:
                 training_history.writelines(f'Из {len(all_ru_sentences)} выбранных, {count} предложенных и {counter} решённых предложений {len(history_mistakes)} НЕВЕРНЫ!\n')
-                training_history.writelines(f'Количество введённых символов:   {counter_input_symbols}\n')
+                training_history.writelines(f'Общее количество введённых символов:   {counter_input_symbols}\n')
                 training_history.writelines(f'Общее количество затраченного времени на печать:   {round(measure_speed_result_time, ndigits=1)} сек.\n')
                 training_history.flush()
                 print('\nУпражнение окончено.')

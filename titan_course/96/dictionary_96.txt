@@ -1,4 +1,5 @@
 army - армия
 government - правительство
 (the) nearest - ближайший
+(to be) pleased - (быть) радостным; рад
 territory - территория
