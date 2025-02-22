@@ -9,6 +9,8 @@ def h():
     print('Параметры:')
     print('\t--help Показать эту справку и выйти.')
     print('\t--count Количество предложений для занятия.')
+    print('\t--measure-speed Измерять скорость печати.')
+    print('\t--show-time-every-sentence Показывать время, затраченное на ввод каждого предложения (этот параметр должен применяться совместно с --measure-speed).')
     print('\t--start Первый урок для включения предложений в список.')
     print('\t--stop Последний урок для включения предложений в список.')
 
@@ -26,6 +28,8 @@ counter = 0
 counter_wrong_answers = 0
 number_lesson = int(start_lesson)
 history_mistakes = {}
+measure_speed_result_time = 0
+counter_input_symbols = 0
 
 root_directory = '/data/data/com.termux/files/home/ENGLISH/titan_course'
 if f'training_history.txt' not in os.listdir(f'{root_directory}/docs/'):
@@ -66,7 +70,11 @@ try:
                 counter += 1
                 en_sentence = dict_all_sentences[ru_sentence][1]
                 if en_sentence:
+                    if '--measure-speed' in sys.argv:
+                        t1 = datetime.now().timestamp()
                     answer = input("{0} \u001b[38;5;7m\033[03m\033[02m{1}\033[00m - ".format(counter, ru_sentence)) # counter, ru_sentence
+                    if '--measure-speed' in sys.argv:
+                        t2 = datetime.now().timestamp()
                     if answer not in en_sentence.split(' / '):
                         print("")
                         print("\033[93m{0}\033[06m\033[00m\033[00m".format(f"IT'S WRONG! ({len(all_ru_sentences)} выбраны, {count} предложены, {counter} решены)"))
@@ -85,18 +93,38 @@ try:
                             training_history.flush()
                             history_mistakes[f'{counter_wrong_answers}'] = [f'WRONG - {answer}', f'{ru_sentence}', f'{en_sentence}']
                 else:
+                    if '--measure-speed' in sys.argv:
+                        t1 = datetime.now().timestamp()
                     answer = input("{0} \u001b[38;5;8m\033[03m\033[02m{1}\033[00m - ".format(counter,ru_sentence)) # counter, ru_sentence
+                    if '--measure-speed' in sys.argv:
+                        t2 = datetime.now().timestamp()
+                counter_input_symbols += len(answer)
+                measure_speed_result_time += (t2 - t1)
+                if '--show-time-every-sentence' in sys.argv:
+                    print(f'Количество символов:   {len(answer)}')
+                    print(f'На ввод затрачено сек.:   {round((t2 - t1), ndigits=2)}')
+                    print('')
             if counter == count:
                 training_history.writelines(f'Из {len(all_ru_sentences)} выбранных, {count} предложенных и {counter} решённых предложений {len(history_mistakes)} НЕВЕРНЫ!\n')
+                training_history.writelines(f'Общее количество введённых символов:   {counter_input_symbols}\n')
+                training_history.writelines(f'Общее количество затраченного времени на печать:   {round(measure_speed_result_time, ndigits=1)} сек.\n')
                 training_history.flush()
                 print('\nУпражнение окончено.')
                 print(f'Из {len(all_ru_sentences)} выбранных, {count} предложенных и {counter} решённых предложений {len(history_mistakes)} НЕВЕРНЫ!')
+                print(f'Общее количество введённых символов:   {counter_input_symbols}\n')
+                print(f'Общее количество затраченного времени на печать:   {round(measure_speed_result_time, ndigits=1)} сек.\n')
                 exit()
             sleep(1)
-except (KeyboardInterrupt, EOFError): # ^C
+except (KeyboardInterrupt, EOFError): # ^C или ^D
     training_history.writelines(f'Из {len(all_ru_sentences)} выбранных, {count} предложенных и {counter} решённых предложений {len(history_mistakes)} НЕВЕРНЫ!\n')
+    training_history.writelines(f'Общее количество введённых символов:   {counter_input_symbols}\n')
+    training_history.writelines(f'Общее количество затраченного времени на печать:   {round(measure_speed_result_time, ndigits=1)} сек.\n')
+    training_history.flush()
     print('\n\nВыполнение упражнения прервано.')
     print(f'Из {len(all_ru_sentences)} выбранных, {count} предложенных и {counter} решённых предложений {len(history_mistakes)} НЕВЕРНЫ!')
+    if '--measure-speed' in sys.argv:
+        print(f'Общее количество введённых символов:   {counter_input_symbols}')
+        print(f'Общее количество затраченного времени на печать:   {round(measure_speed_result_time, ndigits=1)} сек.')
 except (IndexError, ValueError) as error:
     h()
 finally:
