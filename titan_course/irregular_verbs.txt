@@ -52,6 +52,7 @@ make - made - made : делать (ошибки)
 mean - meant - meant : означать; иметь ввиду
 meet - met - met : встречать, встретить
 overcome - overcame - overcome : преодолевать, преодолеть
+overpay - overpaid - overpaid : переплачивать
 pay - paid - paid : платить (за что-либо, кого-либо)
 put - put - put : ложить, положить; класть
 read - read - read : читать
