@@ -10,7 +10,7 @@ firm - фирма
 grow - расти; выращивать
 happier - счастливее
 immigrant - иммигрант
-point ([at|out]) - указывать
+point (at) - указывать (на)
 provide - предоставлять, обеспечивать
 role - роль
 suffer (from) - страдать
