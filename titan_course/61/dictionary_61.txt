@@ -6,7 +6,7 @@ complain (about) - жаловаться
 condition - состояние; условие (чего-либо)
 consider - рассматривать, считать (иметь мнение)
 design - дизайн
-employee - работник
+employee - работник, сотрудник
 employer - работодатель
 exist - существовать
 groupmate - одногруппник

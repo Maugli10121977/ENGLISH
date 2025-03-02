@@ -67,6 +67,7 @@ show - showed - shown : показывать
 sing - sang - sung : петь
 sit (down) - sat (down) - sat (down) : сидеть; садиться
 sleep - slept - slept : спать
+smell - smelt -smelt : пахнуть
 spend - spent - spent : тратить (деньги); проводить (время)
 speak - spoke - spoken : говорить (как-либо; или на каком-то языке)
 spoil - spoilt - spoilt : портить(ся)
