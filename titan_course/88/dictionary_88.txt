@@ -7,6 +7,7 @@ highest - высший
 instruction - инструкция
 lid - крышка
 ([at|before|after]) midday - ([в|до|после]) полдень
+([at|before|after]) noon - ([в|до|после]) полдень
 neighbour - сосед
 ([at|before|after]) noon - ([в|до|после]) полдень
 stone - камень
