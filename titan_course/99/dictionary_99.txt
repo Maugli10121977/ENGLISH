@@ -3,9 +3,10 @@ celebrity - знаменитость
 copybook - тетрадь
 definitely - определённо
 diet - диета
+disease - болезнь (серьёзная)
 human - человеческий; человек
 human rights - права человека
 justice - справедливость
-line - линия
+line - линия; строка
 medical - медицинский
 reaction - реакция
