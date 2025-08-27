@@ -15,7 +15,7 @@ def h():
     print('\t--stop Последний урок для включения предложений в список.')
 
 root_directory = '/data/data/com.termux/files/home/ENGLISH/titan_course'
-os.chdir(f'{root_directory'})
+os.chdir(f'{root_directory}')
 
 dict_all_sentences = dict()
 start_lesson = 1
