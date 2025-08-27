@@ -14,6 +14,9 @@ def h():
     print('\t--start Первый урок для включения предложений в список.')
     print('\t--stop Последний урок для включения предложений в список.')
 
+root_directory = '/data/data/com.termux/files/home/ENGLISH/titan_course'
+os.chdir(f'{root_directory'})
+
 dict_all_sentences = dict()
 start_lesson = 1
 stop_lesson = len(os.listdir())-2 # все уроки
@@ -31,7 +34,6 @@ history_mistakes = {}
 measure_speed_result_time = 0
 counter_input_symbols = 0
 
-root_directory = '/data/data/com.termux/files/home/ENGLISH/titan_course'
 if f'training_history.txt' not in os.listdir(f'{root_directory}/docs/'):
     training_history = open(f'{root_directory}/docs/training_history.txt','w')
     training_history.close(); del training_history
