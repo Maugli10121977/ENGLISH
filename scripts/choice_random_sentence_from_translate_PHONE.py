@@ -84,13 +84,14 @@ try:
                         print(f'На ввод затрачено сек.:   {round((t2 - t1), ndigits=2)}')
                         print('')
                     if answer not in en_sentence.split(' / '):
-                        print("")
+                        #print("")
                         print("\033[93m{0}\033[06m\033[00m\033[00m".format(f"IT'S WRONG! ({len(all_ru_sentences)} выбраны, {count} предложены, {counter} решены)"))
                         print("{0} - \033[91m{1}\033[05m\033[00m".format(ru_sentence, answer))
                         print("Правильный ответ:    ")
                         print(f"{dict_all_sentences[ru_sentence][0]} ({dict_all_sentences[ru_sentence][2]})")
                         print("{0} - \033[92m{1}\033[03m\033[00m".format(ru_sentence, en_sentence))
                         w = input(f'\033[96m{"Записать в историю?    "}\033[00m') # только 'y'
+                        print("")
                         if w == 'y':
                             counter_wrong_answers += 1
                             training_history.writelines(f"IT'S WRONG! ({counter_wrong_answers} из ({len(all_ru_sentences)} выбранных, {count} предложенных, {counter} решённых))\n")
